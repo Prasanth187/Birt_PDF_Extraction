@@ -1,0 +1,4801 @@
+Change in Value Since Inception Date
+
+Account: 44-151500
+Inception Date: Sep 18, 2000
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Initial contribution
+
+Cash 13,450,310
+
+Securities at market value 2,206,551
+
+Beginning value 15,656,861
+
+Change in value
+
+Additional contributions
+
+Cash 5,420,873
+
+Securities at market value 12,316,939
+
+Capital appreciation/depreciation 16,280,509
+
+Ordinary income received 11,060,181
+
+Distributions
+
+Cash (41,237,969)
+
+Asset distributions at market value (296)
+
+Administration expenses (3,654,240)
+
+Fiduciary taxes 0
+
+Other expenses (713)
+
+Total change in value 185,283
+
+Ending value 15,842,144
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 1 of 95Change in Value Since Inception Date P/I
+
+Account: 44-151500
+Inception Date: Sep 18, 2000
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Initial contribution Principal Income
+
+Cash 13,450,310 0
+
+Securities at market value 2,206,551 0
+
+Beginning value 15,656,861 0
+
+Change in value
+
+Additional contributions
+
+Cash 5,203,159 217,714
+
+Securities at market value 12,316,939 0
+
+Capital appreciation/depreciation 16,266,286 14,223
+
+Ordinary income received 4,631,042 6,429,139
+
+Transfers between principal and income 1,871,654 (1,871,654)
+
+Distributions
+
+Cash (36,748,935) (4,489,034)
+
+Asset distributions at market value (296) 0
+
+Administration expenses (3,442,636) (211,604)
+
+Fiduciary taxes 0 0
+
+Other expenses (699) (14)
+
+Total change in value 96,513 88,770
+
+Ending value 15,753,374 88,770
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 2 of 95Realized Gain/Loss
+
+Account: 44-151500
+From:
+To: Aug 31, 2023
+
+GRACE INSTITUTE
+
+% Net
+Next Fiscal Net LT % LT Net ST Total Net Gain/Loss
+Account No. Account Name Year End Market Value Gain/Loss MV Gain/Loss % ST MV Gain/Loss MV Taxability
+
+Norm Sanyour
+44-151500 GRACE INSTITUTE Jun 30, 2024 15,842,144 16,413 0.1 62 0.0 16,475 0.1 Non Taxable
+
+Total for Norm Sanyour 15,842,144 16,413 0.1 62 0.0 16,475 0.1
+
+Total 15,842,144 16,413 0.1 62 0.0 16,475 0.1
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The realized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 3 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ABB LTD CHF0.12 (REGD)
+15 09/18/2020 7108899 544.000 25.30 13,760 38.14 20,748 Separately Managed 6,987
+
+16 09/21/2020 7108899 556.000 24.52 13,634 38.14 21,205 Separately Managed 7,571
+
+Total for ABB LTD CHF0.12 (REGD) 27,394 41,953 14,559
+
+ABBOTT LABORATORIES 3.75% 2026-11-30
+1 11/17/2016 002824BF6 3,000.000 101.25 3,097 96.93 2,908 Separately Managed (130)
+
+Total for ABBOTT LABORATORIES 3.75% 2026-11-30 3,097 2,908 (130)
+
+ABBOTT LABS COM
+4 01/30/2018 ABT 102.000 62.51 6,376 102.90 10,496 Separately Managed 4,120
+
+5 01/31/2018 ABT 205.000 62.25 12,761 102.90 21,095 Separately Managed 8,334
+
+6 01/31/2018 ABT 200.000 62.15 12,430 102.90 20,580 Separately Managed 8,150
+
+7 06/11/2019 ABT 100.000 81.02 8,102 102.90 10,290 Separately Managed 2,188
+
+8 06/17/2019 ABT 100.000 82.06 8,206 102.90 10,290 Separately Managed 2,084
+
+9 06/20/2019 ABT 100.000 84.86 8,486 102.90 10,290 Separately Managed 1,804
+
+10 06/21/2019 ABT 75.000 84.71 6,353 102.90 7,718 Separately Managed 1,364
+
+11 07/16/2019 ABT 100.000 83.15 8,315 102.90 10,290 Separately Managed 1,975
+
+12 07/22/2019 ABT 130.000 88.42 11,495 102.90 13,377 Separately Managed 1,882
+
+Total for ABBOTT LABS COM 82,523 114,425 31,902
+
+ABBVIE INC COM
+1 03/01/2022 ABBV 100.000 146.76 14,676 146.96 14,696 Separately Managed 20
+
+2 03/25/2022 ABBV 85.000 161.25 13,707 146.96 12,492 Separately Managed (1,215)
+
+3 05/18/2022 ABBV 54.000 153.07 8,266 146.96 7,936 Separately Managed (330)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 4 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ABBVIE INC COM
+
+Total for ABBVIE INC COM 36,649 35,123 (1,525)
+
+ADIDAS AG NPV (REGD)
+18 04/17/2023 ADDDF 20.000 176.89 3,538 199.98 4,000 Separately Managed 462
+
+19 04/17/2023 ADDDF 18.000 176.37 3,175 199.98 3,600 Separately Managed 425
+
+20 04/17/2023 ADDDF 72.000 176.42 12,702 199.98 14,398 Separately Managed 1,696
+
+21 04/18/2023 ADDDF 56.000 176.79 9,900 199.98 11,199 Separately Managed 1,298
+
+22 04/18/2023 ADDDF 19.000 177.66 3,376 199.98 3,800 Separately Managed 424
+
+Total for ADIDAS AG NPV (REGD) 32,691 36,996 4,305
+
+ADOBE INC 1.9% 2025-02-01
+1 01/22/2020 00724PAB5 3,000.000 99.94 3,003 95.51 2,865 Separately Managed (133)
+
+2 01/23/2020 00724PAB5 4,000.000 100.00 4,000 95.51 3,821 Separately Managed (179)
+
+3 01/27/2020 00724PAB5 2,000.000 100.12 1,996 95.51 1,910 Separately Managed (92)
+
+Total for ADOBE INC 1.9% 2025-02-01 8,999 8,596 (404)
+
+ADOBE INC COM
+1 01/16/2019 ADBE 31.000 241.27 7,479 559.34 17,340 Separately Managed 9,860
+
+Total for ADOBE INC COM 7,479 17,340 9,860
+
+AES CORP COM
+9 12/18/2017 AES 100.000 10.77 1,077 17.93 1,793 Separately Managed 716
+
+11 12/18/2017 AES 5.000 10.79 54 17.93 90 Separately Managed 36
+
+12 12/19/2017 AES 200.000 10.72 2,144 17.93 3,586 Separately Managed 1,442
+
+14 12/19/2017 AES 510.000 10.75 5,482 17.93 9,144 Separately Managed 3,662
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 5 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+AES CORP COM
+
+15 06/04/2018 AES 660.000 12.95 8,549 17.93 11,834 Separately Managed 3,285
+
+16 08/14/2020 AES 693.000 17.56 12,172 17.93 12,425 Separately Managed 253
+
+Total for AES CORP COM 29,478 38,872 9,394
+
+AIA GROUP LTD
+6 01/13/2011 B4TX8S1 13,015.000 2.80 36,491 9.08 118,162 Separately Managed 81,671
+
+Total for AIA GROUP LTD 36,491 118,162 81,671
+
+AIR LIQUIDE(L')
+9 09/21/2001 B1YXBJ7 182.312 0.00 0 180.93 32,987 Separately Managed 32,987
+
+10 09/28/2021 B1YXBJ7 40.636 151.71 6,165 180.93 7,352 Separately Managed 1,188
+
+11 11/17/2021 B1YXBJ7 21.965 157.27 3,454 180.93 3,974 Separately Managed 520
+
+12 11/17/2021 B1YXBJ7 32.948 157.09 5,176 180.93 5,961 Separately Managed 786
+
+13 11/18/2021 B1YXBJ7 38.439 157.82 6,067 180.93 6,955 Separately Managed 888
+
+14 11/19/2021 B1YXBJ7 30.751 157.50 4,843 180.93 5,564 Separately Managed 721
+
+15 11/23/2021 B1YXBJ7 32.949 157.24 5,181 180.93 5,962 Separately Managed 781
+
+16 01/26/2023 B1YXBJ7 17.000 159.33 2,709 180.93 3,076 Separately Managed 367
+
+17 01/27/2023 B1YXBJ7 16.000 160.10 2,562 180.93 2,895 Separately Managed 333
+
+18 01/30/2023 B1YXBJ7 3.000 160.45 481 180.93 543 Separately Managed 61
+
+19 01/30/2023 B1YXBJ7 17.000 160.14 2,722 180.93 3,076 Separately Managed 354
+
+Total for AIR LIQUIDE(L') 39,360 78,345 38,985
+
+AIR PRODUCTS AND CHEMICALS INC 1.5% 2025-10-15
+1 04/28/2020 009158BB1 8,000.000 100.27 7,987 92.75 7,420 Separately Managed (602)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 6 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+AIR PRODUCTS AND CHEMICALS INC 1.5% 2025-10-15
+
+2 05/08/2020 009158BB1 2,000.000 100.53 1,994 92.75 1,855 Separately Managed (156)
+
+Total for AIR PRODUCTS AND CHEMICALS INC 1.5% 2025-10-15 9,981 9,275 (758)
+
+AIRBUS SE
+44 10/17/2016 4012250 145.000 57.21 8,295 146.80 21,286 Separately Managed 12,991
+
+45 10/17/2016 4012250 482.000 57.92 27,916 146.80 70,757 Separately Managed 42,842
+
+Total for AIRBUS SE 36,211 92,043 55,833
+
+ALABAMA POWER CO 3.75% 2027-08-12
+1 08/09/2022 010392FY9 20,000.000 99.93 19,990 95.35 19,070 Separately Managed (917)
+
+Total for ALABAMA POWER CO 3.75% 2027-08-12 19,990 19,070 (917)
+
+ALEXANDRIA REAL ESTATE EQUITY INC 1.875% 2033-02-01
+1 07/29/2020 015271AV1 7,000.000 99.85 6,993 73.82 5,167 Separately Managed (1,822)
+
+Total for ALEXANDRIA REAL ESTATE EQUITY INC 1.875% 2033-02-01 6,993 5,167 (1,822)
+
+ALLSTATE CORP 0.75% 2025-12-15
+1 11/19/2020 020002BH3 7,000.000 99.99 7,000 90.22 6,315 Separately Managed (684)
+
+Total for ALLSTATE CORP 0.75% 2025-12-15 7,000 6,315 (684)
+
+ALLSTATE CORP 3.28% 2026-12-15
+1 12/01/2016 020002BD2 10,000.000 99.95 10,003 94.49 9,449 Separately Managed (546)
+
+Total for ALLSTATE CORP 3.28% 2026-12-15 10,003 9,449 (546)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 7 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ALPHABET INC CAP STK CL A
+1 02/26/2008 GOOGL 780.000 11.58 9,032 136.17 106,213 Separately Managed 97,180
+
+4 02/13/2023 GOOGL 255.000 94.56 24,113 136.17 34,723 Separately Managed 10,610
+
+Total for ALPHABET INC CAP STK CL A 33,145 140,936 107,791
+
+ALPHABET INC CAP STK CL C
+1 11/24/2008 GOOG 380.000 6.37 2,421 137.35 52,193 Separately Managed 49,772
+
+2 03/23/2023 GOOG 72.000 105.80 7,618 137.35 9,889 Separately Managed 2,271
+
+Total for ALPHABET INC CAP STK CL C 10,039 62,082 52,044
+
+ALTRIA GROUP INC 2.35% 2025-05-06
+1 05/05/2020 02209SBH5 14,000.000 100.37 13,949 94.65 13,252 Separately Managed (801)
+
+Total for ALTRIA GROUP INC 2.35% 2025-05-06 13,949 13,252 (801)
+
+ALTRIA GROUP INC 4.4% 2026-02-14
+1 02/12/2019 02209SBC6 3,000.000 99.92 3,001 97.80 2,934 Separately Managed (63)
+
+Total for ALTRIA GROUP INC 4.4% 2026-02-14 3,001 2,934 (63)
+
+AMADEUS IT GROUP EUR
+11 02/08/2022 B3MSM28 65.000 66.51 4,323 68.64 4,462 Separately Managed 138
+
+12 02/08/2022 B3MSM28 71.000 65.22 4,630 68.64 4,873 Separately Managed 243
+
+13 03/17/2022 B3MSM28 44.000 60.13 2,646 68.64 3,020 Separately Managed 374
+
+14 02/08/2022 B3MSM28 21.000 65.56 1,377 68.64 1,441 Separately Managed 65
+
+15 03/17/2022 B3MSM28 98.000 60.27 5,907 68.64 6,727 Separately Managed 820
+
+16 03/18/2022 B3MSM28 117.000 60.68 7,099 68.64 8,031 Separately Managed 931
+
+17 03/18/2022 B3MSM28 110.000 59.72 6,569 68.64 7,550 Separately Managed 981
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 8 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+AMADEUS IT GROUP EUR
+
+18 03/21/2022 B3MSM28 108.000 61.13 6,602 68.64 7,413 Separately Managed 811
+
+19 12/09/2022 B3MSM28 22.000 55.17 1,214 68.64 1,510 Separately Managed 296
+
+20 01/09/2023 B3MSM28 46.000 58.70 2,700 68.64 3,157 Separately Managed 457
+
+21 01/09/2023 B3MSM28 51.000 58.70 2,994 68.64 3,501 Separately Managed 507
+
+22 01/11/2023 B3MSM28 50.000 59.09 2,955 68.64 3,432 Separately Managed 477
+
+23 01/11/2023 B3MSM28 28.000 59.18 1,657 68.64 1,922 Separately Managed 265
+
+24 01/11/2023 B3MSM28 144.000 59.30 8,539 68.64 9,884 Separately Managed 1,345
+
+25 03/02/2023 B3MSM28 31.000 65.11 2,018 68.64 2,128 Separately Managed 109
+
+Total for AMADEUS IT GROUP EUR 61,230 69,051 7,821
+
+AMAZON COM INC COM
+8 07/25/2022 AMZN 7.000 122.11 855 138.01 966 Separately Managed 111
+
+9 09/09/2022 AMZN 15.000 133.19 1,998 138.01 2,070 Separately Managed 72
+
+Total for AMAZON COM INC COM 2,853 3,036 184
+
+AMAZON.COM INC 0.45% 2024-05-12
+1 05/10/2021 023135BW5 15,000.000 99.97 15,012 96.67 14,500 Separately Managed (494)
+
+Total for AMAZON.COM INC 0.45% 2024-05-12 15,012 14,500 (494)
+
+AMAZON.COM INC 1.2% 2027-06-03
+1 06/01/2020 023135BR6 17,000.000 99.98 16,999 88.02 14,964 Separately Managed (2,033)
+
+Total for AMAZON.COM INC 1.2% 2027-06-03 16,999 14,964 (2,033)
+
+AMAZON.COM INC 1.65% 2028-05-12
+1 05/10/2021 023135BY1 15,000.000 99.96 14,997 87.38 13,107 Separately Managed (1,887)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 9 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+AMAZON.COM INC 1.65% 2028-05-12
+
+Total for AMAZON.COM INC 1.65% 2028-05-12 14,997 13,107 (1,887)
+
+AMAZON.COM INC 2.1% 2031-05-12
+1 05/10/2021 023135BZ8 15,000.000 99.99 14,998 82.95 12,443 Separately Managed (2,555)
+
+Total for AMAZON.COM INC 2.1% 2031-05-12 14,998 12,443 (2,555)
+
+AMERICA MOVIL SAB DE CV SPON ADS RP CL B
+1 01/09/2019 AMX 108.000 15.79 1,706 19.17 2,070 Separately Managed 365
+
+2 12/09/2019 AMX 200.000 15.07 3,014 19.17 3,834 Separately Managed 820
+
+3 12/10/2019 AMX 510.000 15.17 7,736 19.17 9,777 Separately Managed 2,041
+
+4 12/10/2019 AMX 600.000 15.15 9,088 19.17 11,502 Separately Managed 2,414
+
+5 08/14/2020 AMX 2,201.000 13.05 28,729 19.17 42,193 Separately Managed 13,465
+
+Total for AMERICA MOVIL SAB DE CV SPON ADS RP CL B 50,272 69,376 19,104
+
+AMERICA TOWER CORP 1.45% 2026-09-15
+1 09/23/2021 03027XBR0 11,000.000 99.68 10,986 88.66 9,752 Separately Managed (1,212)
+
+Total for AMERICA TOWER CORP 1.45% 2026-09-15 10,986 9,752 (1,212)
+
+AMERICAN EXPRESS CO 4.9% 2026-02-13
+1 02/14/2023 025816DC0 15,000.000 99.80 14,977 98.67 14,801 Separately Managed (170)
+
+Total for AMERICAN EXPRESS CO 4.9% 2026-02-13 14,977 14,801 (170)
+
+AMERICAN HONDA FIN CORP MTN 1.3% 2026-09-09
+1 09/07/2021 02665WDZ1 15,000.000 99.95 14,997 89.26 13,389 Separately Managed (1,604)
+
+Total for AMERICAN HONDA FIN CORP MTN 1.3% 2026-09-09 14,997 13,389 (1,604)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 10 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+AMERICAN HONDA FIN CORP MTN 2.3% 2026-09-09
+
+1 09/06/2016 02665WBH3 5,000.000 99.89 5,004 91.89 4,594 Separately Managed (400)
+
+Total for AMERICAN HONDA FIN CORP MTN 2.3% 2026-09-09 5,004 4,594 (400)
+
+AMERICAN HONDA FIN CORP MTN 3.5% 2028-02-15
+1 02/12/2018 02665WCE9 10,000.000 99.86 10,001 93.81 9,381 Separately Managed (605)
+
+Total for AMERICAN HONDA FIN CORP MTN 3.5% 2028-02-15 10,001 9,381 (605)
+
+AMERICAN INTL GROUP INC 2.5% 2025-06-30
+1 05/06/2020 026874DQ7 16,000.000 99.96 16,004 94.64 15,142 Separately Managed (851)
+
+Total for AMERICAN INTL GROUP INC 2.5% 2025-06-30 16,004 15,142 (851)
+
+AMERICAN TOWER CORP 1.6% 2026-04-15
+1 03/24/2021 03027XBL3 8,000.000 99.96 8,000 90.28 7,223 Separately Managed (774)
+
+Total for AMERICAN TOWER CORP 1.6% 2026-04-15 8,000 7,223 (774)
+
+AMETEK INC
+1 08/14/2020 AME 586.000 101.71 59,601 159.51 93,473 Separately Managed 33,871
+
+Total for AMETEK INC 59,601 93,473 33,871
+
+AMGEN INC 5.25% 2030-03-02
+1 02/15/2023 031162DQ0 3,000.000 99.78 2,994 100.18 3,005 Separately Managed 12
+
+2 02/16/2023 031162DQ0 2,000.000 100.12 2,002 100.18 2,004 Separately Managed 1
+
+Total for AMGEN INC 5.25% 2030-03-02 4,996 5,009 13
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 11 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ANALOG DEVICES INC 1.7% 2028-10-01
+1 09/28/2021 032654AU9 2,000.000 99.56 1,994 85.74 1,715 Separately Managed (276)
+
+2 10/01/2021 032654AU9 2,000.000 100.46 2,006 85.74 1,715 Separately Managed (294)
+
+3 10/28/2021 032654AU9 2,000.000 99.64 1,995 85.74 1,715 Separately Managed (278)
+
+Total for ANALOG DEVICES INC 1.7% 2028-10-01 5,995 5,144 (849)
+
+ANALOG DEVICES INC COM
+3 11/11/2021 ADI 116.000 183.24 21,255 181.78 21,086 Separately Managed (169)
+
+Total for ANALOG DEVICES INC COM 21,255 21,086 (169)
+
+ANHEUSER-BUSCH INB NPV
+5 08/13/2020 BYYHL23 465.000 56.60 26,318 56.93 26,472 Separately Managed 153
+
+6 08/14/2020 BYYHL23 337.000 56.35 18,991 56.93 19,185 Separately Managed 194
+
+7 08/14/2020 BYYHL23 232.000 56.32 13,065 56.93 13,207 Separately Managed 142
+
+8 08/17/2020 BYYHL23 361.000 56.26 20,311 56.93 20,551 Separately Managed 240
+
+Total for ANHEUSER-BUSCH INB NPV 78,685 79,415 730
+
+AON PLC SHS CL A
+1 04/02/2012 AON 296.000 49.06 14,522 333.39 98,683 Separately Managed 84,162
+
+Total for AON PLC SHS CL A 14,522 98,683 84,162
+
+APPLE INC 0.7% 2026-02-08
+1 02/01/2021 037833EB2 13,000.000 99.89 13,000 90.53 11,769 Separately Managed (1,216)
+
+Total for APPLE INC 0.7% 2026-02-08 13,000 11,769 (1,216)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 12 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+APPLE INC 1.2% 2028-02-08
+1 02/01/2021 037833EC0 16,000.000 99.84 15,989 86.41 13,826 Separately Managed (2,149)
+
+Total for APPLE INC 1.2% 2028-02-08 15,989 13,826 (2,149)
+
+APPLE INC 1.25% 2030-08-20
+1 01/22/2021 037833DY3 15,000.000 98.44 14,847 80.48 12,073 Separately Managed (2,693)
+
+Total for APPLE INC 1.25% 2030-08-20 14,847 12,073 (2,693)
+
+APPLE INC 3.35% 2032-08-08
+1 08/10/2022 037833EP1 15,000.000 98.26 14,765 91.79 13,768 Separately Managed (971)
+
+Total for APPLE INC 3.35% 2032-08-08 14,765 13,768 (971)
+
+APPLE INC COM
+1 10/24/2008 AAPL 700.000 3.40 2,380 187.87 131,509 Separately Managed 129,129
+
+2 05/27/2009 AAPL 539.000 4.75 2,562 187.87 101,262 Separately Managed 98,700
+
+Total for APPLE INC COM 4,943 232,771 227,828
+
+ARMSTRONG WORLD INDUSTRIES INC COM
+1 03/30/2022 AWI 100.000 93.12 9,312 76.59 7,659 Separately Managed (1,653)
+
+2 04/01/2022 AWI 68.000 92.16 6,267 76.59 5,208 Separately Managed (1,059)
+
+3 09/27/2022 AWI 17.000 77.87 1,324 76.59 1,302 Separately Managed (22)
+
+4 02/01/2023 AWI 137.000 79.02 10,825 76.59 10,493 Separately Managed (332)
+
+5 06/09/2023 AWI 18.000 66.84 1,203 76.59 1,379 Separately Managed 176
+
+6 07/03/2023 AWI 29.000 74.23 2,153 76.59 2,221 Separately Managed 68
+
+Total for ARMSTRONG WORLD INDUSTRIES INC COM 31,083 28,262 (2,822)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 13 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ASAHI KASEI CORP
+
+23 06/17/2016 6054603 2,000.000 6.50 13,005 6.47 12,946 Separately Managed (59)
+
+24 06/20/2016 6054603 176.000 6.65 1,170 6.47 1,139 Separately Managed (31)
+
+Total for ASAHI KASEI CORP 14,175 14,085 (90)
+
+ASIAN DEVELOPMENT BANK ADB 0.625% 2024-10-08
+1 09/28/2021 045167FG3 14,000.000 99.98 14,002 95.02 13,303 Separately Managed (694)
+
+Total for ASIAN DEVELOPMENT BANK ADB 0.625% 2024-10-08 14,002 13,303 (694)
+
+ASIAN DEVELOPMENT BANK ADB 4.125% 2024-09-27
+1 09/20/2022 045167FS7 13,000.000 99.98 12,999 98.68 12,829 Separately Managed (168)
+
+Total for ASIAN DEVELOPMENT BANK ADB 4.125% 2024-09-27 12,999 12,829 (168)
+
+ASML HOLDING NV
+9 11/29/2012 B929F46 267.000 33.20 8,864 659.18 176,000 Separately Managed 167,136
+
+Total for ASML HOLDING NV 8,864 176,000 167,136
+
+ASTRAZENECA
+30 01/17/2019 0989529 283.000 71.97 20,367 135.07 38,224 Separately Managed 17,857
+
+31 02/25/2015 0989529 250.000 69.40 17,350 135.07 33,767 Separately Managed 16,416
+
+32 03/14/2017 0989529 235.000 59.53 13,990 135.07 31,741 Separately Managed 17,750
+
+33 03/14/2017 0989529 300.000 59.57 17,870 135.07 40,520 Separately Managed 22,650
+
+34 06/02/2015 0989529 400.000 67.47 26,986 135.07 54,026 Separately Managed 27,040
+
+Total for ASTRAZENECA 96,563 198,277 101,714
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 14 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ASTRAZENECA FINANCE LLC 0.7% 2024-05-28
+1 05/25/2021 04636NAC7 16,000.000 100.00 16,001 96.55 15,448 Separately Managed (552)
+
+Total for ASTRAZENECA FINANCE LLC 0.7% 2024-05-28 16,001 15,448 (552)
+
+ASTRAZENECA FINANCE LLC 1.2% 2026-05-28
+1 05/25/2021 04636NAA1 7,000.000 99.93 6,999 90.27 6,319 Separately Managed (676)
+
+Total for ASTRAZENECA FINANCE LLC 1.2% 2026-05-28 6,999 6,319 (676)
+
+ASTRAZENECA FINANCE LLC 1.75% 2028-05-28
+1 05/25/2021 04636NAE3 5,000.000 99.88 4,997 86.76 4,338 Separately Managed (656)
+
+Total for ASTRAZENECA FINANCE LLC 1.75% 2028-05-28 4,997 4,338 (656)
+
+ASTRAZENECA PLC 3.375% 2025-11-16
+1 11/10/2015 046353AL2 20,000.000 99.72 20,072 96.09 19,218 Separately Managed (725)
+
+Total for ASTRAZENECA PLC 3.375% 2025-11-16 20,072 19,218 (725)
+
+AT&T INC 1.65% 2028-02-01
+1 07/28/2020 00206RKG6 15,000.000 99.92 14,996 85.48 12,822 Separately Managed (2,166)
+
+Total for AT&T INC 1.65% 2028-02-01 14,996 12,822 (2,166)
+
+AT&T INC 2.3% 2027-06-01
+2 05/22/2020 00206RJX1 13,000.000 99.99 13,000 89.53 11,638 Separately Managed (1,361)
+
+Total for AT&T INC 2.3% 2027-06-01 13,000 11,638 (1,361)
+
+ATS CORPORATION COM
+1 04/03/2023 BP8JT73 100.000 41.55 4,155 44.86 4,486 Separately Managed 331
+
+2 04/05/2023 BP8JT73 144.000 40.87 5,885 44.86 6,460 Separately Managed 575
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 15 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ATS CORPORATION COM
+
+4 04/05/2023 BP8JT73 100.000 41.25 4,125 44.86 4,486 Separately Managed 362
+
+Total for ATS CORPORATION COM 14,165 15,433 1,268
+
+AXON ENTERPRISE INC
+4 10/28/2022 AXON 100.000 141.23 14,123 212.91 21,291 Separately Managed 7,168
+
+5 11/08/2022 AXON 8.000 146.75 1,174 212.91 1,703 Separately Managed 529
+
+Total for AXON ENTERPRISE INC 15,297 22,994 7,697
+
+B & M EUROPEAN VAL ORD GBP (DI)
+26 11/13/2020 BMTRW10 444.000 6.50 2,888 7.32 3,249 Separately Managed 361
+
+27 11/16/2020 BMTRW10 1,500.000 6.56 9,838 7.32 10,976 Separately Managed 1,138
+
+28 11/12/2020 BMTRW10 600.000 6.51 3,906 7.32 4,390 Separately Managed 484
+
+29 11/12/2020 BMTRW10 2,200.000 6.50 14,289 7.32 16,097 Separately Managed 1,808
+
+Total for B & M EUROPEAN VAL ORD GBP (DI) 30,921 34,712 3,791
+
+B A T INTL FIN PLC DISC COML 5.931% 2029-02-02
+1 07/31/2023 05530QAQ3 17,000.000 100.00 17,000 99.59 16,930 Separately Managed (70)
+
+Total for B A T INTL FIN PLC DISC COML 5.931% 2029-02-02 17,000 16,930 (70)
+
+BA CREDIT CARD TR 2022-2 20280417 0.00000 5% 2028-04-17
+1 11/17/2022 05522RDF2 10,000.000 99.98 9,998 99.58 9,958 Separately Managed (40)
+
+Total for BA CREDIT CARD TR 2022-2 20280417 0.00000 5% 2028-04-17 9,998 9,958 (40)
+
+BAE SYSTEMS ORD GBP
+1 12/28/2022 BAESF 205.000 11.02 2,260 12.76 2,616 Separately Managed 357
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 16 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+BAE SYSTEMS ORD GBP
+
+2 04/12/2023 BAESF 56.000 12.90 722 12.76 715 Separately Managed (8)
+
+Total for BAE SYSTEMS ORD GBP 2,982 3,331 349
+
+BANK OF AMERICA CORP 1.922% 2031-10-24
+1 10/16/2020 06051GJL4 17,000.000 100.00 17,000 78.37 13,324 Separately Managed (3,676)
+
+Total for BANK OF AMERICA CORP 1.922% 2031-10-24 17,000 13,324 (3,676)
+
+BANK OF AMERICA CORP 4.827% 2026-07-22
+1 07/19/2022 06051GLA5 15,000.000 100.00 15,000 98.11 14,717 Separately Managed (283)
+
+Total for BANK OF AMERICA CORP 4.827% 2026-07-22 15,000 14,717 (283)
+
+BANK OF AMERICA CORP 5.08% 2027-01-20
+1 01/17/2023 06051GLE7 15,000.000 100.00 15,000 98.67 14,801 Separately Managed (199)
+
+Total for BANK OF AMERICA CORP 5.08% 2027-01-20 15,000 14,801 (199)
+
+BANK OF AMERICA CORP 5.288% 2034-04-25
+1 04/19/2023 06051GLH0 5,000.000 100.00 5,000 97.62 4,881 Separately Managed (119)
+
+Total for BANK OF AMERICA CORP 5.288% 2034-04-25 5,000 4,881 (119)
+
+BANK OF AMERICA CORP 6.204% 2028-11-10
+1 01/25/2023 06051GLC1 13,000.000 104.78 13,543 102.27 13,296 Separately Managed (325)
+
+Total for BANK OF AMERICA CORP 6.204% 2028-11-10 13,543 13,296 (325)
+
+BAT CAPITAL CORP 3.462% 2029-09-06
+2 05/20/2021 05526DBH7 20,000.000 102.95 20,383 87.16 17,432 Separately Managed (3,158)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 17 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+BAT CAPITAL CORP 3.462% 2029-09-06
+
+Total for BAT CAPITAL CORP 3.462% 2029-09-06 20,383 17,432 (3,158)
+
+BAT CAPITAL CORP 6.343% 2030-08-02
+1 07/31/2023 054989AA6 4,000.000 100.00 4,000 100.63 4,025 Separately Managed 25
+
+Total for BAT CAPITAL CORP 6.343% 2030-08-02 4,000 4,025 25
+
+BEIGENE LTD SPONSORED ADR
+1 12/24/2018 BGNE 120.000 123.06 14,767 207.55 24,906 Separately Managed 10,139
+
+2 02/28/2019 BGNE 6.000 134.24 805 207.55 1,245 Separately Managed 440
+
+3 03/21/2022 BGNE 121.000 185.11 22,398 207.55 25,114 Separately Managed 2,716
+
+4 03/30/2022 BGNE 23.000 205.53 4,727 207.55 4,774 Separately Managed 46
+
+Total for BEIGENE LTD SPONSORED ADR 42,698 56,039 13,341
+
+BOARDWALK PIPELINES LP 4.95% 2024-12-15
+1 11/19/2014 096630AD0 20,000.000 99.79 20,153 98.55 19,710 Separately Managed (248)
+
+Total for BOARDWALK PIPELINES LP 4.95% 2024-12-15 20,153 19,710 (248)
+
+BOEING CO 3.25% 2028-02-01
+1 10/29/2020 097023DB8 10,000.000 100.20 10,008 91.59 9,159 Separately Managed (861)
+
+Total for BOEING CO 3.25% 2028-02-01 10,008 9,159 (861)
+
+BOEING CO 5.04% 2027-05-01
+1 04/30/2020 097023CU7 14,000.000 100.00 14,000 98.88 13,844 Separately Managed (156)
+
+Total for BOEING CO 5.04% 2027-05-01 14,000 13,844 (156)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 18 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+BOSTON SCIENTIFIC CORP 3.45% 2024-03-01
+
+1 02/21/2019 101137AV9 5,000.000 99.99 5,002 98.77 4,939 Separately Managed (61)
+
+Total for BOSTON SCIENTIFIC CORP 3.45% 2024-03-01 5,002 4,939 (61)
+
+BP CAP MKTS AMERICA INC 4.234% 2028-11-06
+1 11/01/2018 10373QAE0 6,000.000 100.00 6,000 96.50 5,790 Separately Managed (210)
+
+Total for BP CAP MKTS AMERICA INC 4.234% 2028-11-06 6,000 5,790 (210)
+
+BP USD
+1 06/10/2022 BPAQF 1,711.000 5.45 9,323 6.18 10,567 Separately Managed 1,244
+
+2 09/27/2022 BPAQF 1,000.000 5.43 5,435 6.18 6,176 Separately Managed 741
+
+3 09/28/2022 BPAQF 2,400.000 5.41 12,978 6.18 14,822 Separately Managed 1,843
+
+4 09/28/2022 BPAQF 700.000 5.52 3,866 6.18 4,323 Separately Managed 457
+
+5 09/29/2022 BPAQF 3,496.000 5.46 19,100 6.18 21,590 Separately Managed 2,490
+
+Total for BP USD 50,702 57,477 6,775
+
+BRISTOL MYERS SQUIBB CO COM
+1 02/10/2022 BMY 100.000 66.51 6,651 61.65 6,165 Separately Managed (486)
+
+2 02/16/2022 BMY 100.000 67.63 6,763 61.65 6,165 Separately Managed (598)
+
+3 02/24/2022 BMY 100.000 66.66 6,666 61.65 6,165 Separately Managed (501)
+
+4 02/25/2022 BMY 35.000 68.82 2,409 61.65 2,158 Separately Managed (251)
+
+5 03/08/2022 BMY 29.000 67.88 1,969 61.65 1,788 Separately Managed (181)
+
+6 03/30/2022 BMY 26.000 73.55 1,912 61.65 1,603 Separately Managed (310)
+
+7 07/28/2022 BMY 100.000 73.54 7,354 61.65 6,165 Separately Managed (1,189)
+
+8 07/28/2022 BMY 95.000 74.68 7,095 61.65 5,857 Separately Managed (1,238)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 19 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+BRISTOL MYERS SQUIBB CO COM
+
+9 08/10/2022 BMY 365.000 74.52 27,200 61.65 22,502 Separately Managed (4,698)
+
+10 09/21/2022 BMY 397.000 69.91 27,756 61.65 24,475 Separately Managed (3,281)
+
+11 06/02/2023 BMY 78.000 65.64 5,120 61.65 4,809 Separately Managed (311)
+
+12 06/30/2023 BMY 56.000 64.19 3,595 61.65 3,452 Separately Managed (142)
+
+Total for BRISTOL MYERS SQUIBB CO COM 104,489 91,304 (13,185)
+
+BRIT AMER TOBACCO
+18 07/17/2019 BATS 126.000 36.80 4,636 33.22 4,186 Separately Managed (450)
+
+20 03/12/2020 BATS 1,350.000 34.56 46,658 33.22 44,849 Separately Managed (1,809)
+
+Total for BRIT AMER TOBACCO 51,295 49,035 (2,259)
+
+BRITISH POUND - INCOME
+0 I_CASH 136.730 1.28 175 1.27 173 Separately Managed (2)
+
+Total for BRITISH POUND - INCOME 175 173 (2)
+
+BROADCOM INC COM
+8 12/04/2013 AVGO 264.000 41.65 10,996 922.89 243,643 Separately Managed 232,647
+
+Total for BROADCOM INC COM 10,996 243,643 232,647
+
+BROOKFIELD ASSET MANAGMT LTD CL A LMT VTG
+1 02/17/2023 113004105 44.000 35.21 1,549 34.55 1,520 Separately Managed (29)
+
+Total for BROOKFIELD ASSET MANAGMT LTD CL A LMT VTG 1,549 1,520 (29)
+
+CANADIAN DOLLAR - INCOME
+0 I_CASH -1,965.670 0.76 (1,484) 0.74 (1,455) Separately Managed 30
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 20 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+CANADIAN DOLLAR - INCOME
+
+0 I_CASH 2,383.310 0.76 1,814 0.74 1,764 Separately Managed (51)
+
+0 I_CASH -417.640 0.76 (317) 0.74 (309) Cash and Cash Equivalents 8
+
+Total for CANADIAN DOLLAR - INCOME 13 0 (13)
+
+CANADIAN NATURAL RESOURCES LTD MED TERM 2.05% 2025-07-15
+1 06/22/2020 136385AZ4 9,000.000 99.94 9,004 93.66 8,430 Separately Managed (565)
+
+2 06/23/2020 136385AZ4 2,000.000 99.95 2,001 93.66 1,873 Separately Managed (126)
+
+3 06/29/2020 136385AZ4 2,000.000 100.00 2,000 93.66 1,873 Separately Managed (127)
+
+Total for CANADIAN NATURAL RESOURCES LTD MED TERM 2.05% 2025-07-15 13,004 12,176 (817)
+
+CANADIAN PACIFIC R 1.75% 2026-12-02
+1 11/17/2021 13645RBE3 2,000.000 99.90 1,999 89.91 1,798 Separately Managed (200)
+
+Total for CANADIAN PACIFIC R 1.75% 2026-12-02 1,999 1,798 (200)
+
+CAPGEMINI EUR
+1 02/24/2023 4163437 13.000 195.37 2,540 186.89 2,430 Separately Managed (110)
+
+2 02/24/2023 4163437 14.000 196.10 2,745 186.89 2,616 Separately Managed (129)
+
+3 02/27/2023 4163437 14.000 192.50 2,695 186.89 2,616 Separately Managed (79)
+
+4 03/02/2023 4163437 11.000 191.41 2,106 186.89 2,056 Separately Managed (50)
+
+5 04/12/2023 4163437 13.000 184.23 2,395 186.89 2,430 Separately Managed 35
+
+6 03/06/2023 4163437 14.000 196.88 2,756 186.89 2,616 Separately Managed (140)
+
+7 04/13/2023 4163437 20.000 183.83 3,677 186.89 3,738 Separately Managed 61
+
+8 04/14/2023 4163437 19.000 183.35 3,484 186.89 3,551 Separately Managed 67
+
+9 04/17/2023 4163437 1.000 181.13 181 186.89 187 Separately Managed 6
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 21 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+CAPGEMINI EUR
+
+Total for CAPGEMINI EUR 22,578 22,240 (339)
+
+CARLSBERG
+30 12/15/2015 4169219 47.000 84.46 3,970 144.91 6,811 Separately Managed 2,841
+
+31 01/06/2016 4169219 99.000 85.61 8,476 144.91 14,346 Separately Managed 5,871
+
+32 01/07/2016 4169219 27.000 85.70 2,314 144.91 3,913 Separately Managed 1,599
+
+34 02/01/2016 4169219 182.000 84.49 15,378 144.91 26,374 Separately Managed 10,996
+
+35 02/01/2016 4169219 100.000 84.91 8,491 144.91 14,491 Separately Managed 6,000
+
+36 02/01/2016 4169219 118.000 85.05 10,036 144.91 17,100 Separately Managed 7,064
+
+Total for CARLSBERG 48,664 83,035 34,371
+
+CARMAX AUTO OWNER TR 2023-2 20 5.5% 2026-06-15
+1 04/19/2023 142921AB1 12,000.000 100.00 12,000 99.73 11,967 Separately Managed (32)
+
+Total for CARMAX AUTO OWNER TR 2023-2 20 5.5% 2026-06-15 12,000 11,967 (32)
+
+CARMAX AUTO OWNER TR 2023-3 5.26% 2029-02-15
+1 07/18/2023 14319BAD4 6,000.000 100.00 6,000 100.57 6,034 Separately Managed 34
+
+Total for CARMAX AUTO OWNER TR 2023-3 5.26% 2029-02-15 6,000 6,034 34
+
+CARMAX AUTO OWNER TR 2023-3 5.28% 2028-05-15
+1 07/18/2023 14319BAC6 5,000.000 100.00 5,000 99.95 4,998 Separately Managed (2)
+
+Total for CARMAX AUTO OWNER TR 2023-3 5.28% 2028-05-15 5,000 4,998 (2)
+
+CARRIER GLOBAL CORPORATION
+1 09/29/2021 CARR 855.000 52.75 45,099 57.45 49,120 Separately Managed 4,021
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 22 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+CARRIER GLOBAL CORPORATION
+
+Total for CARRIER GLOBAL CORPORATION 45,099 49,120 4,021
+
+CASH ACCOUNT
+0 CASH 0.010 0.01 0 1.00 0 Cash and Cash Equivalents 0
+
+0 CASH -630.970 0.76 (477) 0.74 (467) Separately Managed 10
+
+0 CASH 103,229.630 103,229.63 103,230 1.00 103,230 Separately Managed 0
+
+0 CASH 0.340 1.09 0 1.08 0 Separately Managed 0
+
+0 CASH 0.400 1.27 1 1.27 1 Separately Managed 0
+
+0 CASH 630.970 0.75 473 0.74 467 Separately Managed (6)
+
+0 CASH 320,578.800 320,578.80 320,579 1.00 320,579 Separately Managed 0
+
+Total for CASH ACCOUNT 423,806 423,809 4
+
+CELANESE US HOLDINGS LLC 6.05% 2025-03-15
+1 07/07/2022 15089QAL8 3,000.000 100.00 3,000 100.07 3,002 Separately Managed 2
+
+Total for CELANESE US HOLDINGS LLC 6.05% 2025-03-15 3,000 3,002 2
+
+CELANESE US HOLDINGS LLC 6.165% 2027-07-15
+1 07/07/2022 15089QAM6 10,000.000 100.00 10,000 100.03 10,003 Separately Managed 3
+
+Total for CELANESE US HOLDINGS LLC 6.165% 2027-07-15 10,000 10,003 3
+
+CELANESE US HOLDINGS LLC 6.33% 2029-07-15
+1 07/07/2022 15089QAN4 10,000.000 100.00 10,000 99.37 9,937 Separately Managed (63)
+
+Total for CELANESE US HOLDINGS LLC 6.33% 2029-07-15 10,000 9,937 (63)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 23 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+CENTERPOINT ENERGY INC
+1 07/18/2022 CNP 300.000 29.56 8,868 27.89 8,367 Separately Managed (501)
+
+2 07/18/2022 CNP 100.000 29.81 2,981 27.89 2,789 Separately Managed (192)
+
+3 07/18/2022 CNP 100.000 29.65 2,965 27.89 2,789 Separately Managed (176)
+
+4 07/19/2022 CNP 221.000 29.79 6,584 27.89 6,164 Separately Managed (421)
+
+5 08/14/2023 CNP 140.000 28.73 4,022 27.89 3,905 Separately Managed (118)
+
+Total for CENTERPOINT ENERGY INC 25,421 24,013 (1,408)
+
+CHARTER COMMUNICATIONS INC NEW CL A
+5 01/20/2023 CHTR 44.000 393.31 17,306 438.12 19,277 Separately Managed 1,971
+
+6 08/08/2023 CHTR 8.000 418.28 3,346 438.12 3,505 Separately Managed 159
+
+Total for CHARTER COMMUNICATIONS INC NEW CL A 20,652 22,782 2,130
+
+CHARTER COMMUNICATIONS OPER 2.8% 2031-04-01
+1 04/14/2020 161175BU7 6,000.000 99.68 5,988 80.59 4,836 Separately Managed (1,145)
+
+Total for CHARTER COMMUNICATIONS OPER 2.8% 2031-04-01 5,988 4,836 (1,145)
+
+CHARTER COMMUNICATIONS OPER 4.908% 2025-07-23
+1 12/15/2016 161175AY0 5,000.000 100.91 4,909 98.17 4,908 Separately Managed (137)
+
+Total for CHARTER COMMUNICATIONS OPER 4.908% 2025-07-23 4,909 4,908 (137)
+
+CHEVRON CORP NEW COM
+1 05/27/2009 CVX 134.000 65.10 8,723 161.10 21,587 Separately Managed 12,865
+
+9 03/20/2020 CVX 475.000 57.99 27,547 161.10 76,523 Separately Managed 48,975
+
+Total for CHEVRON CORP NEW COM 36,270 98,110 61,840
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 24 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+CHUBB LIMITED COM
+
+1 10/21/2011 CB 81.000 69.40 5,622 200.87 16,270 Separately Managed 10,649
+
+Total for CHUBB LIMITED COM 5,622 16,270 10,649
+
+CITIGROUP INC 2.572% 2031-06-03
+1 05/26/2020 172967MS7 17,000.000 100.00 17,000 82.64 14,049 Separately Managed (2,951)
+
+Total for CITIGROUP INC 2.572% 2031-06-03 17,000 14,049 (2,951)
+
+CITIGROUP INC 2.666% 2031-01-29
+1 01/27/2020 172967ML2 4,000.000 100.49 4,011 83.84 3,354 Separately Managed (666)
+
+2 01/28/2020 172967ML2 4,000.000 100.31 4,007 83.84 3,354 Separately Managed (659)
+
+Total for CITIGROUP INC 2.666% 2031-01-29 8,019 6,707 (1,325)
+
+CITIGROUP INC 4.45% 2027-09-29
+1 10/23/2015 172967KA8 10,000.000 100.14 9,998 95.57 9,557 Separately Managed (457)
+
+Total for CITIGROUP INC 4.45% 2027-09-29 9,998 9,557 (457)
+
+CITIGROUP INC 5.61% 2026-09-29
+1 09/22/2022 172967NX5 15,000.000 100.00 15,000 99.55 14,932 Separately Managed (68)
+
+Total for CITIGROUP INC 5.61% 2026-09-29 15,000 14,932 (68)
+
+CME GROUP INC COM CL A
+1 08/30/2012 CME 100.000 54.32 5,432 202.68 20,268 Separately Managed 14,836
+
+12 01/11/2013 CME 100.000 54.02 5,402 202.68 20,268 Separately Managed 14,866
+
+15 08/29/2012 CME 33.000 54.39 1,795 202.68 6,688 Separately Managed 4,893
+
+Total for CME GROUP INC COM CL A 12,629 47,224 34,596
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 25 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+COCA-COLA CO 1% 2028-03-15
+
+1 09/14/2020 191216DD9 10,000.000 99.95 9,998 85.72 8,572 Separately Managed (1,424)
+
+2 09/15/2020 191216DD9 10,000.000 100.05 10,002 85.72 8,572 Separately Managed (1,433)
+
+Total for COCA-COLA CO 1% 2028-03-15 20,000 17,143 (2,857)
+
+COMCAST CORP 1.95% 2031-01-15
+1 05/20/2020 20030NDM0 9,000.000 99.78 8,988 80.87 7,278 Separately Managed (1,701)
+
+Total for COMCAST CORP 1.95% 2031-01-15 8,988 7,278 (1,701)
+
+COMCAST CORP 3.95% 2025-10-15
+1 10/02/2018 20030NCS8 10,000.000 99.96 10,004 97.38 9,738 Separately Managed (258)
+
+2 10/03/2018 20030NCS8 8,000.000 99.91 8,007 97.38 7,790 Separately Managed (203)
+
+Total for COMCAST CORP 3.95% 2025-10-15 18,011 17,529 (460)
+
+COMCAST CORP NEW CL A
+7 12/05/2019 CMCSA 360.000 43.72 15,739 46.76 16,834 Separately Managed 1,094
+
+9 09/27/2010 CMCSA 351.000 9.19 3,226 46.76 16,413 Separately Managed 13,187
+
+10 09/28/2010 CMCSA 600.000 9.14 5,484 46.76 28,056 Separately Managed 22,572
+
+Total for COMCAST CORP NEW CL A 24,449 61,302 36,853
+
+CONOCOPHILLIPS COM
+3 09/29/2021 COP 503.000 68.02 34,216 119.03 59,872 Separately Managed 25,656
+
+Total for CONOCOPHILLIPS COM 34,216 59,872 25,656
+
+CONSTELLATION BRANDS INC 2.875% 2030-05-01
+1 04/23/2020 21036PBF4 2,000.000 100.63 2,007 86.32 1,726 Separately Managed (286)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 26 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+CONSTELLATION BRANDS INC 2.875% 2030-05-01
+
+Total for CONSTELLATION BRANDS INC 2.875% 2030-05-01 2,007 1,726 (286)
+
+CONSTELLATION BRANDS INC CL A
+1 02/08/2023 STZ 99.000 230.70 22,839 260.56 25,795 Separately Managed 2,956
+
+Total for CONSTELLATION BRANDS INC CL A 22,839 25,795 2,956
+
+CORPORATE OFFICE PROPERTIES LP 2.75% 2031-04-15
+1 03/03/2021 22003BAM8 4,000.000 99.18 3,976 77.11 3,084 Separately Managed (883)
+
+Total for CORPORATE OFFICE PROPERTIES LP 2.75% 2031-04-15 3,976 3,084 (883)
+
+COSTCO WHSL CORP NEW COM
+1 06/21/2018 COST 43.000 210.19 9,038 549.28 23,619 Separately Managed 14,581
+
+Total for COSTCO WHSL CORP NEW COM 9,038 23,619 14,581
+
+CSX CORP COM
+1 08/25/2017 CSX 300.000 16.27 4,881 30.20 9,060 Separately Managed 4,179
+
+2 08/28/2017 CSX 600.000 16.45 9,869 30.20 18,120 Separately Managed 8,251
+
+3 08/28/2017 CSX 504.000 16.49 8,313 30.20 15,221 Separately Managed 6,908
+
+Total for CSX CORP COM 23,063 42,401 19,338
+
+CVS HEALTH CORP 1.3% 2027-08-21
+1 12/07/2020 126650DM9 16,000.000 99.87 15,993 86.07 13,772 Separately Managed (2,207)
+
+Total for CVS HEALTH CORP 1.3% 2027-08-21 15,993 13,772 (2,207)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 27 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+CVS HEALTH CORP 5% 2029-01-30
+1 05/30/2023 126650DW7 7,000.000 99.65 6,977 98.50 6,895 Separately Managed (81)
+
+Total for CVS HEALTH CORP 5% 2029-01-30 6,977 6,895 (81)
+
+CVS HEALTH CORP 5.25% 2031-01-30
+1 05/30/2023 126650DX5 10,000.000 99.65 9,966 98.85 9,885 Separately Managed (80)
+
+Total for CVS HEALTH CORP 5.25% 2031-01-30 9,966 9,885 (80)
+
+DAIICHI SANKYO COM NPV
+1 02/03/2023 B0J7D91 600.000 27.69 16,616 29.55 17,728 Separately Managed 1,113
+
+Total for DAIICHI SANKYO COM NPV 16,616 17,728 1,113
+
+DAIKIN INDUSTRIES NPV
+1 06/22/2022 6250724 100.000 140.69 14,069 173.37 17,337 Separately Managed 3,268
+
+2 01/10/2023 6250724 100.000 145.11 14,511 173.37 17,337 Separately Managed 2,826
+
+Total for DAIKIN INDUSTRIES NPV 28,580 34,675 6,095
+
+DANAHER CORPORATION COM
+1 04/06/2009 DHR 312.000 20.50 6,397 265.00 82,680 Separately Managed 76,283
+
+Total for DANAHER CORPORATION COM 6,397 82,680 76,283
+
+DANONE
+33 02/09/2015 B1Y9TB3 20.000 66.14 1,323 58.37 1,167 Separately Managed (155)
+
+34 06/01/2017 B1Y9TB3 21.000 64.69 1,358 58.37 1,226 Separately Managed (133)
+
+35 06/04/2015 B1Y9TB3 15.000 65.79 987 58.37 876 Separately Managed (111)
+
+36 09/30/2021 B1Y9TB3 470.000 69.13 32,489 58.37 27,434 Separately Managed (5,055)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 28 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+DANONE
+
+37 02/22/2010 B1Y9TB3 145.000 59.27 8,594 58.37 8,464 Separately Managed (130)
+
+38 06/26/2009 B1Y9TB3 258.000 34.79 8,977 58.37 15,060 Separately Managed 6,083
+
+39 12/01/2016 B1Y9TB3 40.000 62.10 2,484 58.37 2,335 Separately Managed (149)
+
+40 12/01/2016 B1Y9TB3 121.000 62.37 7,547 58.37 7,063 Separately Managed (484)
+
+41 12/01/2016 B1Y9TB3 169.000 62.25 10,520 58.37 9,865 Separately Managed (656)
+
+Total for DANONE 74,280 73,489 (791)
+
+DASSAULT SYSTEMES EUR (POST SUBDIVISION)
+1 02/03/2023 BM8H5Y5 478.000 41.16 19,675 39.70 18,976 Separately Managed (699)
+
+Total for DASSAULT SYSTEMES EUR (POST SUBDIVISION) 19,675 18,976 (699)
+
+DBS GROUP HLDGS
+15 11/24/2020 6175203 400.000 18.97 7,589 24.64 9,856 Separately Managed 2,267
+
+16 11/25/2020 6175203 624.000 19.26 12,016 24.64 15,375 Separately Managed 3,359
+
+17 11/26/2020 6175203 300.000 19.02 5,705 24.64 7,392 Separately Managed 1,687
+
+18 11/30/2020 6175203 500.000 19.09 9,544 24.64 12,320 Separately Managed 2,776
+
+Total for DBS GROUP HLDGS 34,854 44,944 10,090
+
+DELTA AIR LINES INC
+1 05/09/2022 DAL 307.000 39.59 12,155 42.88 13,164 Separately Managed 1,009
+
+2 06/09/2023 DAL 84.000 39.65 3,331 42.88 3,602 Separately Managed 271
+
+Total for DELTA AIR LINES INC 15,486 16,766 1,280
+
+DISCOVER CARD EXE TR 2018-6 5.81498% 2026-03-16
+1 08/24/2022 254683CJ2 20,000.000 100.00 20,000 100.01 20,002 Separately Managed 2
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 29 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+DISCOVER CARD EXE TR 2018-6 5.81498% 2026-03-16
+
+Total for DISCOVER CARD EXE TR 2018-6 5.81498% 2026-03-16 20,000 20,002 2
+
+DKSH HOLDING AG
+13 04/07/2014 B71QPM2 25.000 79.08 1,977 76.53 1,913 Separately Managed (64)
+
+14 04/07/2014 B71QPM2 37.000 78.96 2,922 76.53 2,831 Separately Managed (90)
+
+17 02/27/2019 B71QPM2 155.000 58.70 9,098 76.53 11,862 Separately Managed 2,764
+
+Total for DKSH HOLDING AG 13,997 16,606 2,610
+
+DNB BANK ASA NOK12.50
+1 03/30/2015 BNG7113 1,625.000 16.08 26,135 19.81 32,189 Separately Managed 6,054
+
+2 07/03/2015 BNG7113 185.000 16.29 3,013 19.81 3,665 Separately Managed 651
+
+3 11/15/2017 BNG7113 178.000 18.69 3,326 19.81 3,526 Separately Managed 200
+
+4 11/15/2017 BNG7113 86.000 18.72 1,610 19.81 1,704 Separately Managed 94
+
+5 11/15/2017 BNG7113 887.000 18.57 16,474 19.81 17,570 Separately Managed 1,097
+
+6 11/21/2017 BNG7113 208.000 18.55 3,859 19.81 4,120 Separately Managed 261
+
+7 11/22/2017 BNG7113 226.000 18.66 4,216 19.81 4,477 Separately Managed 261
+
+8 11/23/2017 BNG7113 149.000 18.54 2,763 19.81 2,951 Separately Managed 189
+
+9 11/27/2017 BNG7113 98.000 18.52 1,815 19.81 1,941 Separately Managed 126
+
+Total for DNB BANK ASA NOK12.50 63,211 72,143 8,933
+
+DOLLAR GENERAL CORP
+7 09/29/2021 DG 170.000 217.27 36,936 138.50 23,545 Separately Managed (13,391)
+
+8 01/09/2023 DG 56.000 247.05 13,835 138.50 7,756 Separately Managed (6,079)
+
+9 06/01/2023 DG 24.000 163.97 3,935 138.50 3,324 Separately Managed (611)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 30 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+DOLLAR GENERAL CORP
+
+Total for DOLLAR GENERAL CORP 54,706 34,625 (20,081)
+
+DSV
+7 01/23/2018 B1WT5G2 56.000 81.05 4,539 190.23 10,653 Separately Managed 6,114
+
+8 01/24/2018 B1WT5G2 75.000 82.06 6,154 190.23 14,268 Separately Managed 8,113
+
+Total for DSV 10,693 24,921 14,228
+
+DUKE ENERGY PROGRESS INC 3.375% 2023-09-01
+1 08/08/2018 26442UAF1 25,000.000 100.00 25,000 100.00 25,000 Separately Managed 0
+
+Total for DUKE ENERGY PROGRESS INC 3.375% 2023-09-01 25,000 25,000 0
+
+DUPONT DE NEMOURS INC 4.493% 2025-11-15
+1 11/14/2018 26078JAC4 20,000.000 100.00 20,000 97.88 19,576 Separately Managed (424)
+
+Total for DUPONT DE NEMOURS INC 4.493% 2025-11-15 20,000 19,576 (424)
+
+EDISON INTL COM
+1 03/23/2022 EIX 200.000 66.19 13,238 68.85 13,770 Separately Managed 532
+
+2 03/24/2022 EIX 176.000 67.20 11,828 68.85 12,118 Separately Managed 290
+
+3 05/02/2022 EIX 121.000 69.30 8,386 68.85 8,331 Separately Managed (55)
+
+Total for EDISON INTL COM 33,451 34,218 768
+
+EDWARDS LIFESCIENCES CORP COM
+1 09/29/2021 EW 384.000 113.85 43,719 76.47 29,364 Separately Managed (14,355)
+
+2 05/25/2022 EW 128.000 96.12 12,304 76.47 9,788 Separately Managed (2,516)
+
+Total for EDWARDS LIFESCIENCES CORP COM 56,023 39,153 (16,870)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 31 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ELECTRONIC ARTS INC COM
+
+3 10/01/2018 EA 29.000 118.33 3,431 119.98 3,479 Separately Managed 48
+
+4 01/16/2019 EA 300.000 89.18 26,755 119.98 35,994 Separately Managed 9,239
+
+Total for ELECTRONIC ARTS INC COM 30,187 39,473 9,287
+
+ELEVANCE HEALTH INC
+2 12/09/2019 ELV 57.000 283.33 16,150 442.01 25,195 Separately Managed 9,045
+
+Total for ELEVANCE HEALTH INC 16,150 25,195 9,045
+
+ELEVANCE HEALTH INC 4.75% 2033-02-15
+1 01/30/2023 28622HAB7 2,000.000 99.85 1,997 96.90 1,938 Separately Managed (59)
+
+Total for ELEVANCE HEALTH INC 4.75% 2033-02-15 1,997 1,938 (59)
+
+ELEVANCE HEALTH INC 4.9% 2026-02-08
+1 01/30/2023 28622HAA9 4,000.000 99.91 3,997 98.65 3,946 Separately Managed (50)
+
+Total for ELEVANCE HEALTH INC 4.9% 2026-02-08 3,997 3,946 (50)
+
+ELI LILLY & CO 5% 2026-02-27
+1 02/23/2023 532457CE6 15,000.000 99.86 14,983 100.03 15,005 Separately Managed 26
+
+Total for ELI LILLY & CO 5% 2026-02-27 14,983 15,005 26
+
+EMERGING MARKETS GROWTH FUND INC CL M
+0 08/04/2017 EMRGX 85,644.051 7.65 655,177 6.59 564,394 Mutual Funds (90,783)
+
+1 12/22/2020 EMRGX 965.563 9.08 8,767 6.59 6,363 Mutual Funds (2,404)
+
+2 12/22/2020 EMRGX 580.036 9.08 5,267 6.59 3,822 Mutual Funds (1,444)
+
+3 12/22/2020 EMRGX 5,700.196 9.08 51,758 6.59 37,564 Mutual Funds (14,193)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 32 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+EMERGING MARKETS GROWTH FUND INC CL M
+
+4 08/31/2020 EMRGX 4,352.363 8.69 37,822 6.59 28,682 Mutual Funds (9,140)
+
+5 12/22/2021 EMRGX 1,219.926 8.29 10,113 6.59 8,039 Mutual Funds (2,074)
+
+6 12/22/2021 EMRGX 9,157.659 8.29 75,917 6.59 60,349 Mutual Funds (15,568)
+
+7 12/22/2021 EMRGX 633.423 8.29 5,251 6.59 4,174 Mutual Funds (1,077)
+
+8 12/22/2022 EMRGX 1,457.926 6.20 9,039 6.59 9,608 Mutual Funds 569
+
+Total for EMERGING MARKETS GROWTH FUND INC CL M 859,111 722,996 (136,115)
+
+EMERSON ELECTRIC CO 1.8% 2027-10-15
+1 04/27/2020 291011BL7 5,000.000 99.95 4,999 88.61 4,430 Separately Managed (567)
+
+2 05/05/2020 291011BL7 12,000.000 99.84 11,995 88.61 10,633 Separately Managed (1,348)
+
+Total for EMERSON ELECTRIC CO 1.8% 2027-10-15 16,995 15,063 (1,915)
+
+ENERGY TRANSFER LP 4.2% 2023-09-15
+1 06/05/2018 29278NAC7 5,000.000 100.00 5,004 99.95 4,998 Separately Managed (2)
+
+Total for ENERGY TRANSFER LP 4.2% 2023-09-15 5,004 4,998 (2)
+
+ENERGY TRANSFER LP 4.5% 2024-04-15
+1 01/08/2019 29278NAH6 5,000.000 99.95 5,013 99.03 4,952 Separately Managed (46)
+
+Total for ENERGY TRANSFER LP 4.5% 2024-04-15 5,013 4,952 (46)
+
+ENGIE EUR
+22 02/26/2021 B0C2CQ3 672.000 14.94 10,041 16.15 10,850 Separately Managed 809
+
+23 02/26/2021 B0C2CQ3 214.000 14.68 3,141 16.15 3,455 Separately Managed 315
+
+24 02/26/2021 B0C2CQ3 1,663.000 14.74 24,512 16.15 26,851 Separately Managed 2,338
+
+25 03/01/2021 B0C2CQ3 632.000 14.80 9,357 16.15 10,204 Separately Managed 848
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 33 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ENGIE EUR
+
+26 03/01/2021 B0C2CQ3 51.000 14.64 747 16.15 823 Separately Managed 77
+
+27 01/10/2023 B0C2CQ3 171.000 14.28 2,442 16.15 2,761 Separately Managed 319
+
+28 01/10/2023 B0C2CQ3 458.000 14.18 6,494 16.15 7,395 Separately Managed 901
+
+29 06/30/2023 B0C2CQ3 545.000 16.53 9,007 16.15 8,800 Separately Managed (208)
+
+30 06/30/2023 B0C2CQ3 250.000 16.60 4,149 16.15 4,036 Separately Managed (113)
+
+31 07/03/2023 B0C2CQ3 214.000 16.72 3,579 16.15 3,455 Separately Managed (124)
+
+32 07/06/2023 B0C2CQ3 102.000 16.35 1,668 16.15 1,647 Separately Managed (21)
+
+Total for ENGIE EUR 75,136 80,278 5,141
+
+ENTERGY LA LLC SR SEC GLBL BD24 0.95% 2024-10-01
+1 09/28/2021 29364WBK3 20,000.000 99.95 20,008 94.89 18,979 Separately Managed (1,010)
+
+Total for ENTERGY LA LLC SR SEC GLBL BD24 0.95% 2024-10-01 20,008 18,979 (1,010)
+
+ENTERPRISE PRODUCTS OPER LLC 5.05% 2026-01-10
+1 01/03/2023 29379VCC5 5,000.000 99.91 4,997 99.49 4,975 Separately Managed (21)
+
+Total for ENTERPRISE PRODUCTS OPER LLC 5.05% 2026-01-10 4,997 4,975 (21)
+
+EOG RES INC COM
+8 09/29/2021 EOG 169.000 82.48 13,939 128.62 21,737 Separately Managed 7,797
+
+Total for EOG RES INC COM 13,939 21,737 7,797
+
+EOG RESOURCES INC 4.375% 2030-04-15
+1 04/08/2020 26875PAU5 3,000.000 99.97 2,999 97.20 2,916 Separately Managed (83)
+
+2 04/20/2020 26875PAU5 5,000.000 104.65 5,129 97.20 4,860 Separately Managed (373)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 34 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+EOG RESOURCES INC 4.375% 2030-04-15
+
+Total for EOG RESOURCES INC 4.375% 2030-04-15 8,129 7,776 (456)
+
+EPIROC AB SER A NPV (POST SPLIT)
+1 02/02/2023 EPOKF 233.000 18.45 4,298 19.24 4,482 Separately Managed 184
+
+2 02/02/2023 EPOKF 198.000 18.75 3,712 19.24 3,809 Separately Managed 97
+
+3 02/02/2023 EPOKF 447.000 18.52 8,277 19.24 8,598 Separately Managed 321
+
+4 02/03/2023 EPOKF 180.000 18.84 3,391 19.24 3,462 Separately Managed 71
+
+5 02/03/2023 EPOKF 206.000 18.90 3,894 19.24 3,963 Separately Managed 69
+
+6 02/03/2023 EPOKF 165.000 18.80 3,102 19.24 3,174 Separately Managed 72
+
+7 02/03/2023 EPOKF 398.000 18.87 7,511 19.24 7,656 Separately Managed 145
+
+Total for EPIROC AB SER A NPV (POST SPLIT) 34,185 35,143 958
+
+EQUINIX INC 1.25% 2025-07-15
+1 06/08/2020 29444UBF2 6,000.000 99.91 6,003 92.21 5,533 Separately Managed (462)
+
+Total for EQUINIX INC 1.25% 2025-07-15 6,003 5,533 (462)
+
+EQUINIX INC 1.45% 2026-05-15
+1 05/03/2021 29444UBQ8 8,000.000 99.92 7,999 89.93 7,194 Separately Managed (799)
+
+2 05/04/2021 29444UBQ8 5,000.000 99.97 5,000 89.93 4,496 Separately Managed (502)
+
+Total for EQUINIX INC 1.45% 2026-05-15 12,999 11,691 (1,302)
+
+EQUINIX INC 1.8% 2027-07-15
+1 06/08/2020 29444UBG0 3,000.000 99.86 2,999 87.32 2,619 Separately Managed (376)
+
+Total for EQUINIX INC 1.8% 2027-07-15 2,999 2,619 (376)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 35 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+EQUINIX INC 2% 2028-05-15
+
+1 05/03/2021 29444UBR6 4,000.000 99.63 3,992 85.41 3,416 Separately Managed (569)
+
+Total for EQUINIX INC 2% 2028-05-15 3,992 3,416 (569)
+
+EQUINIX INC 2.9% 2026-11-18
+1 11/06/2019 29444UBD7 3,000.000 99.93 3,000 92.41 2,772 Separately Managed (226)
+
+2 11/12/2019 29444UBD7 10,000.000 99.75 10,002 92.41 9,240 Separately Managed (735)
+
+Total for EQUINIX INC 2.9% 2026-11-18 13,002 12,013 (961)
+
+EQUINIX INC COM
+1 08/16/2018 EQIX 58.000 443.01 25,694 781.38 45,320 Separately Managed 19,626
+
+Total for EQUINIX INC COM 25,694 45,320 19,626
+
+ESSEX PORTFOLIO LP 3.5% 2025-04-01
+1 03/10/2015 29717PAP2 20,000.000 99.95 20,030 96.61 19,322 Separately Managed (668)
+
+Total for ESSEX PORTFOLIO LP 3.5% 2025-04-01 20,030 19,322 (668)
+
+ESSILORLUXOTTICA
+26 02/10/2015 7212477 4.000 107.69 431 188.57 754 Separately Managed 324
+
+27 02/11/2015 7212477 43.000 107.60 4,627 188.57 8,108 Separately Managed 3,482
+
+28 07/25/2002 7212477 343.000 18.72 6,420 188.57 64,679 Separately Managed 58,259
+
+Total for ESSILORLUXOTTICA 11,477 73,542 62,064
+
+EURO - INCOME
+0 I_CASH 9,018.830 1.09 9,835 1.08 9,780 Separately Managed (55)
+
+Total for EURO - INCOME 9,835 9,780 (55)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 36 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+EUROPEAN INV BANK 144A 0.75% 2026-10-26
+
+1 08/24/2021 298785JP2 8,000.000 99.63 7,989 88.92 7,114 Separately Managed (856)
+
+Total for EUROPEAN INV BANK 144A 0.75% 2026-10-26 7,989 7,114 (856)
+
+EVERTEC INC
+1 09/29/2021 30040P103 723.000 46.85 33,874 39.57 28,609 Separately Managed (5,265)
+
+Total for EVERTEC INC 33,874 28,609 (5,265)
+
+FEDERAL FARM CREDIT BANKS 1.75% 2025-02-14
+1 02/10/2022 3133ENPG9 12,000.000 99.87 12,000 95.29 11,435 Separately Managed (549)
+
+Total for FEDERAL FARM CREDIT BANKS 1.75% 2025-02-14 12,000 11,435 (549)
+
+FEDERAL HOME LOAN MTG CORP 0.375% 2025-09-23
+1 09/23/2020 3137EAEX3 116,000.000 99.87 116,059 91.20 105,797 Separately Managed (10,058)
+
+Total for FEDERAL HOME LOAN MTG CORP 0.375% 2025-09-23 116,059 105,797 (10,058)
+
+FEDERAL NATL MTG ASSN 0.875% 2030-08-05
+1 08/03/2020 3135G05Q2 32,000.000 99.47 31,902 79.35 25,392 Separately Managed (6,439)
+
+Total for FEDERAL NATL MTG ASSN 0.875% 2030-08-05 31,902 25,392 (6,439)
+
+FEDERAL NATL MTG ASSN 2.625% 2024-09-06
+1 09/04/2014 3135G0ZR7 55,000.000 99.85 55,339 97.29 53,508 Separately Managed (1,410)
+
+Total for FEDERAL NATL MTG ASSN 2.625% 2024-09-06 55,339 53,508 (1,410)
+
+FEDEX CORP
+1 07/07/2023 FDX 95.000 251.57 23,900 261.02 24,797 Separately Managed 897
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 37 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+FEDEX CORP
+
+2 08/17/2023 FDX 131.000 264.50 34,649 261.02 34,194 Separately Managed (456)
+
+Total for FEDEX CORP 58,549 58,991 442
+
+FHLMC REMIC SERIES 3272 6% 2037-02-15
+1 02/08/2007 31397FAG7 170,000.000 101.37 2,095 103.07 2,143 Separately Managed 35
+
+Total for FHLMC REMIC SERIES 3272 6% 2037-02-15 2,095 2,143 35
+
+FHLMC REMIC SERIES K-048 3.284% 2025-06-25
+1 02/03/2023 3137BLAC2 37,261.000 97.94 36,719 96.64 36,009 Separately Managed (484)
+
+Total for FHLMC REMIC SERIES K-048 3.284% 2025-06-25 36,719 36,009 (484)
+
+FHLMC REMIC SERIES K-751 4.412% 2030-03-25
+1 05/03/2023 3137HA4B9 19,000.000 101.32 19,241 97.55 18,534 Separately Managed (717)
+
+Total for FHLMC REMIC SERIES K-751 4.412% 2030-03-25 19,241 18,534 (717)
+
+FHLMC SCRT 17-4 HT 3.25% 2057-06-25
+1 12/07/2017 35563PDD8 10,000.000 99.75 4,412 88.19 3,901 Separately Managed (511)
+
+Total for FHLMC SCRT 17-4 HT 3.25% 2057-06-25 4,412 3,901 (511)
+
+FHLMC SCRTT SERIES 2017-4 3.5% 2057-06-25
+1 12/07/2017 35563PCM9 10,000.000 102.35 4,766 87.54 4,076 Separately Managed (690)
+
+Total for FHLMC SCRTT SERIES 2017-4 3.5% 2057-06-25 4,766 4,076 (690)
+
+FHLMC SCRTT SERIES 2019-2 3.5% 2058-08-26
+1 05/08/2019 35563PKG3 15,000.000 101.53 5,713 92.78 5,220 Separately Managed (492)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 38 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+FHLMC SCRTT SERIES 2019-2 3.5% 2058-08-26
+
+2 08/20/2019 35563PKG3 20,000.000 104.94 7,685 92.78 6,795 Separately Managed (890)
+
+Total for FHLMC SCRTT SERIES 2019-2 3.5% 2058-08-26 13,398 12,015 (1,383)
+
+FHLMC SCRTT SERIES 2019-4 3% 2059-02-25
+2 02/18/2020 35563PML0 30,000.000 103.34 13,577 90.88 11,940 Separately Managed (1,637)
+
+Total for FHLMC SCRTT SERIES 2019-4 3% 2059-02-25 13,577 11,940 (1,637)
+
+FHLMCT SLSTT SERIES 2018-1 3.5% 2028-06-25
+2 10/04/2019 35564CAA5 37,902.000 104.58 13,194 94.81 11,962 Separately Managed (1,232)
+
+Total for FHLMCT SLSTT SERIES 2018-1 3.5% 2028-06-25 13,194 11,962 (1,232)
+
+FIDELITY NATL INFORMATION SERVICES 1.15% 2026-03-01
+1 02/23/2021 31620MBR6 9,000.000 99.92 9,000 89.99 8,099 Separately Managed (894)
+
+2 02/24/2021 31620MBR6 4,000.000 99.96 4,000 89.99 3,600 Separately Managed (399)
+
+Total for FIDELITY NATL INFORMATION SERVICES 1.15% 2026-03-01 13,000 11,699 (1,293)
+
+FIDELITY NATL INFORMATION SERVICES 1.65% 2028-03-01
+1 02/23/2021 31620MBS4 2,000.000 99.62 1,996 85.67 1,713 Separately Managed (279)
+
+Total for FIDELITY NATL INFORMATION SERVICES 1.65% 2028-03-01 1,996 1,713 (279)
+
+FIDELITY NATL INFORMATION SVCS COM
+5 04/22/2022 FIS 149.000 101.93 15,188 55.86 8,323 Separately Managed (6,865)
+
+Total for FIDELITY NATL INFORMATION SVCS COM 15,188 8,323 (6,865)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 39 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+FISERV INC 2.25% 2027-06-01
+1 05/11/2020 337738BB3 17,000.000 99.96 16,999 89.64 15,239 Separately Managed (1,755)
+
+Total for FISERV INC 2.25% 2027-06-01 16,999 15,239 (1,755)
+
+FISERV INC 3.2% 2026-07-01
+1 06/10/2019 337738AT5 10,000.000 100.00 10,000 94.25 9,425 Separately Managed (574)
+
+Total for FISERV INC 3.2% 2026-07-01 10,000 9,425 (574)
+
+FISERV INC 3.5% 2029-07-01
+1 06/10/2019 337738AU2 5,000.000 99.90 4,998 91.16 4,558 Separately Managed (437)
+
+2 06/11/2019 337738AU2 2,000.000 99.98 2,000 91.16 1,823 Separately Managed (177)
+
+Total for FISERV INC 3.5% 2029-07-01 6,998 6,381 (613)
+
+FLORIDA POWER & LIGHT CO 4.4% 2028-05-15
+1 05/15/2023 341081GN1 10,000.000 99.94 9,994 97.78 9,778 Separately Managed (216)
+
+Total for FLORIDA POWER & LIGHT CO 4.4% 2028-05-15 9,994 9,778 (216)
+
+FLORIDA POWER & LIGHT CO 4.45% 2026-05-15
+1 05/15/2023 341081GR2 10,000.000 99.96 9,996 98.41 9,841 Separately Managed (155)
+
+Total for FLORIDA POWER & LIGHT CO 4.45% 2026-05-15 9,996 9,841 (155)
+
+FLORIDA STATE BRD ADMIN FIN CORP 1.258% 2025-07-01
+1 09/03/2020 341271AD6 15,000.000 100.00 15,000 92.99 13,948 Separately Managed (1,052)
+
+Total for FLORIDA STATE BRD ADMIN FIN CORP 1.258% 2025-07-01 15,000 13,948 (1,052)
+
+FLORIDA STATE BRD ADMIN FIN CORP 1.705% 2027-07-01
+1 09/03/2020 341271AE4 10,000.000 100.00 10,000 88.30 8,830 Separately Managed (1,170)
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 40 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+FLORIDA STATE BRD ADMIN FIN CORP 1.705% 2027-07-01
+
+Total for FLORIDA STATE BRD ADMIN FIN CORP 1.705% 2027-07-01 10,000 8,830 (1,170)
+
+FLORIDA STATE BRD ADMIN FIN CORP 2.154% 2030-07-01
+1 09/03/2020 341271AF1 10,000.000 100.00 10,000 82.35 8,235 Separately Managed (1,765)
+
+Total for FLORIDA STATE BRD ADMIN FIN CORP 2.154% 2030-07-01 10,000 8,235 (1,765)
+
+FNMA REMIC TRUST 2007-33 5.5% 2037-04-25
+1 03/27/2007 31396VGT9 20,000.000 100.16 451 100.66 453 Separately Managed 2
+
+2 03/27/2007 31396VGT9 130,000.000 100.16 2,929 100.66 2,946 Separately Managed 15
+
+Total for FNMA REMIC TRUST 2007-33 5.5% 2037-04-25 3,379 3,399 17
+
+FNMA REMIC TRUST 2017-M7 2.961% 2027-02-25
+1 06/09/2017 3136AV7G8 14,000.000 100.37 12,007 94.13 11,330 Separately Managed (751)
+
+Total for FNMA REMIC TRUST 2017-M7 2.961% 2027-02-25 12,007 11,330 (751)
+
+FNMA UMBS        LONG 30 YEAR 2% 2051-01-01
+1 06/15/2023 31418DV74 14,000.000 82.37 8,938 80.18 8,700 Separately Managed (238)
+
+Total for FNMA UMBS LONG 30 YEAR 2% 2051-01-01 8,938 8,700 (238)
+
+FNMA UMBS        LONG 30 YEAR 2.5% 2050-08-01
+1 10/26/2022 3140QEKF8 42,000.000 83.16 24,987 84.19 25,294 Separately Managed 307
+
+Total for FNMA UMBS LONG 30 YEAR 2.5% 2050-08-01 24,987 25,294 307
+
+FNMA UMBS        LONG 30 YEAR 2.5% 2051-12-01
+1 10/26/2022 3140QMRG1 46,000.000 82.63 33,870 83.76 34,335 Separately Managed 465
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 41 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+FNMA UMBS        LONG 30 YEAR 2.5% 2051-12-01
+
+Total for FNMA UMBS LONG 30 YEAR 2.5% 2051-12-01 33,870 34,335 465
+
+FNMA UMBS        LONG 30 YEAR 5% 2041-06-01
+1 06/08/2011 3138AJZA3 50,000.000 105.99 4,058 99.95 3,898 Separately Managed (236)
+
+2 06/08/2011 3138AJZA3 50,000.000 105.99 4,058 99.95 3,898 Separately Managed (236)
+
+3 06/08/2011 3138AJZA3 25,000.000 105.83 2,027 99.95 1,949 Separately Managed (115)
+
+Total for FNMA UMBS LONG 30 YEAR 5% 2041-06-01 10,143 9,745 (586)
+
+FORTINET INC 1% 2026-03-15
+1 02/24/2021 34959EAA7 8,000.000 99.73 7,999 89.45 7,156 Separately Managed (822)
+
+Total for FORTINET INC 1% 2026-03-15 7,999 7,156 (822)
+
+FUJITSU NPV
+2 12/10/2021 6356945 100.000 133.91 13,391 125.12 12,512 Separately Managed (879)
+
+3 01/26/2022 6356945 100.000 120.31 12,031 125.12 12,512 Separately Managed 481
+
+4 02/13/2023 6356945 100.000 123.12 12,312 125.12 12,512 Separately Managed 201
+
+Total for FUJITSU NPV 37,734 37,537 (197)
+
+GALLAGHER ARTHUR J & CO COM
+1 01/09/2023 AJG 100.000 191.66 19,166 230.48 23,048 Separately Managed 3,882
+
+2 01/13/2023 AJG 69.000 195.50 13,489 230.48 15,903 Separately Managed 2,414
+
+Total for GALLAGHER ARTHUR J & CO COM 32,655 38,951 6,296
+
+GENERAL ELECTRIC CO NEW
+1 01/18/2023 GE 100.000 80.30 8,030 114.46 11,446 Separately Managed 3,416
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 42 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+GENERAL ELECTRIC CO NEW
+
+2 01/19/2023 GE 90.000 77.31 6,958 114.46 10,301 Separately Managed 3,343
+
+3 04/11/2023 GE 101.000 94.14 9,508 114.46 11,560 Separately Managed 2,053
+
+Total for GENERAL ELECTRIC CO NEW 24,496 33,308 8,812
+
+GENERAL MLS INC COM
+1 11/11/2021 GIS 170.000 63.27 10,755 67.66 11,502 Separately Managed 747
+
+2 03/24/2022 GIS 109.000 66.17 7,213 67.66 7,375 Separately Managed 162
+
+3 01/20/2023 GIS 172.000 77.05 13,253 67.66 11,638 Separately Managed (1,616)
+
+4 06/30/2023 GIS 6.000 76.73 460 67.66 406 Separately Managed (54)
+
+Total for GENERAL MLS INC COM 31,682 30,921 (761)
+
+GENERAL MOTORS CO 4.2% 2027-10-01
+1 09/02/2020 37045VAN0 13,000.000 104.62 13,176 94.19 12,244 Separately Managed (1,356)
+
+Total for GENERAL MOTORS CO 4.2% 2027-10-01 13,176 12,244 (1,356)
+
+GENERAL MOTORS FINANCIAL CO INC 1.5% 2026-06-10
+1 06/07/2021 37045XDK9 19,000.000 99.90 18,996 88.76 16,864 Separately Managed (2,117)
+
+Total for GENERAL MOTORS FINANCIAL CO INC 1.5% 2026-06-10 18,996 16,864 (2,117)
+
+GENERAL MOTORS FINANCIAL CO INC 5.4% 2026-04-06
+1 04/03/2023 37045XEF9 9,000.000 99.89 8,991 98.79 8,891 Separately Managed (99)
+
+2 04/04/2023 37045XEF9 6,000.000 100.35 6,018 98.79 5,927 Separately Managed (94)
+
+Total for GENERAL MOTORS FINANCIAL CO INC 5.4% 2026-04-06 15,009 14,818 (193)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 43 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+GENMAB AS
+4 11/19/2018 4595739 55.000 141.48 7,781 384.11 21,126 Separately Managed 13,345
+
+5 11/20/2018 4595739 40.000 139.14 5,566 384.11 15,364 Separately Managed 9,799
+
+6 11/21/2018 4595739 27.000 142.48 3,847 384.11 10,371 Separately Managed 6,524
+
+7 11/22/2018 4595739 11.000 141.99 1,562 384.11 4,225 Separately Managed 2,663
+
+9 09/22/2022 4595739 6.000 371.73 2,230 384.11 2,305 Separately Managed 74
+
+10 12/09/2022 4595739 9.000 469.24 4,223 384.11 3,457 Separately Managed (766)
+
+Total for GENMAB AS 25,209 56,848 31,639
+
+GIVAUDAN SA
+11 10/14/2015 5980613 3.000 1,772.96 5,319 3,337.30 10,012 Separately Managed 4,693
+
+12 10/20/2015 5980613 4.000 1,787.85 7,151 3,337.30 13,349 Separately Managed 6,198
+
+13 01/10/2023 5980613 1.000 3,400.44 3,400 3,337.30 3,337 Separately Managed (63)
+
+14 01/09/2023 5980613 1.000 3,340.39 3,340 3,337.30 3,337 Separately Managed (3)
+
+Total for GIVAUDAN SA 19,211 30,036 10,825
+
+GLP CAP LP/GLP FING II INC 3.35% 2024-09-01
+1 08/15/2019 361841AN9 3,000.000 99.98 3,002 96.98 2,909 Separately Managed (90)
+
+Total for GLP CAP LP/GLP FING II INC 3.35% 2024-09-01 3,002 2,909 (90)
+
+GM FINANCIAL AUTO LEASING TR 2023-3 5.38% 2026-11-20
+1 08/08/2023 379929AD4 5,000.000 99.99 4,999 99.95 4,998 Separately Managed (2)
+
+Total for GM FINANCIAL AUTO LEASING TR 2023-3 5.38% 2026-11-20 4,999 4,998 (2)
+
+GNMAII JUMBO TBA 30 YEAR 2% 2051-09-15
+4 08/15/2023 21H020691 18,989.000 81.74 15,522 82.69 15,702 Separately Managed 180
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 44 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+GNMAII JUMBO TBA 30 YEAR 2% 2051-09-15
+
+6 08/15/2023 21H020691 19,011.000 81.71 15,534 82.69 15,720 Separately Managed 186
+
+Total for GNMAII JUMBO TBA 30 YEAR 2% 2051-09-15 31,056 31,421 365
+
+GODADDY INC CL A
+1 11/06/2017 GDDY 661.000 46.82 30,950 72.51 47,929 Separately Managed 16,980
+
+2 11/06/2017 GDDY 100.000 46.71 4,671 72.51 7,251 Separately Managed 2,580
+
+Total for GODADDY INC CL A 35,621 55,180 19,559
+
+GOLDEN STATE TOB SECURITIZATION C 2.532% 2028-06-01
+1 12/08/2021 38122NC75 5,000.000 100.00 5,000 87.61 4,381 Separately Managed (619)
+
+Total for GOLDEN STATE TOB SECURITIZATION C 2.532% 2028-06-01 5,000 4,381 (619)
+
+GOLDMAN SACHS GROUP  INC 1.757% 2025-01-24
+1 01/19/2022 38141GZH0 25,000.000 100.00 25,000 98.12 24,530 Separately Managed (470)
+
+Total for GOLDMAN SACHS GROUP INC 1.757% 2025-01-24 25,000 24,530 (470)
+
+GOLDMAN SACHS GROUP INC 5.7% 2024-11-01
+1 10/27/2022 38141GZV9 15,000.000 99.97 14,998 99.76 14,964 Separately Managed (31)
+
+Total for GOLDMAN SACHS GROUP INC 5.7% 2024-11-01 14,998 14,964 (31)
+
+GOVERNMENT OF CANADA 0.75% 2026-05-19
+1 05/11/2021 427028AB1 25,000.000 99.72 24,988 90.16 22,539 Separately Managed (2,391)
+
+Total for GOVERNMENT OF CANADA 0.75% 2026-05-19 24,988 22,539 (2,391)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 45 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+GOVERNMENT OF CANADA 2.875% 2025-04-28
+1 04/20/2022 135087N75 25,000.000 100.00 25,000 96.54 24,136 Separately Managed (863)
+
+Total for GOVERNMENT OF CANADA 2.875% 2025-04-28 25,000 24,136 (863)
+
+HAMAMATSU PHOTONIC
+25 12/13/2012 6405870 135.000 17.63 2,381 46.37 6,259 Separately Managed 3,879
+
+26 12/14/2012 6405870 200.000 17.48 3,496 46.37 9,273 Separately Managed 5,777
+
+27 12/17/2012 6405870 400.000 17.60 7,041 46.37 18,546 Separately Managed 11,505
+
+28 12/18/2012 6405870 200.000 17.41 3,482 46.37 9,273 Separately Managed 5,791
+
+29 01/17/2023 6405870 100.000 45.64 4,564 46.37 4,637 Separately Managed 73
+
+Total for HAMAMATSU PHOTONIC 20,965 47,989 27,024
+
+HAROT 23-3 A3 5.41% 02-18-28/11-18-26 5.41% 2028-02-18
+1 08/15/2023 43815QAC1 14,000.000 99.98 13,997 100.24 14,034 Separately Managed 36
+
+Total for HAROT 23-3 A3 5.41% 02-18-28/11-18-26 5.41% 2028-02-18 13,997 14,034 36
+
+HDFC BANK LTD SPONSORED ADS
+1 08/02/2013 HDB 400.000 16.66 6,663 62.31 24,924 Separately Managed 18,261
+
+2 08/02/2013 HDB 4.000 16.67 67 62.31 249 Separately Managed 183
+
+7 06/29/2022 HDB 100.000 55.34 5,534 62.31 6,231 Separately Managed 697
+
+8 06/30/2022 HDB 73.000 54.77 3,999 62.31 4,549 Separately Managed 550
+
+9 07/12/2022 HDB 168.000 58.79 9,877 62.31 10,468 Separately Managed 592
+
+10 07/11/2022 HDB 100.000 59.09 5,909 62.31 6,231 Separately Managed 322
+
+Total for HDFC BANK LTD SPONSORED ADS 32,048 52,652 20,604
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 46 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+HEICO CORP
+1 02/03/2020 HEI 100.000 123.36 12,336 168.71 16,871 Separately Managed 4,535
+
+2 02/07/2020 HEI 24.000 128.02 3,072 168.71 4,049 Separately Managed 977
+
+3 02/12/2020 HEI 25.000 126.34 3,158 168.71 4,218 Separately Managed 1,059
+
+Total for HEICO CORP 18,567 25,138 6,571
+
+HEICO CORP CL A
+1 02/04/2020 HEIA 100.000 98.69 9,869 135.43 13,543 Separately Managed 3,674
+
+2 02/14/2020 HEIA 95.000 102.59 9,746 135.43 12,866 Separately Managed 3,120
+
+Total for HEICO CORP CL A 19,615 26,409 6,794
+
+HENRY JACK & ASSOC INC COM
+5 04/18/2011 JKHY 93.000 32.90 3,060 156.78 14,581 Separately Managed 11,521
+
+Total for HENRY JACK & ASSOC INC COM 3,060 14,581 11,521
+
+HERMES INTL
+4 06/30/2017 5253973 5.000 498.33 2,492 2,061.13 10,306 Separately Managed 7,814
+
+5 07/03/2017 5253973 21.000 491.65 10,325 2,061.13 43,284 Separately Managed 32,959
+
+6 07/03/2017 5253973 9.000 493.19 4,439 2,061.13 18,550 Separately Managed 14,111
+
+Total for HERMES INTL 17,255 72,140 54,885
+
+HILTON WORLDWIDE HLDGS INC COM
+4 08/10/2017 HLT 100.000 61.08 6,108 148.65 14,865 Separately Managed 8,757
+
+5 08/10/2017 HLT 200.000 61.09 12,218 148.65 29,730 Separately Managed 17,512
+
+7 08/17/2017 HLT 69.000 61.11 4,217 148.65 10,257 Separately Managed 6,040
+
+21 08/14/2020 HLT 156.000 86.39 13,477 148.65 23,189 Separately Managed 9,712
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 47 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+HILTON WORLDWIDE HLDGS INC COM
+
+22 09/29/2021 HLT 151.000 134.01 20,235 148.65 22,446 Separately Managed 2,211
+
+Total for HILTON WORLDWIDE HLDGS INC COM 56,255 100,487 44,232
+
+HOME DEPOT INC 1.5% 2028-09-15
+1 09/07/2021 437076CH3 20,000.000 99.71 19,963 85.39 17,078 Separately Managed (2,863)
+
+Total for HOME DEPOT INC 1.5% 2028-09-15 19,963 17,078 (2,863)
+
+HONDA AUTO REC OWN TR  2023-1 5.04% 2027-04-21
+1 02/16/2023 43815JAC7 4,000.000 99.98 3,999 99.40 3,976 Separately Managed (23)
+
+Total for HONDA AUTO REC OWN TR 2023-1 5.04% 2027-04-21 3,999 3,976 (23)
+
+HONDA AUTO REC OWN TR  2023-1 5.22% 2025-10-21
+1 02/16/2023 43815JAB9 9,000.000 99.99 8,999 99.64 8,967 Separately Managed (32)
+
+Total for HONDA AUTO REC OWN TR 2023-1 5.22% 2025-10-21 8,999 8,967 (32)
+
+HONEYWELL INTL INC 2.3% 2024-08-15
+1 07/30/2019 438516BW5 10,000.000 99.96 10,012 97.04 9,704 Separately Managed (292)
+
+2 08/06/2019 438516BW5 5,000.000 100.27 4,954 97.04 4,852 Separately Managed (161)
+
+Total for HONEYWELL INTL INC 2.3% 2024-08-15 14,967 14,555 (454)
+
+HONEYWELL INTL INC COM
+1 01/24/2020 HON 34.000 179.75 6,112 187.94 6,390 Separately Managed 278
+
+2 08/14/2020 HON 268.000 160.62 43,047 187.94 50,368 Separately Managed 7,321
+
+Total for HONEYWELL INTL INC COM 49,159 56,758 7,599
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 48 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+HONG KONG DOLLAR - INCOME
+
+0 I_CASH 5,849.750 0.13 747 0.13 746 Separately Managed (1)
+
+Total for HONG KONG DOLLAR - INCOME 747 746 (1)
+
+HONG KONG EXCHANGE
+1 02/02/2023 6267359 400.000 45.80 18,318 38.76 15,506 Separately Managed (2,813)
+
+Total for HONG KONG EXCHANGE 18,318 15,506 (2,813)
+
+HOYA CORP
+1 02/03/2023 HOCPF 200.000 97.13 19,427 111.03 22,207 Separately Managed 2,780
+
+Total for HOYA CORP 19,427 22,207 2,780
+
+IMPERIAL BRANDS PL
+12 06/16/2022 IMB 200.000 22.65 4,531 22.67 4,534 Separately Managed 3
+
+13 06/21/2022 IMB 200.000 23.19 4,639 22.67 4,534 Separately Managed (105)
+
+14 06/23/2022 IMB 300.000 23.02 6,906 22.67 6,801 Separately Managed (105)
+
+15 06/30/2022 IMB 200.000 23.36 4,673 22.67 4,534 Separately Managed (139)
+
+16 07/01/2022 IMB 99.000 23.22 2,299 22.67 2,244 Separately Managed (55)
+
+Total for IMPERIAL BRANDS PL 23,047 22,647 (400)
+
+INDITEX EUR (POST SUBD)
+38 04/25/2022 BP9DL90 279.000 21.63 6,036 38.34 10,698 Separately Managed 4,662
+
+39 04/26/2022 BP9DL90 176.000 22.07 3,885 38.34 6,748 Separately Managed 2,864
+
+40 04/27/2022 BP9DL90 371.000 21.46 7,961 38.34 14,225 Separately Managed 6,264
+
+41 04/28/2022 BP9DL90 314.000 21.15 6,640 38.34 12,040 Separately Managed 5,400
+
+42 05/02/2022 BP9DL90 182.000 20.80 3,785 38.34 6,978 Separately Managed 3,193
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 49 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+INDITEX EUR (POST SUBD)
+
+43 05/03/2022 BP9DL90 86.000 21.51 1,850 38.34 3,297 Separately Managed 1,448
+
+44 06/09/2022 BP9DL90 191.000 25.39 4,849 38.34 7,323 Separately Managed 2,475
+
+45 11/30/2020 BP9DL90 1,092.000 33.30 36,359 38.34 41,870 Separately Managed 5,511
+
+Total for INDITEX EUR (POST SUBD) 71,364 103,180 31,816
+
+INGERSOLL RAND INC
+1 08/30/2023 IR 100.000 69.92 6,992 69.61 6,961 Separately Managed (31)
+
+Total for INGERSOLL RAND INC 6,992 6,961 (31)
+
+INTEL CORP COM
+15 08/17/2023 INTC 368.000 32.68 12,026 35.14 12,932 Separately Managed 906
+
+Total for INTEL CORP COM 12,026 12,932 906
+
+INTER-AMERICAN DEV BANK 0.5% 2024-09-23
+1 09/16/2021 4581X0DZ8 30,000.000 99.98 30,006 94.98 28,494 Separately Managed (1,499)
+
+Total for INTER-AMERICAN DEV BANK 0.5% 2024-09-23 30,006 28,494 (1,499)
+
+ITT INC
+1 11/02/2021 ITT 100.000 97.35 9,735 102.28 10,228 Separately Managed 493
+
+2 11/03/2021 ITT 100.000 97.35 9,735 102.28 10,228 Separately Managed 493
+
+3 11/12/2021 ITT 100.000 103.32 10,332 102.28 10,228 Separately Managed (104)
+
+4 11/16/2021 ITT 13.000 103.88 1,350 102.28 1,330 Separately Managed (21)
+
+Total for ITT INC 31,151 32,014 862
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 50 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+JAPANESE YEN - INCOME
+0 I_CASH 76,792.360 0.01 551 0.01 528 Separately Managed (23)
+
+Total for JAPANESE YEN - INCOME 551 528 (23)
+
+JOHNSON & JOHNSON COM
+6 04/20/2023 JNJ 100.000 161.98 16,198 161.68 16,168 Separately Managed (30)
+
+7 04/20/2023 JNJ 62.000 162.67 10,085 161.68 10,024 Separately Managed (61)
+
+8 04/25/2023 JNJ 98.000 165.15 16,185 161.68 15,845 Separately Managed (340)
+
+9 05/19/2023 JNJ 4.000 159.17 637 161.68 647 Separately Managed 10
+
+Total for JOHNSON & JOHNSON COM 43,105 42,684 (421)
+
+JPMORGAN CHASE & CO 1.045% 2026-11-19
+1 01/25/2021 46647PBT2 20,000.000 100.23 20,009 90.14 18,028 Separately Managed (2,018)
+
+Total for JPMORGAN CHASE & CO 1.045% 2026-11-19 20,009 18,028 (2,018)
+
+JPMORGAN CHASE & CO 2.58% 2032-04-22
+1 04/15/2021 46647PCC8 2,000.000 100.00 2,000 81.95 1,639 Separately Managed (361)
+
+Total for JPMORGAN CHASE & CO 2.58% 2032-04-22 2,000 1,639 (361)
+
+JPMORGAN CHASE & CO 4.08% 2026-04-26
+1 04/19/2022 46647PCZ7 20,000.000 100.00 20,000 97.54 19,507 Separately Managed (493)
+
+Total for JPMORGAN CHASE & CO 4.08% 2026-04-26 20,000 19,507 (493)
+
+JPMORGAN CHASE & CO 4.323% 2028-04-26
+1 04/19/2022 46647PDA1 15,000.000 100.00 15,000 96.14 14,421 Separately Managed (579)
+
+Total for JPMORGAN CHASE & CO 4.323% 2028-04-26 15,000 14,421 (579)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 51 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+JPMORGAN CHASE & CO COM
+
+1 06/15/2005 JPM 875.000 35.78 31,303 146.33 128,039 Separately Managed 96,736
+
+Total for JPMORGAN CHASE & CO COM 31,303 128,039 96,736
+
+JPMORGAN CHASE BANK NA 2.522% 2031-04-22
+1 05/21/2020 46647PBL9 39,000.000 101.88 39,457 83.90 32,722 Separately Managed (7,009)
+
+Total for JPMORGAN CHASE BANK NA 2.522% 2031-04-22 39,457 32,722 (7,009)
+
+KERING
+9 02/01/2019 5505072 21.000 511.19 10,735 535.89 11,254 Separately Managed 519
+
+10 02/04/2019 5505072 14.000 506.91 7,097 535.89 7,502 Separately Managed 406
+
+11 03/29/2019 5505072 10.000 573.48 5,735 535.89 5,359 Separately Managed (376)
+
+12 03/29/2019 5505072 5.000 573.64 2,868 535.89 2,679 Separately Managed (189)
+
+13 03/29/2019 5505072 7.000 573.64 4,015 535.89 3,751 Separately Managed (264)
+
+14 04/01/2019 5505072 9.000 585.10 5,266 535.89 4,823 Separately Managed (443)
+
+15 04/02/2019 5505072 9.000 590.61 5,316 535.89 4,823 Separately Managed (493)
+
+16 11/04/2020 5505072 22.000 644.66 14,182 535.89 11,789 Separately Managed (2,393)
+
+17 06/09/2022 5505072 7.000 560.88 3,926 535.89 3,751 Separately Managed (175)
+
+18 06/10/2022 5505072 11.000 555.36 6,109 535.89 5,895 Separately Managed (214)
+
+19 06/13/2022 5505072 5.000 542.00 2,710 535.89 2,679 Separately Managed (31)
+
+20 07/07/2022 5505072 4.000 545.49 2,182 535.89 2,144 Separately Managed (38)
+
+21 08/11/2022 5505072 4.000 601.27 2,405 535.89 2,144 Separately Managed (262)
+
+Total for KERING 72,546 68,593 (3,953)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 52 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+KEURIG DR PEPPER INC
+1 08/18/2023 KDP 100.000 33.74 3,374 33.65 3,365 Separately Managed (9)
+
+2 08/21/2023 KDP 500.000 33.65 16,823 33.65 16,825 Separately Managed 2
+
+3 08/22/2023 KDP 100.000 33.52 3,352 33.65 3,365 Separately Managed 13
+
+4 08/22/2023 KDP 334.000 33.62 11,229 33.65 11,239 Separately Managed 10
+
+Total for KEURIG DR PEPPER INC 34,777 34,794 18
+
+KEURIG DR PEPPER INC 3.2% 2030-05-01
+1 04/08/2020 49271VAJ9 24,000.000 100.52 24,068 88.68 21,284 Separately Managed (2,840)
+
+Total for KEURIG DR PEPPER INC 3.2% 2030-05-01 24,068 21,284 (2,840)
+
+KEYENCE CORP
+3 03/21/2012 6490995 170.000 0.00 0 415.96 70,713 Separately Managed 70,713
+
+Total for KEYENCE CORP 0 70,713 70,713
+
+KLA-TENCOR CORP
+3 02/27/2020 KLAC 100.000 144.10 14,410 501.87 50,187 Separately Managed 35,777
+
+4 02/27/2020 KLAC 44.000 145.36 6,396 501.87 22,082 Separately Managed 15,687
+
+Total for KLA-TENCOR CORP 20,806 72,269 51,463
+
+KON KPN NV
+44 02/21/2020 5956078 496.000 2.74 1,360 3.50 1,736 Separately Managed 376
+
+45 02/21/2020 5956078 1,139.000 2.74 3,121 3.50 3,986 Separately Managed 865
+
+46 02/20/2020 5956078 1,725.000 2.72 4,687 3.50 6,036 Separately Managed 1,349
+
+47 02/20/2020 5956078 4,042.000 2.72 10,998 3.50 14,144 Separately Managed 3,145
+
+48 02/24/2020 5956078 1,215.000 2.71 3,291 3.50 4,252 Separately Managed 961
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 53 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+KON KPN NV
+
+49 08/17/2020 5956078 10,241.000 2.60 26,656 3.50 35,835 Separately Managed 9,179
+
+Total for KON KPN NV 50,113 65,988 15,874
+
+KREDITANSTALT FUR WIEDERAFBAU 0.375% 2025-07-18
+1 07/07/2020 500769JF2 13,000.000 99.84 13,013 91.87 11,943 Separately Managed (1,037)
+
+Total for KREDITANSTALT FUR WIEDERAFBAU 0.375% 2025-07-18 13,013 11,943 (1,037)
+
+L'OREAL
+21 09/26/2014 LRLCF 79.000 157.82 12,468 440.03 34,762 Separately Managed 22,294
+
+22 09/29/2014 LRLCF 28.000 157.77 4,417 440.03 12,321 Separately Managed 7,903
+
+23 05/03/2005 LRLCF 100.000 72.70 7,270 440.03 44,003 Separately Managed 36,733
+
+24 12/22/2004 LRLCF 6.000 73.71 442 440.03 2,640 Separately Managed 2,198
+
+Total for L'OREAL 24,598 93,726 69,128
+
+L3HARRIS TECHNOLOGIES INC 5.4% 2033-07-31
+1 07/27/2023 502431AQ2 5,000.000 99.89 4,995 100.21 5,011 Separately Managed 16
+
+2 07/28/2023 502431AQ2 2,000.000 100.65 2,013 100.21 2,004 Separately Managed (9)
+
+3 08/01/2023 502431AQ2 2,000.000 100.11 2,002 100.21 2,004 Separately Managed 2
+
+Total for L3HARRIS TECHNOLOGIES INC 5.4% 2033-07-31 9,010 9,019 9
+
+LILLY ELI & CO COM
+2 10/14/2015 LLY 42.000 79.16 3,325 554.20 23,276 Separately Managed 19,952
+
+Total for LILLY ELI & CO COM 3,325 23,276 19,952
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 54 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+LINCOLN ELECTRIC HOLDINGS INC
+1 05/23/2023 LECO 62.000 169.93 10,535 192.46 11,933 Separately Managed 1,397
+
+Total for LINCOLN ELECTRIC HOLDINGS INC 10,535 11,933 1,397
+
+LINDE PLC
+1 03/16/2022 LIN 32.000 304.07 9,730 387.04 12,385 Separately Managed 2,655
+
+2 06/21/2022 LIN 7.000 299.49 2,096 387.04 2,709 Separately Managed 613
+
+3 01/09/2023 LIN 86.000 321.97 27,689 387.04 33,285 Separately Managed 5,596
+
+Total for LINDE PLC 39,516 48,380 8,864
+
+LINK REAL ESTATE I
+18 08/12/2016 B0PB4M7 1,447.000 7.11 10,292 4.96 7,177 Separately Managed (3,115)
+
+20 08/17/2020 B0PB4M7 4,759.000 8.09 38,518 4.96 23,606 Separately Managed (14,912)
+
+Total for LINK REAL ESTATE I 48,810 30,783 (18,027)
+
+LOCKHEED MARTIN CORP 4.45% 2028-05-15
+1 05/23/2023 539830BZ1 6,000.000 99.83 5,990 98.45 5,907 Separately Managed (83)
+
+Total for LOCKHEED MARTIN CORP 4.45% 2028-05-15 5,990 5,907 (83)
+
+LONDON STOCK EXCH
+4 02/05/2018 B0SWJX3 465.000 55.53 25,823 103.60 48,173 Separately Managed 22,351
+
+5 09/11/2019 B0SWJX3 105.000 89.81 9,430 103.60 10,878 Separately Managed 1,448
+
+6 01/23/2020 B0SWJX3 45.000 104.19 4,688 103.60 4,662 Separately Managed (26)
+
+7 01/09/2023 B0SWJX3 44.000 92.55 4,072 103.60 4,558 Separately Managed 486
+
+8 01/09/2023 B0SWJX3 35.000 90.97 3,184 103.60 3,626 Separately Managed 442
+
+9 01/09/2023 B0SWJX3 31.000 92.14 2,856 103.60 3,212 Separately Managed 355
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 55 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+LONDON STOCK EXCH
+
+10 01/09/2023 B0SWJX3 32.000 91.49 2,928 103.60 3,315 Separately Managed 388
+
+12 01/10/2023 B0SWJX3 62.000 91.69 5,685 103.60 6,423 Separately Managed 738
+
+Total for LONDON STOCK EXCH 58,666 84,847 26,182
+
+LVMH MOET HENNESSY
+11 05/17/2016 LVMHF 30.000 164.23 4,927 848.18 25,445 Separately Managed 20,519
+
+12 05/18/2016 LVMHF 17.000 163.01 2,771 848.18 14,419 Separately Managed 11,648
+
+13 01/09/2023 LVMHF 15.000 821.80 12,327 848.18 12,723 Separately Managed 396
+
+14 07/14/2023 LVMHF 3.000 966.16 2,898 848.18 2,545 Separately Managed (354)
+
+15 07/17/2023 LVMHF 4.000 927.97 3,712 848.18 3,393 Separately Managed (319)
+
+Total for LVMH MOET HENNESSY 26,635 58,524 31,889
+
+LYB INTERNATIONAL FIN III LLC 1.25% 2025-10-01
+1 10/06/2020 50249AAF0 3,000.000 99.86 3,001 91.19 2,736 Separately Managed (260)
+
+2 10/07/2020 50249AAF0 2,000.000 100.03 2,000 91.19 1,824 Separately Managed (177)
+
+3 11/05/2020 50249AAF0 5,000.000 100.42 4,992 91.19 4,560 Separately Managed (461)
+
+Total for LYB INTERNATIONAL FIN III LLC 1.25% 2025-10-01 9,993 9,119 (898)
+
+LYB INTERNATIONAL FIN III LLC 2.25% 2030-10-01
+1 10/07/2020 50249AAG8 2,000.000 99.87 1,998 81.24 1,625 Separately Managed (373)
+
+2 10/15/2020 50249AAG8 2,000.000 100.28 2,003 81.24 1,625 Separately Managed (381)
+
+3 10/21/2020 50249AAG8 2,000.000 100.17 2,002 81.24 1,625 Separately Managed (378)
+
+Total for LYB INTERNATIONAL FIN III LLC 2.25% 2030-10-01 6,004 4,874 (1,132)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 56 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+MARRIOTT INTL INC 4.9% 2029-04-15
+1 03/23/2023 571903BL6 2,000.000 98.81 1,978 97.34 1,947 Separately Managed (29)
+
+Total for MARRIOTT INTL INC 4.9% 2029-04-15 1,978 1,947 (29)
+
+MARSH & MCLENNAN COS INC 2.25% 2030-11-15
+1 05/04/2020 571748BN1 10,000.000 99.39 9,964 82.65 8,265 Separately Managed (1,675)
+
+Total for MARSH & MCLENNAN COS INC 2.25% 2030-11-15 9,964 8,265 (1,675)
+
+MARSH & MCLENNAN COS INC 3.875% 2024-03-15
+1 01/08/2019 571748BF8 15,000.000 99.99 15,006 98.96 14,844 Separately Managed (155)
+
+Total for MARSH & MCLENNAN COS INC 3.875% 2024-03-15 15,006 14,844 (155)
+
+MARSH & MCLENNAN COS INC COM
+1 09/16/2011 MMC 119.000 28.64 3,408 194.99 23,204 Separately Managed 19,796
+
+2 09/28/2011 MMC 200.000 26.91 5,382 194.99 38,998 Separately Managed 33,616
+
+Total for MARSH & MCLENNAN COS INC COM 8,790 62,202 53,412
+
+MASCO CORP 1.5% 2028-02-15
+1 02/18/2021 574599BS4 4,000.000 99.89 3,998 85.18 3,407 Separately Managed (589)
+
+2 03/05/2021 574599BS4 2,000.000 98.41 1,985 85.18 1,704 Separately Managed (265)
+
+3 03/12/2021 574599BS4 2,000.000 97.92 1,980 85.18 1,704 Separately Managed (255)
+
+Total for MASCO CORP 1.5% 2028-02-15 7,963 6,814 (1,108)
+
+MASTERCARD INC CL A
+1 03/16/2022 MA 53.000 346.21 18,349 412.64 21,870 Separately Managed 3,521
+
+2 11/01/2022 MA 100.000 333.20 33,320 412.64 41,264 Separately Managed 7,944
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 57 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+MASTERCARD INC CL A
+
+3 11/02/2022 MA 23.000 327.86 7,541 412.64 9,491 Separately Managed 1,950
+
+4 01/20/2023 MA 34.000 375.82 12,778 412.64 14,030 Separately Managed 1,252
+
+Total for MASTERCARD INC CL A 71,987 86,654 14,667
+
+MASTERCARD INCORPORATED 4.875% 2028-03-09
+1 03/06/2023 57636QAW4 8,000.000 99.91 7,994 100.29 8,023 Separately Managed 30
+
+Total for MASTERCARD INCORPORATED 4.875% 2028-03-09 7,994 8,023 30
+
+MEDTRONIC GLOBAL HOLDINGS SC A 4.25% 2028-03-30
+1 03/23/2023 58507LBB4 7,000.000 99.72 6,982 97.23 6,806 Separately Managed (174)
+
+Total for MEDTRONIC GLOBAL HOLDINGS SC A 4.25% 2028-03-30 6,982 6,806 (174)
+
+MERCADOLIBRE INC COM
+1 12/02/2021 MELI 18.000 1,109.60 19,973 1,372.36 24,702 Separately Managed 4,730
+
+2 12/27/2021 MELI 13.000 1,292.67 16,805 1,372.36 17,841 Separately Managed 1,036
+
+3 01/27/2023 MELI 11.000 1,217.77 13,395 1,372.36 15,096 Separately Managed 1,700
+
+Total for MERCADOLIBRE INC COM 50,173 57,639 7,466
+
+META PLATFORMS INC CL A
+10 03/23/2022 META 62.000 214.60 13,305 295.89 18,345 Separately Managed 5,040
+
+Total for META PLATFORMS INC CL A 13,305 18,345 5,040
+
+METTLER TOLEDO INTERNATIONAL
+1 08/31/2023 MTD 4.000 1,217.66 4,871 1,213.48 4,854 Separately Managed (17)
+
+Total for METTLER TOLEDO INTERNATIONAL 4,871 4,854 (17)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 58 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+MICROSOFT CORP 2.4% 2026-08-08
+
+1 01/21/2021 594918BR4 23,000.000 104.37 23,051 93.82 21,578 Separately Managed (2,427)
+
+Total for MICROSOFT CORP 2.4% 2026-08-08 23,051 21,578 (2,427)
+
+MICROSOFT CORP COM
+1 06/27/2005 MSFT 515.000 25.11 12,932 327.76 168,796 Separately Managed 155,865
+
+2 08/27/2015 MSFT 170.000 43.77 7,440 327.76 55,719 Separately Managed 48,279
+
+3 01/18/2019 MSFT 61.000 107.41 6,552 327.76 19,993 Separately Managed 13,441
+
+Total for MICROSOFT CORP COM 26,924 244,509 217,585
+
+MODERNA INC
+1 01/20/2023 MRNA 49.000 193.73 9,493 113.07 5,540 Separately Managed (3,952)
+
+Total for MODERNA INC 9,493 5,540 (3,952)
+
+MOLINA HEALTHCARE INC
+1 03/01/2023 MOH 8.000 274.81 2,198 310.12 2,481 Separately Managed 282
+
+Total for MOLINA HEALTHCARE INC 2,198 2,481 282
+
+MOLSON COORS BEVERAGE CO 3% 2026-07-15
+1 06/28/2016 60871RAG5 5,000.000 99.95 5,002 93.69 4,685 Separately Managed (313)
+
+Total for MOLSON COORS BEVERAGE CO 3% 2026-07-15 5,002 4,685 (313)
+
+MONDELEZ INTL INC CL A
+8 02/03/2023 MDLZ 205.000 65.83 13,495 71.26 14,608 Separately Managed 1,113
+
+Total for MONDELEZ INTL INC CL A 13,495 14,608 1,113
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 59 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+MORGAN STANLEY 1.164% 2025-10-21
+
+1 10/14/2021 61747YEG6 9,000.000 100.00 9,000 94.30 8,487 Separately Managed (513)
+
+Total for MORGAN STANLEY 1.164% 2025-10-21 9,000 8,487 (513)
+
+MORGAN STANLEY 1.593% 2027-05-04
+1 04/19/2021 61772BAB9 5,000.000 100.00 5,000 89.73 4,486 Separately Managed (514)
+
+2 04/22/2021 61772BAB9 5,000.000 100.29 5,002 89.73 4,486 Separately Managed (528)
+
+Total for MORGAN STANLEY 1.593% 2027-05-04 10,002 8,973 (1,042)
+
+MORGAN STANLEY 2.699% 2031-01-22
+1 01/28/2020 6174468L6 2,000.000 100.55 2,006 84.20 1,684 Separately Managed (327)
+
+2 01/30/2020 6174468L6 4,000.000 100.99 4,022 84.20 3,368 Separately Managed (672)
+
+Total for MORGAN STANLEY 2.699% 2031-01-22 6,029 5,052 (999)
+
+MORGAN STANLEY 4.679% 2026-07-17
+1 07/18/2022 61747YET8 10,000.000 100.00 10,000 97.89 9,789 Separately Managed (211)
+
+Total for MORGAN STANLEY 4.679% 2026-07-17 10,000 9,789 (211)
+
+MORGAN STANLEY 5.25% 2034-04-21
+1 04/20/2023 61747YFE0 10,000.000 100.20 10,019 97.17 9,717 Separately Managed (303)
+
+Total for MORGAN STANLEY 5.25% 2034-04-21 10,019 9,717 (303)
+
+MORGAN STANLEY 5.449% 2029-07-20
+1 07/19/2023 61747YFF7 10,000.000 100.00 10,000 99.39 9,939 Separately Managed (61)
+
+Total for MORGAN STANLEY 5.449% 2029-07-20 10,000 9,939 (61)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 60 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+MORGAN STANLEY SR UNSEC 2.72% 2025-07-22
+
+2 07/18/2019 6174468J1 25,000.000 99.95 25,024 97.03 24,259 Separately Managed (730)
+
+Total for MORGAN STANLEY SR UNSEC 2.72% 2025-07-22 25,024 24,259 (730)
+
+MPLX LP 4% 2028-03-15
+1 02/05/2018 55336VAR1 5,000.000 99.78 5,000 93.86 4,693 Separately Managed (296)
+
+Total for MPLX LP 4% 2028-03-15 5,000 4,693 (296)
+
+MSCI INC COM
+1 12/06/2019 MSCI 89.000 266.40 23,709 543.62 48,382 Separately Managed 24,673
+
+Total for MSCI INC COM 23,709 48,382 24,673
+
+MTU AERO ENGINES A NPV (REGD)
+1 01/14/2022 B09DHL9 33.000 225.03 7,426 234.00 7,722 Separately Managed 296
+
+2 01/17/2022 B09DHL9 23.000 215.62 4,959 234.00 5,382 Separately Managed 423
+
+3 01/17/2022 B09DHL9 15.000 214.36 3,215 234.00 3,510 Separately Managed 295
+
+4 01/18/2022 B09DHL9 27.000 211.79 5,718 234.00 6,318 Separately Managed 600
+
+5 01/18/2022 B09DHL9 2.000 213.98 428 234.00 468 Separately Managed 40
+
+6 07/28/2022 B09DHL9 13.000 205.00 2,665 234.00 3,042 Separately Managed 377
+
+7 07/29/2022 B09DHL9 16.000 205.99 3,296 234.00 3,744 Separately Managed 448
+
+Total for MTU AERO ENGINES A NPV (REGD) 27,708 30,186 2,479
+
+NASDAQ INC 5.35% 2028-06-28
+1 06/22/2023 63111XAH4 6,000.000 99.81 5,989 99.97 5,998 Separately Managed 10
+
+Total for NASDAQ INC 5.35% 2028-06-28 5,989 5,998 10
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 61 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+NATIONAL GRID
+
+3 11/08/2022 BDR05C0 537.000 12.39 6,655 12.54 6,736 Separately Managed 82
+
+4 11/09/2022 BDR05C0 238.000 12.41 2,953 12.54 2,985 Separately Managed 32
+
+5 11/10/2022 BDR05C0 180.000 12.74 2,293 12.54 2,258 Separately Managed (35)
+
+6 07/27/2023 BDR05C0 289.000 13.28 3,837 12.54 3,625 Separately Managed (212)
+
+Total for NATIONAL GRID 15,738 15,605 (133)
+
+NESTLE SA
+6 06/11/2001 7123870 660.000 0.00 0 120.45 79,497 Separately Managed 79,497
+
+7 11/06/2003 7123870 300.000 33.51 10,053 120.45 36,135 Separately Managed 26,082
+
+Total for NESTLE SA 10,053 115,633 105,580
+
+NETFLIX INC COM
+3 01/24/2022 NFLX 15.000 365.91 5,489 433.68 6,505 Separately Managed 1,017
+
+4 01/25/2022 NFLX 13.000 375.64 4,883 433.68 5,638 Separately Managed 755
+
+6 05/27/2022 NFLX 21.000 194.51 4,085 433.68 9,107 Separately Managed 5,023
+
+Total for NETFLIX INC COM 14,457 21,250 6,794
+
+NEW YORK STATE DORM AUTH ST PERS 1.748% 2028-03-15
+1 06/16/2021 64990FD76 10,000.000 100.00 10,000 87.94 8,794 Separately Managed (1,206)
+
+Total for NEW YORK STATE DORM AUTH ST PERS 1.748% 2028-03-15 10,000 8,794 (1,206)
+
+NEXTERA ENERGY CAP HOLDINGS INC 2.25% 2030-06-01
+1 05/05/2020 65339KBR0 17,000.000 99.97 16,998 82.23 13,979 Separately Managed (3,017)
+
+Total for NEXTERA ENERGY CAP HOLDINGS INC 2.25% 2030-06-01 16,998 13,979 (3,017)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 62 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+NEXTERA ENERGY CAP HOLDINGS INC 6.051% 2025-03-01
+
+1 02/22/2023 65339KBP4 25,000.000 100.19 25,032 100.38 25,095 Separately Managed 47
+
+Total for NEXTERA ENERGY CAP HOLDINGS INC 6.051% 2025-03-01 25,032 25,095 47
+
+NICE LTD SP ADR
+2 02/07/2023 NICE 45.000 221.06 9,948 194.80 8,766 Separately Managed (1,182)
+
+3 04/11/2023 NICE 28.000 222.88 6,241 194.80 5,454 Separately Managed (786)
+
+Total for NICE LTD SP ADR 16,188 14,220 (1,968)
+
+NIKE INC 2.375% 2026-11-01
+1 10/18/2016 654106AF0 25,000.000 99.95 25,010 92.61 23,154 Separately Managed (1,834)
+
+Total for NIKE INC 2.375% 2026-11-01 25,010 23,154 (1,834)
+
+NIKE INC CL B
+1 08/17/2017 NKE 140.000 58.38 8,174 101.71 14,239 Separately Managed 6,066
+
+3 07/08/2022 NKE 100.000 107.01 10,701 101.71 10,171 Separately Managed (530)
+
+4 07/08/2022 NKE 9.000 107.58 968 101.71 915 Separately Managed (53)
+
+Total for NIKE INC CL B 19,843 25,326 5,483
+
+NIPPON TEL&TEL CP
+2 03/04/2022 6641373 2,500.000 0.93 2,332 1.16 2,892 Separately Managed 560
+
+3 03/07/2022 6641373 5,000.000 0.92 4,607 1.16 5,784 Separately Managed 1,177
+
+4 03/10/2022 6641373 2,500.000 0.92 2,307 1.16 2,892 Separately Managed 584
+
+5 03/11/2022 6641373 2,500.000 0.93 2,330 1.16 2,892 Separately Managed 562
+
+6 03/22/2022 6641373 2,500.000 0.98 2,439 1.16 2,892 Separately Managed 453
+
+7 03/23/2022 6641373 2,500.000 0.99 2,485 1.16 2,892 Separately Managed 406
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 63 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+NIPPON TEL&TEL CP
+
+8 03/29/2022 6641373 2,500.000 0.99 2,486 1.16 2,892 Separately Managed 406
+
+Total for NIPPON TEL&TEL CP 18,986 23,135 4,148
+
+NOKIA OYJ NPV
+1 11/10/2021 5902941 914.000 5.47 5,003 4.00 3,654 Separately Managed (1,349)
+
+2 11/10/2021 5902941 1,722.000 5.43 9,345 4.00 6,885 Separately Managed (2,460)
+
+3 11/10/2021 5902941 640.000 5.44 3,481 4.00 2,559 Separately Managed (922)
+
+4 11/11/2021 5902941 494.000 5.44 2,685 4.00 1,975 Separately Managed (710)
+
+5 11/11/2021 5902941 543.000 5.42 2,944 4.00 2,171 Separately Managed (773)
+
+6 11/12/2021 5902941 286.000 5.44 1,555 4.00 1,143 Separately Managed (412)
+
+Total for NOKIA OYJ NPV 25,013 18,387 (6,626)
+
+NOMURA RESEARCH IN NPV
+1 04/19/2023 6390921 300.000 22.47 6,741 28.76 8,629 Separately Managed 1,888
+
+2 04/20/2023 6390921 200.000 22.31 4,461 28.76 5,753 Separately Managed 1,291
+
+3 04/21/2023 6390921 200.000 22.28 4,456 28.76 5,753 Separately Managed 1,297
+
+4 04/24/2023 6390921 100.000 22.38 2,238 28.76 2,876 Separately Managed 639
+
+Total for NOMURA RESEARCH IN NPV 17,896 23,011 5,115
+
+NORFOLK SOUTHERN CORP COM
+3 11/05/2020 NSC 65.000 226.56 14,726 205.01 13,326 Separately Managed (1,401)
+
+Total for NORFOLK SOUTHERN CORP COM 14,726 13,326 (1,401)
+
+NORTHROP GRUMMAN CORP COM
+6 01/11/2019 NOC 80.000 254.97 20,398 433.09 34,647 Separately Managed 14,250
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 64 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+NORTHROP GRUMMAN CORP COM
+
+7 02/20/2019 NOC 58.000 287.41 16,670 433.09 25,119 Separately Managed 8,449
+
+8 02/27/2019 NOC 75.000 286.35 21,476 433.09 32,482 Separately Managed 11,005
+
+Total for NORTHROP GRUMMAN CORP COM 58,544 92,248 33,704
+
+NOVARTIS CAPITAL CORP 1.75% 2025-02-14
+1 02/11/2020 66989HAP3 11,000.000 99.96 11,006 95.17 10,469 Separately Managed (527)
+
+2 02/12/2020 66989HAP3 10,000.000 99.96 10,005 95.17 9,517 Separately Managed (479)
+
+Total for NOVARTIS CAPITAL CORP 1.75% 2025-02-14 21,011 19,985 (1,006)
+
+NOVO NORDISK A/S
+63 12/17/2018 BHC8X90 57.000 46.26 2,637 185.36 10,566 Separately Managed 7,929
+
+64 06/03/2009 BHC8X90 481.000 10.56 5,077 185.36 89,158 Separately Managed 84,081
+
+65 06/04/2009 BHC8X90 500.000 10.58 5,292 185.36 92,680 Separately Managed 87,388
+
+66 06/08/2009 BHC8X90 500.000 10.35 5,177 185.36 92,680 Separately Managed 87,503
+
+Total for NOVO NORDISK A/S 18,183 285,084 266,901
+
+OBIC CO LTD
+1 04/05/2019 6136749 100.000 104.08 10,408 174.10 17,410 Separately Managed 7,002
+
+2 04/23/2019 6136749 21.000 108.69 2,282 174.10 3,656 Separately Managed 1,374
+
+3 01/10/2023 6136749 100.000 134.18 13,418 174.10 17,410 Separately Managed 3,991
+
+Total for OBIC CO LTD 26,108 38,475 12,367
+
+ONEOK INC 5.65% 2028-11-01
+1 08/10/2023 682680BJ1 3,000.000 99.87 2,996 100.12 3,004 Separately Managed 8
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 65 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ONEOK INC 5.65% 2028-11-01
+
+Total for ONEOK INC 5.65% 2028-11-01 2,996 3,004 8
+
+ONEOK INC SR UNSEC 5.55% 11-01-26 5.55% 2026-11-01
+1 08/10/2023 682680BH5 2,000.000 99.89 1,998 100.05 2,001 Separately Managed 3
+
+Total for ONEOK INC SR UNSEC 5.55% 11-01-26 5.55% 2026-11-01 1,998 2,001 3
+
+ORIENTAL LAND CO NPV
+1 02/03/2023 OLCLF 500.000 29.55 14,773 36.08 18,038 Separately Managed 3,266
+
+Total for ORIENTAL LAND CO NPV 14,773 18,038 3,266
+
+ORSTED AS DKK
+1 09/30/2021 BYT16L4 118.000 128.20 15,127 64.38 7,597 Separately Managed (7,530)
+
+2 07/14/2022 BYT16L4 43.000 117.65 5,059 64.38 2,768 Separately Managed (2,291)
+
+3 07/14/2022 BYT16L4 47.000 118.65 5,577 64.38 3,026 Separately Managed (2,551)
+
+5 07/15/2022 BYT16L4 29.000 116.85 3,389 64.38 1,867 Separately Managed (1,522)
+
+Total for ORSTED AS DKK 29,152 15,258 (13,894)
+
+PACIFIC GAS & ELEC CO 2.1% 2027-08-01
+1 06/17/2020 694308JF5 10,000.000 99.83 9,996 86.35 8,635 Separately Managed (1,348)
+
+Total for PACIFIC GAS & ELEC CO 2.1% 2027-08-01 9,996 8,635 (1,348)
+
+PACIFIC GAS & ELEC CO 2.5% 2031-02-01
+3 06/17/2020 694308JG3 18,000.000 99.83 17,981 77.98 14,036 Separately Managed (3,933)
+
+Total for PACIFIC GAS & ELEC CO 2.5% 2031-02-01 17,981 14,036 (3,933)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 66 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+PARTNERS GROUP HLG
+
+1 02/03/2023 B119QG0 8.000 1,041.96 8,336 1,081.34 8,651 Separately Managed 315
+
+2 02/03/2023 B119QG0 9.000 1,064.15 9,577 1,081.34 9,732 Separately Managed 155
+
+3 02/06/2023 B119QG0 2.000 1,045.13 2,090 1,081.34 2,163 Separately Managed 72
+
+Total for PARTNERS GROUP HLG 20,003 20,545 542
+
+PAYPAL HOLDINGS INC 1.65% 2025-06-01
+1 05/11/2020 70450YAG8 9,000.000 99.99 9,001 93.67 8,430 Separately Managed (569)
+
+Total for PAYPAL HOLDINGS INC 1.65% 2025-06-01 9,001 8,430 (569)
+
+PERNOD RICARD
+14 07/14/2023 4682329 12.000 219.57 2,635 196.48 2,358 Separately Managed (277)
+
+15 07/17/2023 4682329 34.000 217.54 7,396 196.48 6,680 Separately Managed (716)
+
+16 07/18/2023 4682329 7.000 216.57 1,516 196.48 1,375 Separately Managed (141)
+
+17 07/18/2023 4682329 21.000 216.58 4,548 196.48 4,126 Separately Managed (422)
+
+Total for PERNOD RICARD 16,095 14,540 (1,555)
+
+PFIZER INC COM
+1 08/10/2022 PFE 239.000 49.62 11,859 35.38 8,456 Separately Managed (3,403)
+
+2 01/09/2023 PFE 409.000 49.57 20,273 35.38 14,470 Separately Managed (5,802)
+
+Total for PFIZER INC COM 32,132 22,926 (9,205)
+
+PFIZER INVESTMENT ENTERPRISES PTE LTD SR UNSEC 4.45% 05-19-26 4.45% 2026-05-19
+1 05/16/2023 716973AB8 10,000.000 99.89 9,990 99.88 9,988 Separately Managed (1)
+
+Total for PFIZER INVESTMENT ENTERPRISES PTE LTD SR UNSEC 4.45% 05-19-26 4.45% 9,990 9,988 (1)
+2026-05-19
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 67 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+PFIZER INVESTMENT ENTERPRISES PTE LTD SR UNSEC 4.45% 05-19-28 4.45% 2028-05-19
+
+1 05/16/2023 716973AC6 5,000.000 99.89 4,995 98.11 4,905 Separately Managed (89)
+
+Total for PFIZER INVESTMENT ENTERPRISES PTE LTD SR UNSEC 4.45% 05-19-28 4.45% 4,995 4,905 (89)
+2028-05-19
+
+PFIZER INVESTMENT ENTERPRISES PTE LTD SR UNSEC 4.65% 05-19-30 4.65% 2030-05-19
+1 05/16/2023 716973AD4 5,000.000 99.83 4,992 98.60 4,930 Separately Managed (61)
+
+Total for PFIZER INVESTMENT ENTERPRISES PTE LTD SR UNSEC 4.65% 05-19-30 4.65% 4,992 4,930 (61)
+2030-05-19
+
+PHILIP MORRIS INTL INC 5% 2025-11-17
+1 11/15/2022 718172CU1 10,000.000 99.82 9,988 99.39 9,939 Separately Managed (43)
+
+Total for PHILIP MORRIS INTL INC 5% 2025-11-17 9,988 9,939 (43)
+
+PHILIP MORRIS INTL INC 5.125% 2027-11-17
+1 11/15/2022 718172CV9 3,000.000 99.58 2,990 99.79 2,994 Separately Managed 6
+
+Total for PHILIP MORRIS INTL INC 5.125% 2027-11-17 2,990 2,994 6
+
+PHILIP MORRIS INTL INC 5.625% 2029-11-17
+1 11/15/2022 718172CW7 2,000.000 99.92 1,999 101.09 2,022 Separately Managed 23
+
+Total for PHILIP MORRIS INTL INC 5.625% 2029-11-17 1,999 2,022 23
+
+PHILIP MORRIS INTL INC COM
+1 04/29/2008 PM 15.000 51.96 779 96.06 1,441 Separately Managed 662
+
+2 02/24/2010 PM 300.000 49.86 14,957 96.06 28,818 Separately Managed 13,861
+
+3 03/11/2016 PM 35.000 96.41 3,374 96.06 3,362 Separately Managed (12)
+
+4 03/11/2016 PM 15.000 96.34 1,445 96.06 1,441 Separately Managed (4)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 68 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+PHILIP MORRIS INTL INC COM
+
+6 02/09/2018 PM 230.000 99.68 22,926 96.06 22,094 Separately Managed (832)
+
+7 10/22/2018 PM 145.000 87.61 12,703 96.06 13,929 Separately Managed 1,226
+
+8 12/13/2018 PM 290.000 84.22 24,424 96.06 27,857 Separately Managed 3,434
+
+Total for PHILIP MORRIS INTL INC COM 80,609 98,942 18,333
+
+PHILLIPS 66 3.85% 2025-04-09
+1 04/07/2020 718546AV6 17,000.000 99.98 17,003 97.29 16,539 Separately Managed (458)
+
+Total for PHILLIPS 66 3.85% 2025-04-09 17,003 16,539 (458)
+
+PIONEER NATURAL RESOURCES CO 1.125% 2026-01-15
+1 01/14/2021 723787AT4 3,000.000 99.99 3,000 90.64 2,719 Separately Managed (280)
+
+Total for PIONEER NATURAL RESOURCES CO 1.125% 2026-01-15 3,000 2,719 (280)
+
+PNC FINANCIAL SERVICES GROUP INC 5.671% 2025-10-28
+1 10/25/2022 693475BH7 15,000.000 100.00 15,000 99.57 14,936 Separately Managed (64)
+
+Total for PNC FINANCIAL SERVICES GROUP INC 5.671% 2025-10-28 15,000 14,936 (64)
+
+PNC FINL SVCS GROUP INC COM
+1 05/25/2023 PNC 86.000 119.34 10,264 120.73 10,383 Separately Managed 119
+
+Total for PNC FINL SVCS GROUP INC COM 10,264 10,383 119
+
+PROCTER & GAMBLE 1% 2026-04-23
+1 04/21/2021 742718FP9 2,000.000 99.98 2,000 90.91 1,818 Separately Managed (181)
+
+Total for PROCTER & GAMBLE 1% 2026-04-23 2,000 1,818 (181)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 69 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+PROCTER & GAMBLE CO 0.55% 2025-10-29
+
+1 10/27/2020 742718FL8 8,000.000 99.93 8,002 91.06 7,285 Separately Managed (710)
+
+2 10/30/2020 742718FL8 5,000.000 99.85 5,002 91.06 4,553 Separately Managed (439)
+
+Total for PROCTER & GAMBLE CO 0.55% 2025-10-29 13,004 11,838 (1,149)
+
+PROCTER & GAMBLE CO 3% 2030-03-25
+1 03/23/2020 742718FH7 8,000.000 99.83 7,993 91.40 7,312 Separately Managed (674)
+
+Total for PROCTER & GAMBLE CO 3% 2030-03-25 7,993 7,312 (674)
+
+PROCTER & GAMBLE CO 3.95% 2026-01-26
+1 01/23/2023 742718FZ7 15,000.000 99.92 14,990 98.12 14,719 Separately Managed (269)
+
+Total for PROCTER & GAMBLE CO 3.95% 2026-01-26 14,990 14,719 (269)
+
+PROCTER & GAMBLE CO 4.1% 2026-01-26
+1 01/23/2023 742718FY0 15,000.000 99.95 14,994 98.60 14,791 Separately Managed (201)
+
+Total for PROCTER & GAMBLE CO 4.1% 2026-01-26 14,994 14,791 (201)
+
+PROLOGIS LP 4.875% 2028-06-15
+1 06/26/2023 74340XCG4 6,000.000 99.41 5,966 98.94 5,937 Separately Managed (28)
+
+Total for PROLOGIS LP 4.875% 2028-06-15 5,966 5,937 (28)
+
+PROVINCE OF QUEBEC 0.6% 2025-07-23
+1 07/16/2020 748148SC8 20,000.000 99.98 20,002 92.06 18,412 Separately Managed (1,584)
+
+Total for PROVINCE OF QUEBEC 0.6% 2025-07-23 20,002 18,412 (1,584)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 70 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+PUBLIC STORAGE 1.85% 2028-05-01
+1 04/14/2021 74460WAD9 2,000.000 99.95 1,999 86.75 1,735 Separately Managed (264)
+
+2 04/15/2021 74460WAD9 2,000.000 100.37 2,004 86.75 1,735 Separately Managed (272)
+
+3 05/14/2021 74460WAD9 2,000.000 100.03 2,000 86.75 1,735 Separately Managed (266)
+
+4 05/26/2021 74460WAD9 2,000.000 100.25 2,003 86.75 1,735 Separately Managed (270)
+
+Total for PUBLIC STORAGE 1.85% 2028-05-01 8,006 6,940 (1,072)
+
+PUBLIC STORAGE 1.95% 2028-11-09
+1 11/04/2021 74460DAH2 8,000.000 99.97 7,998 85.95 6,876 Separately Managed (1,121)
+
+Total for PUBLIC STORAGE 1.95% 2028-11-09 7,998 6,876 (1,121)
+
+RAYTHEON TECHNOLOGIES CORP 3.2% 2024-03-15
+1 03/28/2017 774341AJ0 5,000.000 100.00 5,014 98.67 4,934 Separately Managed (66)
+
+2 03/29/2017 774341AJ0 5,000.000 100.00 5,000 98.67 4,934 Separately Managed (66)
+
+Total for RAYTHEON TECHNOLOGIES CORP 3.2% 2024-03-15 10,015 9,867 (133)
+
+RAYTHEON TECHNOLOGIES CORP 5% 2026-02-27
+1 02/23/2023 75513ECQ2 3,000.000 99.98 2,999 99.56 2,987 Separately Managed (12)
+
+Total for RAYTHEON TECHNOLOGIES CORP 5% 2026-02-27 2,999 2,987 (12)
+
+RECKITT BENCK GRP
+22 02/22/2019 B24CGK7 401.000 74.39 29,832 72.23 28,965 Separately Managed (867)
+
+24 03/24/2020 B24CGK7 270.000 69.79 18,844 72.23 19,503 Separately Managed 659
+
+29 03/24/2020 B24CGK7 100.000 70.10 7,010 72.23 7,223 Separately Managed 213
+
+30 11/23/2021 B24CGK7 7.000 78.70 551 72.23 506 Separately Managed (45)
+
+31 01/09/2023 B24CGK7 75.000 74.60 5,595 72.23 5,417 Separately Managed (177)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 71 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+RECKITT BENCK GRP
+
+32 01/10/2023 B24CGK7 80.000 74.73 5,979 72.23 5,779 Separately Managed (200)
+
+33 01/11/2023 B24CGK7 20.000 75.14 1,503 72.23 1,445 Separately Managed (58)
+
+Total for RECKITT BENCK GRP 69,314 68,838 (476)
+
+RECRUIT HOLDINGS CO L NPV
+1 02/03/2023 BQRRZ00 500.000 30.23 15,114 35.88 17,939 Separately Managed 2,825
+
+Total for RECRUIT HOLDINGS CO L NPV 15,114 17,939 2,825
+
+REGENERON PHARMACEUTICALS
+1 03/16/2022 REGN 15.000 675.34 10,130 826.49 12,397 Separately Managed 2,267
+
+2 06/26/2023 REGN 10.000 784.77 7,848 826.49 8,265 Separately Managed 417
+
+3 06/29/2023 REGN 15.000 704.85 10,573 826.49 12,397 Separately Managed 1,825
+
+4 08/09/2023 REGN 1.000 790.92 791 826.49 826 Separately Managed 36
+
+5 08/17/2023 REGN 16.000 797.22 12,756 826.49 13,224 Separately Managed 468
+
+Total for REGENERON PHARMACEUTICALS 42,097 47,110 5,013
+
+RICHEMONT(CIE FIN) WTS 13/09/23
+1 01/31/2020 BN2BT82 137.000 0.00 0 0.96 131 Separately Managed 131
+
+2 08/17/2020 BN2BT82 706.000 0.00 0 0.96 675 Separately Managed 675
+
+3 09/29/2020 BN2BT82 1,042.000 0.00 0 0.96 997 Separately Managed 997
+
+4 09/30/2020 BN2BT82 132.000 0.00 0 0.96 126 Separately Managed 126
+
+5 09/30/2020 BN2BT82 248.000 0.00 0 0.96 237 Separately Managed 237
+
+Total for RICHEMONT(CIE FIN) WTS 13/09/23 0 2,167 2,167
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 72 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ROYAL CARIBBEAN CRUISES LTD COM
+6 04/06/2020 RCL 100.000 27.96 2,796 98.94 9,894 Separately Managed 7,098
+
+7 04/06/2020 RCL 100.000 28.61 2,861 98.94 9,894 Separately Managed 7,033
+
+8 04/06/2020 RCL 72.000 29.53 2,126 98.94 7,124 Separately Managed 4,997
+
+9 04/06/2020 RCL 400.000 28.86 11,544 98.94 39,576 Separately Managed 28,032
+
+Total for ROYAL CARIBBEAN CRUISES LTD COM 19,328 66,488 47,160
+
+RTX CORP
+1 05/17/2023 RTX 151.000 96.85 14,625 86.04 12,992 Separately Managed (1,633)
+
+2 07/07/2023 RTX 100.000 97.90 9,790 86.04 8,604 Separately Managed (1,186)
+
+3 07/07/2023 RTX 65.000 98.36 6,393 86.04 5,593 Separately Managed (801)
+
+4 08/07/2023 RTX 75.000 85.49 6,412 86.04 6,453 Separately Managed 41
+
+Total for RTX CORP 37,220 33,642 (3,578)
+
+RYANAIR HLDGS PLC SPONSORED ADS
+10 11/19/2018 RYAAY 100.000 78.44 7,844 99.25 9,925 Separately Managed 2,081
+
+12 11/20/2018 RYAAY 100.000 77.99 7,799 99.25 9,925 Separately Managed 2,126
+
+13 12/07/2018 RYAAY 9.000 78.72 708 99.25 893 Separately Managed 185
+
+14 12/07/2018 RYAAY 180.000 77.88 14,019 99.25 17,865 Separately Managed 3,846
+
+Total for RYANAIR HLDGS PLC SPONSORED ADS 30,370 38,608 8,238
+
+S&P GLOBAL INC COM
+1 09/29/2021 SPGI 102.000 427.89 43,644 390.86 39,868 Separately Managed (3,777)
+
+Total for S&P GLOBAL INC COM 43,644 39,868 (3,777)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 73 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+SAFRAN
+17 07/18/2014 B058TZ6 65.000 62.32 4,051 160.81 10,453 Separately Managed 6,402
+
+18 07/18/2014 B058TZ6 59.000 62.28 3,675 160.81 9,488 Separately Managed 5,813
+
+19 07/21/2014 B058TZ6 60.000 62.38 3,743 160.81 9,649 Separately Managed 5,906
+
+20 07/22/2014 B058TZ6 154.000 62.15 9,570 160.81 24,765 Separately Managed 15,194
+
+21 07/25/2014 B058TZ6 97.000 61.48 5,964 160.81 15,598 Separately Managed 9,635
+
+22 02/02/2015 B058TZ6 718.000 67.44 48,425 160.81 115,461 Separately Managed 67,036
+
+23 10/02/2018 B058TZ6 40.000 137.10 5,484 160.81 6,432 Separately Managed 948
+
+Total for SAFRAN 80,912 191,845 110,934
+
+SALESFORCE INC
+1 05/30/2023 CRM 87.000 216.09 18,800 221.46 19,267 Separately Managed 467
+
+Total for SALESFORCE INC 18,800 19,267 467
+
+SANT&ER DRIVE AUTO RECEIVABLES 5.61% 2027-10-15
+1 07/18/2023 80285XAC9 5,000.000 99.99 4,999 99.72 4,986 Separately Managed (14)
+
+Total for SANT&ER DRIVE AUTO RECEIVABLES 5.61% 2027-10-15 4,999 4,986 (14)
+
+SANT&ER DRIVE AUTO RECEIVABLES 6.08% 2026-08-17
+1 07/18/2023 80285XAB1 3,000.000 100.00 3,000 99.94 2,998 Separately Managed (2)
+
+Total for SANT&ER DRIVE AUTO RECEIVABLES 6.08% 2026-08-17 3,000 2,998 (2)
+
+SANTANDER DRIVE AUTO RECEIVABLES TRUST, SERIES 2022-5, CLASS A2, 4.50% 3.98% 2099-12-15
+1 08/16/2022 80287HAB4 8,000.000 99.99 63 99.94 56 Separately Managed 0
+
+Total for SANTANDER DRIVE AUTO RECEIVABLES TRUST, SERIES 2022-5, CLASS A2, 4.50% 63 56 0
+3.98% 2099-12-15
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 74 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+SANTANDER DRIVE AUTO RECEIVABLES TRUST, SERIES 2022-5, CLASS A3, 4.68% 4.11% 2099-12-31
+
+1 08/16/2022 80287HAC2 8,000.000 100.00 8,000 99.27 7,942 Separately Managed (58)
+
+Total for SANTANDER DRIVE AUTO RECEIVABLES TRUST, SERIES 2022-5, CLASS A3, 4.68% 8,000 7,942 (58)
+4.11% 2099-12-31
+
+SAP SE
+14 07/28/2016 4846288 215.000 86.91 18,685 139.69 30,032 Separately Managed 11,347
+
+15 07/29/2016 4846288 191.000 87.62 16,736 139.69 26,680 Separately Managed 9,944
+
+16 08/01/2016 4846288 197.000 87.57 17,252 139.69 27,518 Separately Managed 10,266
+
+17 07/29/2016 4846288 57.000 87.72 5,000 139.69 7,962 Separately Managed 2,962
+
+18 07/29/2016 4846288 39.000 87.73 3,422 139.69 5,448 Separately Managed 2,026
+
+19 08/17/2020 4846288 146.000 160.31 23,406 139.69 20,394 Separately Managed (3,012)
+
+20 12/09/2022 4846288 10.000 111.22 1,112 139.69 1,397 Separately Managed 285
+
+Total for SAP SE 85,613 119,432 33,819
+
+SASKATCHEWAN PROV STRIP PACKAG 3.25% 2027-06-08
+1 06/01/2022 803854KQ0 8,000.000 100.00 8,000 95.11 7,609 Separately Managed (391)
+
+Total for SASKATCHEWAN PROV STRIP PACKAG 3.25% 2027-06-08 8,000 7,609 (391)
+
+SDART 23-4 A2 6.18% 02-16-27/04-15-25 6.18% 2027-02-16
+1 08/15/2023 802927AC7 6,000.000 100.00 6,000 100.06 6,003 Separately Managed 3
+
+Total for SDART 23-4 A2 6.18% 02-16-27/04-15-25 6.18% 2027-02-16 6,000 6,003 3
+
+SDART 23-4 A3 5.73% 04-17-28/03-16-26 5.73% 2028-04-17
+1 08/15/2023 802927AD5 11,000.000 99.98 10,998 100.22 11,024 Separately Managed 26
+
+Total for SDART 23-4 A3 5.73% 04-17-28/03-16-26 5.73% 2028-04-17 10,998 11,024 26
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 75 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+SEAGEN INC
+
+3 09/06/2017 SGEN 56.000 51.83 2,903 206.07 11,540 Separately Managed 8,637
+
+Total for SEAGEN INC 2,903 11,540 8,637
+
+SEMPRA ENERGY COM
+4 09/10/2015 SRE 314.000 45.01 14,133 70.22 22,049 Separately Managed 7,916
+
+5 01/09/2023 SRE 128.000 78.68 10,071 70.22 8,988 Separately Managed (1,083)
+
+Total for SEMPRA ENERGY COM 24,204 31,037 6,833
+
+SERVICENOW INC COM
+3 10/24/2019 NOW 26.000 237.41 6,173 588.83 15,310 Separately Managed 9,137
+
+4 02/09/2022 NOW 7.000 611.16 4,278 588.83 4,122 Separately Managed (156)
+
+5 01/09/2023 NOW 22.000 386.54 8,504 588.83 12,954 Separately Managed 4,450
+
+Total for SERVICENOW INC COM 18,955 32,386 13,431
+
+SHIN-ETSU CHEMICAL
+5 11/20/2018 6804585 1,500.000 17.13 25,696 32.02 48,033 Separately Managed 22,336
+
+6 11/21/2018 6804585 420.000 17.25 7,247 32.02 13,449 Separately Managed 6,202
+
+7 01/04/2019 6804585 1,000.000 15.19 15,191 32.02 32,022 Separately Managed 16,831
+
+Total for SHIN-ETSU CHEMICAL 48,134 93,503 45,370
+
+SHIRE ACQUISITIONS INV IRELA 2.875% 2023-09-23
+1 09/19/2016 82481LAC3 1,000.000 100.00 1,000 99.81 998 Separately Managed (2)
+
+Total for SHIRE ACQUISITIONS INV IRELA 2.875% 2023-09-23 1,000 998 (2)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 76 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+SHOPIFY INC CL A
+1 11/03/2022 SHOP 303.000 34.14 10,344 66.49 20,146 Separately Managed 9,803
+
+Total for SHOPIFY INC CL A 10,344 20,146 9,803
+
+SIKA AG CHF0.01 (REG)
+1 06/30/2022 BF2DSG3 25.000 229.10 5,728 283.47 7,087 Separately Managed 1,359
+
+2 06/30/2022 BF2DSG3 32.000 229.66 7,349 283.47 9,071 Separately Managed 1,722
+
+3 07/06/2022 BF2DSG3 17.000 247.36 4,205 283.47 4,819 Separately Managed 614
+
+4 07/07/2022 BF2DSG3 3.000 254.03 762 283.47 850 Separately Managed 88
+
+5 07/07/2022 BF2DSG3 19.000 250.78 4,765 283.47 5,386 Separately Managed 621
+
+6 12/09/2022 BF2DSG3 19.000 264.79 5,031 283.47 5,386 Separately Managed 355
+
+7 01/11/2023 BF2DSG3 34.000 265.87 9,040 283.47 9,638 Separately Managed 598
+
+8 01/13/2023 BF2DSG3 32.000 281.60 9,011 283.47 9,071 Separately Managed 60
+
+9 02/07/2023 BF2DSG3 2.000 300.23 600 283.47 567 Separately Managed (34)
+
+10 02/07/2023 BF2DSG3 9.000 302.66 2,724 283.47 2,551 Separately Managed (173)
+
+Total for SIKA AG CHF0.01 (REG) 49,215 54,426 5,211
+
+SINGAPORE DOLLAR - INCOME
+0 I_CASH 10,094.560 0.74 7,474 0.74 7,469 Separately Managed (5)
+
+Total for SINGAPORE DOLLAR - INCOME 7,474 7,469 (5)
+
+SINGAPORE TELECOMM NPV (B/L 100)
+1 02/03/2023 B02PY11 9,500.000 1.88 17,859 1.76 16,730 Separately Managed (1,128)
+
+2 06/12/2023 B02PY11 600.000 1.81 1,083 1.76 1,057 Separately Managed (27)
+
+Total for SINGAPORE TELECOMM NPV (B/L 100) 18,942 17,787 (1,155)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 77 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+SMC CORP
+
+5 09/02/2008 6763965 91.000 98.24 8,940 485.24 44,157 Separately Managed 35,217
+
+Total for SMC CORP 8,940 44,157 35,217
+
+SOUTHERN CA EDISON CO 2.85% 2029-08-01
+2 08/02/2019 842400GS6 7,000.000 100.25 7,007 87.95 6,157 Separately Managed (861)
+
+3 08/02/2019 842400GS6 13,000.000 100.25 13,012 87.95 11,434 Separately Managed (1,599)
+
+Total for SOUTHERN CA EDISON CO 2.85% 2029-08-01 20,019 17,591 (2,459)
+
+SOUTHERN CA EDISON CO 3.7% 2025-08-01
+1 03/30/2020 842400GN7 25,000.000 100.94 24,811 96.63 24,158 Separately Managed (1,078)
+
+Total for SOUTHERN CA EDISON CO 3.7% 2025-08-01 24,811 24,158 (1,078)
+
+SOUTHERN CA EDISON CO 5.85% 2027-11-01
+1 11/03/2022 842400HS5 10,000.000 99.95 9,996 102.34 10,234 Separately Managed 239
+
+Total for SOUTHERN CA EDISON CO 5.85% 2027-11-01 9,996 10,234 239
+
+STATE STR CORP COM
+10 01/17/2019 STT 85.000 70.97 6,032 68.74 5,843 Separately Managed (189)
+
+11 08/16/2019 STT 170.000 50.19 8,533 68.74 11,686 Separately Managed 3,153
+
+12 08/14/2020 STT 211.000 70.79 14,937 68.74 14,504 Separately Managed (433)
+
+Total for STATE STR CORP COM 29,502 32,033 2,531
+
+STATE STREET CORP 4.857% 2026-01-26
+1 01/23/2023 857477BZ5 5,000.000 100.00 5,000 98.65 4,932 Separately Managed (68)
+
+Total for STATE STREET CORP 4.857% 2026-01-26 5,000 4,932 (68)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 78 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+STMICROELECTRONICS EUR
+
+1 11/11/2021 5962332 250.000 47.02 11,755 47.35 11,837 Separately Managed 82
+
+2 01/10/2023 5962332 375.000 40.05 15,018 47.35 17,756 Separately Managed 2,737
+
+3 01/11/2023 5962332 75.000 40.11 3,009 47.35 3,551 Separately Managed 543
+
+Total for STMICROELECTRONICS EUR 29,782 33,144 3,361
+
+STRAUMANN HOLDING CHF0.01 (REGD) (POST SPLIT)
+1 04/16/2019 BQ7ZV06 90.000 84.57 7,611 151.70 13,653 Separately Managed 6,041
+
+2 01/11/2023 BQ7ZV06 26.000 130.61 3,396 151.70 3,944 Separately Managed 548
+
+3 01/12/2023 BQ7ZV06 32.000 130.64 4,181 151.70 4,854 Separately Managed 674
+
+4 01/18/2023 BQ7ZV06 20.000 140.04 2,801 151.70 3,034 Separately Managed 233
+
+5 01/19/2023 BQ7ZV06 20.000 133.54 2,671 151.70 3,034 Separately Managed 363
+
+6 01/20/2023 BQ7ZV06 6.000 136.13 817 151.70 910 Separately Managed 93
+
+Total for STRAUMANN HOLDING CHF0.01 (REGD) (POST SPLIT) 21,476 29,429 7,953
+
+SUN COMMUNITIES OPER LP 2.3% 2028-11-01
+1 09/28/2021 866677AF4 6,000.000 99.87 5,995 84.05 5,043 Separately Managed (949)
+
+Total for SUN COMMUNITIES OPER LP 2.3% 2028-11-01 5,995 5,043 (949)
+
+SWISS FRANK - INCOME
+0 I_CASH 463.560 1.11 516 1.13 525 Separately Managed 9
+
+Total for SWISS FRANK - INCOME 516 525 9
+
+T MOBILE USA INC 4.8% 2028-07-15
+1 05/08/2023 87264ADA0 20,000.000 99.80 19,962 97.74 19,548 Separately Managed (412)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 79 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+T MOBILE USA INC 4.8% 2028-07-15
+
+Total for T MOBILE USA INC 4.8% 2028-07-15 19,962 19,548 (412)
+
+TAIWAN SEMICONDUCTOR MFG LTD SPONSORED ADS
+7 08/12/2015 TSM 400.000 20.74 8,294 93.57 37,428 Separately Managed 29,134
+
+8 08/12/2015 TSM 443.000 20.75 9,190 93.57 41,452 Separately Managed 32,261
+
+Total for TAIWAN SEMICONDUCTOR MFG LTD SPONSORED ADS 17,484 78,880 61,395
+
+TAKE-TWO INTERACTIVE SOFTWARE
+1 12/19/2022 TTWO 100.000 98.86 9,886 142.20 14,220 Separately Managed 4,334
+
+2 12/27/2022 TTWO 55.000 98.55 5,420 142.20 7,821 Separately Managed 2,401
+
+3 03/02/2023 TTWO 96.000 114.78 11,019 142.20 13,651 Separately Managed 2,632
+
+Total for TAKE-TWO INTERACTIVE SOFTWARE 26,326 35,692 9,367
+
+TAKE-TWO INTERACTIVE SOFTWARE 3.7% 2027-04-14
+1 04/07/2022 874054AG4 3,000.000 100.00 3,000 94.83 2,845 Separately Managed (155)
+
+Total for TAKE-TWO INTERACTIVE SOFTWARE 3.7% 2027-04-14 3,000 2,845 (155)
+
+TAKE-TWO INTERACTIVE SOFTWARE 4% 2032-04-14
+1 04/07/2022 874054AH2 2,000.000 99.91 1,998 90.07 1,801 Separately Managed (197)
+
+Total for TAKE-TWO INTERACTIVE SOFTWARE 4% 2032-04-14 1,998 1,801 (197)
+
+TC ENERGY CORP
+7 04/07/2020 BJMY6G0 100.000 45.72 4,572 36.12 3,612 Separately Managed (960)
+
+8 04/09/2020 BJMY6G0 100.000 47.46 4,746 36.12 3,612 Separately Managed (1,135)
+
+9 04/13/2020 BJMY6G0 200.000 48.03 9,607 36.12 7,223 Separately Managed (2,384)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 80 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+TC ENERGY CORP
+
+10 04/14/2020 BJMY6G0 100.000 48.19 4,819 36.12 3,612 Separately Managed (1,207)
+
+11 04/15/2020 BJMY6G0 200.000 46.03 9,207 36.12 7,223 Separately Managed (1,984)
+
+12 04/16/2020 BJMY6G0 25.000 45.79 1,145 36.12 903 Separately Managed (242)
+
+13 06/08/2023 BJMY6G0 77.000 40.95 3,153 36.12 2,781 Separately Managed (372)
+
+14 06/09/2023 BJMY6G0 105.000 40.63 4,266 36.12 3,792 Separately Managed (474)
+
+15 06/09/2023 BJMY6G0 100.000 40.56 4,056 36.12 3,612 Separately Managed (444)
+
+Total for TC ENERGY CORP 45,571 36,369 (9,202)
+
+TDK CORP NPV
+1 06/30/2023 6762 100.000 37.71 3,771 36.52 3,652 Separately Managed (118)
+
+2 06/30/2023 6762 100.000 37.78 3,778 36.52 3,652 Separately Managed (126)
+
+3 07/03/2023 6762 100.000 39.14 3,914 36.52 3,652 Separately Managed (262)
+
+4 07/04/2023 6762 100.000 39.24 3,924 36.52 3,652 Separately Managed (271)
+
+5 07/06/2023 6762 100.000 37.76 3,776 36.52 3,652 Separately Managed (123)
+
+Total for TDK CORP NPV 19,162 18,262 (900)
+
+TENCENT HLDGS LTD
+12 02/22/2019 700 57.000 43.39 2,473 41.44 2,362 Separately Managed (111)
+
+Total for TENCENT HLDGS LTD 2,473 2,362 (111)
+
+TENNESSEE VALLEY AUTH FED BE 3.875% 2028-03-15
+1 03/27/2023 880591EZ1 7,000.000 99.25 6,952 97.95 6,856 Separately Managed (91)
+
+Total for TENNESSEE VALLEY AUTH FED BE 3.875% 2028-03-15 6,952 6,856 (91)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 81 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+TERUMO CORP NPV
+5 02/03/2023 6885074 700.000 26.05 18,236 30.33 21,232 Separately Managed 2,995
+
+Total for TERUMO CORP NPV 18,236 21,232 2,995
+
+TEXAS INSTRS INC COM
+3 09/29/2021 TXN 13.000 192.53 2,503 168.06 2,185 Separately Managed (318)
+
+4 01/09/2023 TXN 103.000 178.45 18,381 168.06 17,310 Separately Managed (1,070)
+
+Total for TEXAS INSTRS INC COM 20,884 19,495 (1,389)
+
+TFI INTL INC
+1 11/09/2021 BDRXBF4 100.000 104.49 10,449 136.26 13,626 Separately Managed 3,177
+
+2 07/13/2022 BDRXBF4 100.000 80.69 8,069 136.26 13,626 Separately Managed 5,558
+
+3 11/10/2021 BDRXBF4 128.000 102.38 13,105 136.26 17,442 Separately Managed 4,337
+
+4 06/30/2022 BDRXBF4 20.000 74.08 1,482 136.26 2,725 Separately Managed 1,244
+
+5 07/15/2022 BDRXBF4 96.000 81.78 7,851 136.26 13,081 Separately Managed 5,231
+
+Total for TFI INTL INC 40,955 60,501 19,546
+
+THERMO FISHER SCIENTIFIC INC 1.75% 2028-10-15
+1 08/09/2021 883556CK6 5,000.000 99.96 4,999 86.08 4,304 Separately Managed (694)
+
+Total for THERMO FISHER SCIENTIFIC INC 1.75% 2028-10-15 4,999 4,304 (694)
+
+TORONTO DOMINION BANK 0.45% 2023-09-11
+1 09/09/2020 89114QCJ5 17,000.000 100.00 17,024 99.92 16,986 Separately Managed (14)
+
+Total for TORONTO DOMINION BANK 0.45% 2023-09-11 17,024 16,986 (14)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 82 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+TORONTO DOMINION BANK 1.25% 2026-09-10
+1 09/07/2021 89114TZG0 10,000.000 99.88 9,995 88.62 8,862 Separately Managed (1,126)
+
+Total for TORONTO DOMINION BANK 1.25% 2026-09-10 9,995 8,862 (1,126)
+
+TORONTO DOMINION BANK 1.95% 2027-01-12
+1 01/05/2022 89114TZN5 15,000.000 99.93 14,994 89.82 13,474 Separately Managed (1,515)
+
+Total for TORONTO DOMINION BANK 1.95% 2027-01-12 14,994 13,474 (1,515)
+
+TOTAL SE
+1 08/17/2020 B15C557 713.000 36.46 25,993 62.97 44,896 Separately Managed 18,903
+
+3 09/27/2022 B15C557 144.000 51.93 7,478 62.97 9,067 Separately Managed 1,590
+
+4 09/27/2022 B15C557 82.000 52.01 4,265 62.97 5,163 Separately Managed 898
+
+5 09/27/2022 B15C557 92.000 51.60 4,747 62.97 5,793 Separately Managed 1,046
+
+6 09/28/2022 B15C557 356.000 51.10 18,191 62.97 22,417 Separately Managed 4,226
+
+7 12/09/2022 B15C557 39.000 61.59 2,402 62.97 2,456 Separately Managed 54
+
+8 01/09/2023 B15C557 65.000 63.30 4,115 62.97 4,093 Separately Managed (22)
+
+9 01/09/2023 B15C557 105.000 63.52 6,669 62.97 6,612 Separately Managed (58)
+
+10 04/12/2023 B15C557 146.000 63.48 9,268 62.97 9,193 Separately Managed (75)
+
+11 07/31/2023 B15C557 95.000 60.02 5,702 62.97 5,982 Separately Managed 280
+
+Total for TOTAL SE 88,830 115,673 26,843
+
+TOYOTA AUTO RECEBLES TR 2023-C 5.16% 2028-04-17
+1 08/08/2023 89231FAD2 12,000.000 99.98 11,997 99.74 11,968 Separately Managed (29)
+
+Total for TOYOTA AUTO RECEBLES TR 2023-C 5.16% 2028-04-17 11,997 11,968 (29)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 83 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+TOYOTA MOTOR CREDIT CORP 1.45% 2025-01-13
+1 01/10/2022 89236TJT3 15,000.000 99.94 15,002 94.93 14,240 Separately Managed (751)
+
+Total for TOYOTA MOTOR CREDIT CORP 1.45% 2025-01-13 15,002 14,240 (751)
+
+TOYOTA MOTOR CREDIT CORP 1.9% 2027-01-13
+1 01/10/2022 89236TJV8 15,000.000 99.93 14,994 90.46 13,569 Separately Managed (1,421)
+
+Total for TOYOTA MOTOR CREDIT CORP 1.9% 2027-01-13 14,994 13,569 (1,421)
+
+TOYOTA MOTOR CREDIT CORP 2.25% 2023-10-18
+1 10/13/2016 89236TDK8 15,000.000 99.99 15,038 99.59 14,938 Separately Managed (61)
+
+Total for TOYOTA MOTOR CREDIT CORP 2.25% 2023-10-18 15,038 14,938 (61)
+
+TOYOTA MOTOR CREDIT CORP 4.45% 2026-05-18
+1 05/15/2023 89236TKT1 15,000.000 99.95 14,993 98.60 14,790 Separately Managed (202)
+
+Total for TOYOTA MOTOR CREDIT CORP 4.45% 2026-05-18 14,993 14,790 (202)
+
+TRACTOR SUPPLY CO
+1 03/29/2023 TSCO 60.000 229.77 13,786 218.50 13,110 Separately Managed (676)
+
+2 08/16/2023 TSCO 21.000 221.55 4,652 218.50 4,589 Separately Managed (64)
+
+Total for TRACTOR SUPPLY CO 18,439 17,699 (740)
+
+TRANSDIGM GROUP INC COM
+3 01/22/2016 TDG 41.000 182.11 7,467 903.85 37,058 Separately Managed 29,591
+
+Total for TRANSDIGM GROUP INC COM 7,467 37,058 29,591
+
+TRIMBLE INC COM
+1 04/03/2020 TRMB 200.000 28.50 5,700 54.79 10,958 Separately Managed 5,258
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 84 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+TRIMBLE INC COM
+
+2 04/16/2020 TRMB 18.000 31.41 565 54.79 986 Separately Managed 421
+
+Total for TRIMBLE INC COM 6,265 11,944 5,679
+
+UMBS TBA 30 YEAR 2% 2050-09-15
+11 08/09/2023 01F020695 49,140.000 80.23 39,427 79.78 39,205 Separately Managed (223)
+
+13 08/09/2023 01F020695 49,140.000 80.32 39,471 79.78 39,205 Separately Managed (267)
+
+14 08/10/2023 01F020695 52,306.000 80.59 42,155 79.78 41,730 Separately Managed (425)
+
+Total for UMBS TBA 30 YEAR 2% 2050-09-15 121,054 120,139 (914)
+
+UMBS TBA 30 YEAR 2.5% 2050-09-15
+10 07/28/2023 01F022691 171,000.000 84.24 144,047 82.98 141,903 Separately Managed (2,144)
+
+Total for UMBS TBA 30 YEAR 2.5% 2050-09-15 144,047 141,903 (2,144)
+
+UMBS TBA 30 YEAR 4% 2052-09-15
+3 08/09/2023 01F040693 60,000.000 92.71 55,629 92.34 55,406 Separately Managed (223)
+
+Total for UMBS TBA 30 YEAR 4% 2052-09-15 55,629 55,406 (223)
+
+UNICHARM CORP
+2 02/03/2023 6911485 300.000 33.64 10,093 39.95 11,984 Separately Managed 1,890
+
+3 02/06/2023 6911485 200.000 33.93 6,786 39.95 7,989 Separately Managed 1,203
+
+Total for UNICHARM CORP 16,880 19,973 3,093
+
+UNICREDIT SPA NPV
+1 01/14/2022 BYMXPS7 310.000 15.61 4,838 24.47 7,585 Separately Managed 2,747
+
+2 01/14/2022 BYMXPS7 538.000 14.76 7,939 24.47 13,164 Separately Managed 5,225
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 85 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+UNICREDIT SPA NPV
+
+Total for UNICREDIT SPA NPV 12,777 20,749 7,972
+
+UNILEVER PLC
+1 08/17/2020 B10RZP7 221.000 59.79 13,213 51.20 11,316 Separately Managed (1,897)
+
+3 01/09/2023 B10RZP7 73.000 52.78 3,853 51.20 3,738 Separately Managed (115)
+
+4 01/09/2023 B10RZP7 59.000 53.08 3,132 51.20 3,021 Separately Managed (111)
+
+Total for UNILEVER PLC 20,198 18,075 (2,123)
+
+UNION PACIFIC CORP 2.15% 2027-02-05
+1 01/28/2020 907818FJ2 12,000.000 99.96 12,000 91.37 10,965 Separately Managed (1,031)
+
+Total for UNION PACIFIC CORP 2.15% 2027-02-05 12,000 10,965 (1,031)
+
+UNION PACIFIC CORP 3.75% 2025-07-15
+1 06/05/2018 907818ES3 5,000.000 100.00 5,000 97.13 4,856 Separately Managed (144)
+
+Total for UNION PACIFIC CORP 3.75% 2025-07-15 5,000 4,856 (144)
+
+UNITED CONTL HLDGS INC COM
+1 01/09/2023 UAL 100.000 43.86 4,386 49.81 4,981 Separately Managed 595
+
+2 01/20/2023 UAL 100.000 49.20 4,920 49.81 4,981 Separately Managed 61
+
+3 01/20/2023 UAL 100.000 49.24 4,924 49.81 4,981 Separately Managed 57
+
+4 01/20/2023 UAL 144.000 49.44 7,119 49.81 7,173 Separately Managed 53
+
+Total for UNITED CONTL HLDGS INC COM 21,349 22,116 767
+
+UNITED OFFSHORE BANK NPV
+1 12/09/2022 UOVEF 400.000 22.89 9,158 21.04 8,418 Separately Managed (740)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 86 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+UNITED OFFSHORE BANK NPV
+
+2 12/12/2022 UOVEF 200.000 22.97 4,595 21.04 4,209 Separately Managed (386)
+
+3 12/13/2022 UOVEF 200.000 23.08 4,617 21.04 4,209 Separately Managed (408)
+
+4 12/14/2022 UOVEF 600.000 22.89 13,737 21.04 12,626 Separately Managed (1,110)
+
+5 12/16/2022 UOVEF 200.000 22.73 4,546 21.04 4,209 Separately Managed (338)
+
+6 12/19/2022 UOVEF 200.000 22.87 4,574 21.04 4,209 Separately Managed (365)
+
+7 12/20/2022 UOVEF 200.000 22.91 4,581 21.04 4,209 Separately Managed (372)
+
+8 12/30/2022 UOVEF 200.000 22.72 4,544 21.04 4,209 Separately Managed (335)
+
+9 01/04/2023 UOVEF 200.000 22.76 4,552 21.04 4,209 Separately Managed (343)
+
+Total for UNITED OFFSHORE BANK NPV 54,903 50,506 (4,397)
+
+UNITED STATES TREAS NOTES 0.5% 2025-03-31
+1 04/24/2020 912828ZF0 17,500.000 100.21 17,459 93.13 16,298 Separately Managed (1,240)
+
+Total for UNITED STATES TREAS NOTES 0.5% 2025-03-31 17,459 16,298 (1,240)
+
+UNITED STATES TREAS NOTES 0.5% 2026-02-28
+1 03/18/2021 91282CBQ3 75,000.000 99.05 74,973 90.28 67,711 Separately Managed (6,578)
+
+Total for UNITED STATES TREAS NOTES 0.5% 2026-02-28 74,973 67,711 (6,578)
+
+UNITED STATES TREAS NOTES 0.75% 2026-04-30
+1 05/19/2021 91282CBW0 50,000.000 99.86 49,989 90.43 45,213 Separately Managed (4,715)
+
+Total for UNITED STATES TREAS NOTES 0.75% 2026-04-30 49,989 45,213 (4,715)
+
+UNITED STATES TREAS NOTES 0.875% 2029-01-15
+1 02/27/2019 9128285W6 76,117.860 109.68 90,346 94.15 71,667 Separately Managed (11,819)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 87 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+UNITED STATES TREAS NOTES 0.875% 2029-01-15
+
+Total for UNITED STATES TREAS NOTES 0.875% 2029-01-15 90,346 71,667 (11,819)
+
+UNITED STATES TREAS NOTES 1.625% 2027-10-15
+1 11/03/2022 91282CFR7 145,417.644 101.46 151,345 98.08 142,627 Separately Managed (4,915)
+
+Total for UNITED STATES TREAS NOTES 1.625% 2027-10-15 151,345 142,627 (4,915)
+
+UNITED STATES TREAS NOTES 2.375% 2029-05-15
+1 05/10/2019 9128286T2 94,000.000 99.40 93,811 90.58 85,143 Separately Managed (8,292)
+
+Total for UNITED STATES TREAS NOTES 2.375% 2029-05-15 93,811 85,143 (8,292)
+
+UNITED STATES TREAS NOTES 2.5% 2027-03-31
+2 05/02/2022 91282CEF4 100,000.000 98.31 98,894 93.69 93,691 Separately Managed (4,621)
+
+Total for UNITED STATES TREAS NOTES 2.5% 2027-03-31 98,894 93,691 (4,621)
+
+UNITED STATES TREAS NOTES 2.875% 2025-04-30
+1 05/10/2018 9128284M9 68,300.000 99.91 68,417 96.57 65,958 Separately Managed (2,281)
+
+Total for UNITED STATES TREAS NOTES 2.875% 2025-04-30 68,417 65,958 (2,281)
+
+UNITED STATES TREAS NOTES 3.625% 2028-03-31
+3 04/03/2023 91282CGT2 100.000 100.00 100 97.19 97 Separately Managed (3)
+
+Total for UNITED STATES TREAS NOTES 3.625% 2028-03-31 100 97 (3)
+
+UNITED STATES TREAS NOTES 3.875% 2025-03-31
+1 04/03/2023 91282CGU9 223,000.000 99.70 222,498 98.18 218,932 Separately Managed (3,399)
+
+2 04/03/2023 91282CGU9 91,000.000 99.82 90,876 98.18 89,340 Separately Managed (1,495)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 88 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+UNITED STATES TREAS NOTES 3.875% 2025-03-31
+
+3 04/03/2023 91282CGU9 73,000.000 99.82 72,899 98.18 71,668 Separately Managed (1,197)
+
+Total for UNITED STATES TREAS NOTES 3.875% 2025-03-31 386,273 379,940 (6,091)
+
+UNITED STATES TREAS NOTES 3.875% 2033-08-15
+1 08/11/2023 91282CHT1 335,000.000 97.96 328,195 98.27 329,190 Separately Managed 1,021
+
+2 08/11/2023 91282CHT1 123,000.000 99.00 121,779 98.27 120,867 Separately Managed (908)
+
+Total for UNITED STATES TREAS NOTES 3.875% 2033-08-15 449,974 450,057 113
+
+UNITED STATES TREAS NOTES 4% 2026-02-15
+1 02/10/2023 91282CGL9 54,000.000 99.58 53,818 98.42 53,146 Separately Managed (625)
+
+2 02/10/2023 91282CGL9 37,000.000 99.57 36,873 98.42 36,415 Separately Managed (425)
+
+Total for UNITED STATES TREAS NOTES 4% 2026-02-15 90,691 89,560 (1,050)
+
+UNITED STATES TREAS NOTES 4% 2030-02-28
+1 02/27/2023 91282CGQ8 87,000.000 99.66 86,721 98.73 85,896 Separately Managed (805)
+
+2 03/24/2023 91282CGQ8 200,000.000 103.57 206,717 98.73 197,461 Separately Managed (9,679)
+
+Total for UNITED STATES TREAS NOTES 4% 2030-02-28 293,438 283,356 (10,484)
+
+UNITED STATES TREAS NOTES 4.125% 2028-07-31
+1 07/31/2023 91282CHQ7 156,000.000 99.75 155,622 99.39 155,049 Separately Managed (567)
+
+2 07/31/2023 91282CHQ7 156,000.000 99.89 155,835 99.39 155,049 Separately Managed (783)
+
+3 08/01/2023 91282CHQ7 270,000.000 99.48 268,608 99.39 268,355 Separately Managed (232)
+
+Total for UNITED STATES TREAS NOTES 4.125% 2028-07-31 580,065 578,453 (1,581)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 89 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+UNITED STATES TREAS NOTES 4.125% 2032-11-15
+3 11/14/2022 91282CFV8 2,000.000 101.75 2,033 100.00 2,000 Separately Managed (35)
+
+Total for UNITED STATES TREAS NOTES 4.125% 2032-11-15 2,033 2,000 (35)
+
+UNITED STATES TREAS NOTES 4.375% 2026-08-15
+1 08/17/2023 91282CHU8 6,000.000 99.28 5,957 99.54 5,972 Separately Managed 15
+
+Total for UNITED STATES TREAS NOTES 4.375% 2026-08-15 5,957 5,972 15
+
+UNITED STATES TREAS NOTES 4.625% 2025-06-30
+1 07/05/2023 91282CHL8 23,000.000 99.45 22,885 99.43 22,869 Separately Managed (6)
+
+Total for UNITED STATES TREAS NOTES 4.625% 2025-06-30 22,885 22,869 (6)
+
+UNITEDHEALTH GROUP INC 1.15% 2026-05-15
+1 05/17/2021 91324PEC2 5,000.000 99.90 4,999 90.46 4,523 Separately Managed (472)
+
+Total for UNITEDHEALTH GROUP INC 1.15% 2026-05-15 4,999 4,523 (472)
+
+UNITEDHEALTH GROUP INC 2% 2030-05-15
+1 03/01/2022 91324PDX7 2,000.000 96.54 1,945 83.33 1,667 Separately Managed (264)
+
+Total for UNITEDHEALTH GROUP INC 2% 2030-05-15 1,945 1,667 (264)
+
+UNITEDHEALTH GROUP INC 4% 2029-05-15
+1 05/17/2022 91324PEH1 11,000.000 99.70 10,973 95.59 10,515 Separately Managed (451)
+
+Total for UNITEDHEALTH GROUP INC 4% 2029-05-15 10,973 10,515 (451)
+
+UNITEDHEALTH GROUP INC 5.15% 2025-10-15
+1 10/25/2022 91324PEN8 5,000.000 99.99 5,000 99.92 4,996 Separately Managed (4)
+
+2 10/25/2022 91324PEN8 5,000.000 99.99 5,000 99.92 4,996 Separately Managed (4)
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 90 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+UNITEDHEALTH GROUP INC 5.15% 2025-10-15
+
+Total for UNITEDHEALTH GROUP INC 5.15% 2025-10-15 10,000 9,992 (8)
+
+UNITEDHEALTH GROUP INC COM
+8 09/30/2016 UNH 165.000 140.17 23,129 476.58 78,636 Separately Managed 55,507
+
+9 09/29/2017 UNH 76.000 195.56 14,863 476.58 36,220 Separately Managed 21,357
+
+Total for UNITEDHEALTH GROUP INC COM 37,991 114,856 76,864
+
+US DOLLAR - INCOME
+0 I_CASH 64,099.600 64,099.60 64,100 1.00 64,100 Cash and Cash Equivalents 0
+
+0 I_CASH 5,927.500 5,927.50 5,928 1.00 5,928 Separately Managed 0
+
+Total for US DOLLAR - INCOME 70,027 70,027 0
+
+VALE OVERSEAS LTD 3.75% 2030-07-08
+1 07/07/2020 91911TAQ6 2,000.000 100.10 2,001 87.45 1,749 Separately Managed (253)
+
+2 07/06/2020 91911TAQ6 4,000.000 99.40 3,985 87.45 3,498 Separately Managed (478)
+
+Total for VALE OVERSEAS LTD 3.75% 2030-07-08 5,986 5,247 (731)
+
+VALE S A SPONSORED ADS
+1 01/05/2021 VALE 551.000 17.63 9,712 13.17 7,257 Separately Managed (2,455)
+
+2 01/05/2021 VALE 600.000 17.61 10,566 13.17 7,902 Separately Managed (2,664)
+
+3 01/05/2021 VALE 1,500.000 17.62 26,434 13.17 19,755 Separately Managed (6,679)
+
+Total for VALE S A SPONSORED ADS 46,712 34,914 (11,798)
+
+VERIZON COMMUNICATIONS INC 0.85% 2025-11-20
+1 11/10/2020 92343VFS8 25,000.000 100.00 25,000 90.66 22,666 Separately Managed (2,333)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 91 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+VERIZON COMMUNICATIONS INC 0.85% 2025-11-20
+
+Total for VERIZON COMMUNICATIONS INC 0.85% 2025-11-20 25,000 22,666 (2,333)
+
+VERIZON COMMUNICATIONS INC SR UNSEC 2.55% 03-21-31 2.55% 2031-03-21
+1 07/12/2023 92343VGJ7 7,000.000 83.63 5,871 82.40 5,768 Separately Managed (86)
+
+Total for VERIZON COMMUNICATIONS INC SR UNSEC 2.55% 03-21-31 2.55% 2031-03-21 5,871 5,768 (86)
+
+VERIZON MASTER TR 2023-1 4.49% 2029-01-22
+1 01/20/2023 92348KBG7 11,000.000 99.98 10,998 98.36 10,820 Separately Managed (178)
+
+Total for VERIZON MASTER TR 2023-1 4.49% 2029-01-22 10,998 10,820 (178)
+
+VISA INC COM CL A
+2 06/24/2009 V 338.000 15.35 5,188 245.68 83,040 Separately Managed 77,852
+
+Total for VISA INC COM CL A 5,188 83,040 77,852
+
+VODAFONE GROUP PLC 4.125% 2025-05-30
+1 05/23/2018 92857WBJ8 5,000.000 99.73 5,022 97.71 4,885 Separately Managed (101)
+
+Total for VODAFONE GROUP PLC 4.125% 2025-05-30 5,022 4,885 (101)
+
+VZMT 23-2 A 4.89% 04-13-28/04-21-25 4.89% 2028-04-20
+1 04/18/2023 92348KBL6 22,000.000 100.00 22,000 99.03 21,787 Separately Managed (213)
+
+Total for VZMT 23-2 A 4.89% 04-13-28/04-21-25 4.89% 2028-04-20 22,000 21,787 (213)
+
+WASTE CONNECTIONS INC COM
+6 01/09/2023 WCN 169.000 133.21 22,512 136.99 23,151 Separately Managed 639
+
+Total for WASTE CONNECTIONS INC COM 22,512 23,151 639
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 92 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+WELLS FARGO & CO 2.572% 2031-02-11
+
+1 05/04/2020 95000U2J1 25,000.000 99.92 24,987 83.49 20,873 Separately Managed (4,106)
+
+Total for WELLS FARGO & CO 2.572% 2031-02-11 24,987 20,873 (4,106)
+
+WELLS FARGO & CO 5.389% 2034-04-24
+1 07/13/2023 95000U3D3 7,000.000 99.66 6,977 97.47 6,823 Separately Managed (153)
+
+Total for WELLS FARGO & CO 5.389% 2034-04-24 6,977 6,823 (153)
+
+WELLS FARGO & CO 5.574% 2029-07-25
+1 07/18/2023 95000U3E1 10,000.000 100.00 10,000 99.57 9,957 Separately Managed (43)
+
+Total for WELLS FARGO & CO 5.574% 2029-07-25 10,000 9,957 (43)
+
+WELLS FARGO CO NEW COM
+6 07/22/2022 WFC 100.000 43.17 4,317 41.29 4,129 Separately Managed (188)
+
+8 07/22/2022 WFC 100.000 43.09 4,309 41.29 4,129 Separately Managed (180)
+
+9 07/26/2022 WFC 78.000 42.93 3,348 41.29 3,221 Separately Managed (128)
+
+10 07/26/2022 WFC 100.000 43.11 4,311 41.29 4,129 Separately Managed (182)
+
+11 07/20/2023 WFC 97.000 47.01 4,560 41.29 4,005 Separately Managed (555)
+
+Total for WELLS FARGO CO NEW COM 20,845 19,613 (1,232)
+
+WILLIAMS COS INC 3.5% 2030-11-15
+1 05/12/2020 969457BX7 3,000.000 99.63 2,993 88.63 2,659 Separately Managed (330)
+
+2 05/18/2020 969457BX7 2,000.000 99.99 2,000 88.63 1,773 Separately Managed (227)
+
+3 05/19/2020 969457BX7 2,000.000 100.88 2,011 88.63 1,773 Separately Managed (245)
+
+Total for WILLIAMS COS INC 3.5% 2030-11-15 7,004 6,204 (802)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 93 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+WOLFSPEED INC
+
+1 09/29/2021 WOLF 151.000 80.06 12,089 47.82 7,221 Separately Managed (4,869)
+
+Total for WOLFSPEED INC 12,089 7,221 (4,869)
+
+WORLDLINE EUR0.68
+1 02/03/2023 BNFWR44 82.000 46.97 3,852 32.62 2,675 Separately Managed (1,177)
+
+2 02/03/2023 BNFWR44 83.000 46.56 3,865 32.62 2,707 Separately Managed (1,158)
+
+3 02/03/2023 BNFWR44 82.000 47.56 3,900 32.62 2,675 Separately Managed (1,226)
+
+4 02/06/2023 BNFWR44 54.000 46.78 2,526 32.62 1,761 Separately Managed (765)
+
+5 02/06/2023 BNFWR44 61.000 46.77 2,853 32.62 1,990 Separately Managed (863)
+
+6 02/08/2023 BNFWR44 114.000 46.72 5,326 32.62 3,718 Separately Managed (1,607)
+
+7 02/08/2023 BNFWR44 57.000 46.53 2,652 32.62 1,859 Separately Managed (793)
+
+8 02/08/2023 BNFWR44 110.000 46.43 5,108 32.62 3,588 Separately Managed (1,520)
+
+Total for WORLDLINE EUR0.68 30,081 20,973 (9,108)
+
+XCEL ENERGY INC 3.35% 2026-12-01
+1 05/05/2020 98389BAU4 13,000.000 104.57 12,912 93.72 12,184 Separately Managed (1,410)
+
+Total for XCEL ENERGY INC 3.35% 2026-12-01 12,912 12,184 (1,410)
+
+YUM BRANDS INC COM
+1 10/07/2015 YUM 100.000 47.83 4,783 129.38 12,938 Separately Managed 8,155
+
+2 10/19/2015 YUM 58.000 50.05 2,903 129.38 7,504 Separately Managed 4,601
+
+4 11/11/2021 YUM 135.000 125.84 16,988 129.38 17,466 Separately Managed 478
+
+5 03/14/2022 YUM 42.000 114.02 4,789 129.38 5,434 Separately Managed 645
+
+Total for YUM BRANDS INC COM 29,463 43,342 13,879
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 94 of 95Tax Lot Holdings
+
+Account: 44-151500
+As of Aug 31, 2023
+
+GRACE INSTITUTE
+
+Lot ID Acquisition Date Identifier Quantity Unit Cost Federal Cost Price Market Value Type Unrealized
+Gain/Loss
+ZOETIS INC CL A
+
+1 02/07/2022 ZTS 100.000 201.13 20,113 190.51 19,051 Separately Managed (1,062)
+
+2 02/15/2022 ZTS 86.000 197.98 17,026 190.51 16,384 Separately Managed (643)
+
+3 05/25/2022 ZTS 35.000 163.75 5,731 190.51 6,668 Separately Managed 937
+
+4 08/10/2022 ZTS 88.000 173.10 15,233 190.51 16,765 Separately Managed 1,532
+
+Total for ZOETIS INC CL A 58,103 58,868 765
+
+Total 12,454,981 15,819,507 3,375,459
+
+Unrealized Gain/Loss
+Total 3,375,459
+Total (Short Term)
+Total (Long Term)
+
+Reporting Currency: USD
+Run Date: 12/11/2023 Unaudited
+The unrealized gains and losses reflected may vary from the data reported on your financial statements from your custodian. Please refer to these statements for tax planning and reporting purposes.
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.
+
+Page 95 of 95

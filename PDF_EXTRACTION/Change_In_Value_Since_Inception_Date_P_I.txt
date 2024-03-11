@@ -1,0 +1,49 @@
+Change in Value Since Inception Date P/I
+
+Account: 44-151500
+Inception Date: Sep 18, 2000
+As of Sep 20, 2023
+
+GRACE INSTITUTE
+
+Initial contribution Principal Income
+
+Cash 13,450,310 0
+
+Securities at market value 2,206,551 0
+
+Beginning value 15,656,861 0
+
+Change in value
+
+Additional contributions
+
+Cash 5,203,159 218,025
+
+Securities at market value 12,316,939 0
+
+Capital appreciation/depreciation 15,989,471 13,221
+
+Ordinary income received 4,631,042 6,446,225
+
+Transfers between principal and income 1,871,654 (1,871,654)
+
+Distributions
+
+Cash (36,748,935) (4,489,034)
+
+Asset distributions at market value (296) 0
+
+Administration expenses (3,442,636) (211,604)
+
+Fiduciary taxes 0 0
+
+Other expenses (699) (14)
+
+Total change in value (180,302) 105,165
+
+Ending value 15,476,558 105,165
+
+Reporting Currency: USD
+Run Date: 12/21/2023 Unaudited Page 1 of 1
+The report above includes securities over which Capital Group Private Client Services has no investment authority, if your account holds any such securities. For details of any such securities, contact your private wealth advisor.

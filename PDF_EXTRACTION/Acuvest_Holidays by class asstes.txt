@@ -1,0 +1,34 @@
+HOLDINGS BY ASSET CLASS
+
+905-10 REPORT AS OF: DEC 31, 2023
+
+SECURITY DESCRIPTION SYMBOL QUANTITY UNIT COST PRICE TOTAL COST MARKET VALUE UNREALIZED G/L % ASSETS
+
+CASH
+
+CST CASH ALLOCATION CSTCFND.BM 1,070 100.00 101.96 107,016.59 109,117.65 2,101.06 18.21%
+
+US Dollar Deposit Account CashUSDCASH (1,445) 1.00 1.00 (1,445.34) (1,445.34) 0.00 -0.24%
+
+TOTAL CASH 105,571.25 107,672.31 2,101.06 17.97%
+
+EQUITY
+
+CST US EQUITY ALLOCATION CSTFFND.BM 2,913 85.60 95.52 249,377.75 278,293.49 28,915.74 46.44%
+
+TOTAL EQUITY 249,377.75 278,293.49 28,915.74 46.44%
+
+FIXED INCOME
+
+CST BOND ALLOCATION CSTBFND.BM 2,020 100.24 105.57 202,520.82 213,288.42 10,767.60 35.59%
+
+TOTAL FIXED INCOME 202,520.82 213,288.42 10,767.60 35.59%
+
+GRAND TOTAL 557,469.82 599,254.22 41,784.40 100.00%
+
+This document is for your information only and is not an offer to sell, or a solicitation of an offer to buy, the securities or instruments mentioned. The information has been obtained or derived from sources believed by InvestCloud to be reliable, but InvestCloud does not
+represent that it is accurate, complete, or timely, nor does it serve as an official record of your account. Securities prices and market values are estimates only, obtained from multiple sources, and may not reflect tradable prices. Actual prices may be more or less than indicated.
+Equity valuations are based on the prices that appear in this report and are therefore subject to the same limitations. Fees and charges are reflected in your trade confirmations. Your official trade confirmations and/or custodian’s account statements are the official records of
+your account.
+
+Run Date: Feb 26, 2024 4:33 AM EST Page: 1 of 1

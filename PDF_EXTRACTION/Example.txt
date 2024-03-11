@@ -1,0 +1,351 @@
+Client number
+6.38467.3
+
+Reference date
+08.10.2023
+
+Creation date
+02.01.2024
+
+Reference currency
+EUR This report has been generated out of the regular production cycles and can differ
+from the periodic reporting.
+
+Portfolio
+6.38467.3 6000
+
+Client Categorisation
+Private client
+
+Investment report
+
+11 August to 8 October 2023
+
+Anargyros Kostogiannis
+
+This Investment report covers portfolio 6.38467.3 6000 only,
+other portfolios (if any) held under your client number are not part of this report.
+
+Bank J. Safra Sarasin AG
+Bleicherweg 1 / Paradeplatz
+Postfach 2123
+CH-8022 Zürich
+T: +41 (0)58 317 51 51
+F: +41 (0)58 317 51 00
+BIC SARACHBB
+www.jsafrasarasin.ch|  Portfolio    |  Asset performance Anargyros Kostogiannis
+
+Client number Performance overview Return history Return history
+6.38467.3 All performance and return
+EUR figures refer to mentioned period
+Reference date and rely to the past. Past
+08.10.2023 Assets as of 11.08.2023 0,00 Time-weighted return (YTD): -0,95% performance is not a reliable
++ Net money inflow + 800 000,00 indicator of future results.
+Reference currency
+EUR + Net securities inflow + 0,00 5% Performance
+4% The performance is calculated
+- Withholding tax - 0,00 before withholding tax (gross)
+3% and after fees (net).
+Portfolio Adjusted assets 800 000,00 2%
+6.38467.3 6000 + Interest income (gross) + 0,00 1% Money-weighted return
+The money-weighted return
++ Dividend income (gross) + 0,00 0% shows the performance of the
+-1% Jan 23 Feb 23 Mar 23 Apr 23 May 23 Jun 23 Jul 23 Aug 23 Sep 23 Oct 23 Nov 23 Dec 23 portfolio relative to the average
++ Other income (gross) + 0,00 invested capital. The timing of
+- Interest expenses - 0,00 monthly cumulated flows (cash/securities) can
+strongly affect the return. Viewed
+- Price loss - 7 578,20 from the clients perspective this
+would be the proper way of
+calculating the return.
+Assets as of 08.10.2023 792 421,80
+Performance -7 578,20 Time-weighted return
+The time-weighted return is a
+Average invested capital 800 000,00 combination of the monthly
+returns. Each month is of equal
+Money-weighted return -0,95% significance to the evaluation of
+the overall return, irrespective of
+Time-weighted return -0,95% the amount of the invested
+capital. Viewed from a
+comparability perspective the
+time-weighted return would be
+the proper way of calculating the
+return.
+
+Price gain/loss
+Realised and unrealised gains or
+losses
+
+Bank J. Safra Sarasin AG
+Bleicherweg 1 / Paradeplatz
+Postfach 2123
+CH-8022 Zürich
+T: +41 (0)58 317 51 51
+F: +41 (0)58 317 51 00
+BIC SARACHBB
+www.jsafrasarasin.ch
+
+2/8|  Portfolio    |  Breakdown of assets Anargyros Kostogiannis
+
+Client number Reference currency
+6.38467.3 Reference currency of this report
+might not be the currency of client’s
+Reference date domicile. Total assets and returns
+08.10.2023 Other assets may increase or decrease as a
+20,51% result of currency fluctuations.
+Reference currency Cash
+EUR 27,45% Currency (Ccy) rates
+1 XAU = 1730,24218 EUR
+1 EUR = 1,053896 USD
+
+Portfolio
+6.38467.3 6000
+Other assets
+These include alternative and cross
+asset investments as well as real
+estate, commodities/metals and
+other assets.
+
+Equities
+21,27%
+
+Bonds
+30,77% XAU
+
+USD
+
+EUR
+
+Cash Bonds Equities Other assets Total
+
+EUR % EUR % EUR % EUR % EUR %
+Bank J. Safra Sarasin AG EUR 217 519,24 27,45 243 828,50 30,77 35 021,70 4,42 122 784,00 15,49 619 153,44 78,13
+Bleicherweg 1 / Paradeplatz
+Postfach 2123 USD - - - - 133 521,24 16,85 - - 133 521,24 16,85
+CH-8022 Zürich
+T: +41 (0)58 317 51 51 XAU - - - - - - 39 747,12 5,02 39 747,12 5,02
+F: +41 (0)58 317 51 00
+BIC SARACHBB
+www.jsafrasarasin.ch Total 217 519,24 27,45 243 828,50 30,77 168 542,94 21,27 162 531,12 20,51 792 421,80 100,00
+
+3/8➥ Seite
+
+|  Portfolio    |  Positions Anargyros Kostogiannis
+
+Client number Description Nominal/Quantity Ccy Purchase price Price Variation in YTM Valuation in EUR Proportion Currency (Ccy) rates
+6.38467.3 Identification No Redemption Ccy buying rate Ccy rate % % Accrued interest in % 1 XAU = 1730,24218 EUR
+Last purch. date 1 EUR = 1,053896 USD
+Reference date
+08.10.2023 Accrued interest
+Interest accrued up to
+Reference currency Cash reference date
+EUR
+Variation in %
+EUR Variation relative to the
+Current account EUR 2 017,97 EUR 2 017,97 0,25 purchase price since inception
+Portfolio 6.38467.3 4000 / CH42 0875 0063 8467 3400 0 of the position in percent
+6.38467.3 6000
+Fiduciary Time Deposit EUR, 3.7%, 215 000,00 EUR 215 000,00 27,20
+Accounts 15.09.23-15.11.23 5293038 / Banque J. Safra 501,27
+6.38467.3 4000/EUR
+Sarasin (Bahamas) Ltd (86231)
+
+Total EUR 217 519,24 27,45
+
+Total Cash 217 519,24 27,45
+Thereof accrued interest 501,27
+
+Bonds
+
+EUR
+JP Morgan Structured Products BV AMC KM3 Bonds 130 000,00 EUR 99,98 99,26 -0,72 129 038,00 16,28
+in EUR 10 Years Tracker Cert. 23.12.2032 30.12.32
+XS2381795488 / 50666657 18.08.23
+iShares III Plc- Core EUR Government Bond UCITS 1 100,00 EUR 106,55 104,36 -2,06 114 790,50 14,49
+ETF (EUR) -Capitalisation-
+IE00B4WXJJ64 / 10127508 17.08.23
+
+Total EUR 243 828,50 30,77
+
+Total Bonds 243 828,50 30,77
+
+Bank J. Safra Sarasin AG
+Bleicherweg 1 / Paradeplatz
+Postfach 2123
+CH-8022 Zürich
+T: +41 (0)58 317 51 51
+F: +41 (0)58 317 51 00
+BIC SARACHBB
+www.jsafrasarasin.ch
+➥ Continued
+
+4/8|  Portfolio    |  Positions Anargyros Kostogiannis
+
+Client number Description Nominal/Quantity Ccy Purchase price Price Variation in YTM Valuation in EUR Proportion Currency (Ccy) rates
+6.38467.3 Identification No Redemption Ccy buying rate Ccy rate % % Accrued interest in % 1 XAU = 1730,24218 EUR
+Last purch. date 1 EUR = 1,053896 USD
+Reference date
+08.10.2023 Accrued interest
+Interest accrued up to
+Reference currency Equities reference date
+EUR
+Variation in %
+Equities North America Variation relative to the
+Opus-Chartered Issuances SA KM UNICORN Index 120,00 USD 983,44 946,35 -3,77 107 753,99 13,60 purchase price since inception
+Portfolio Underlying Tracker 2022-Perpetual 1,0785 1,0539 2,34 of the position in percent
+6.38467.3 6000
+DE000A3GWGE2 / 115959881 17.08.23
+Accounts Total Equities North America 107 753,99 13,60
+6.38467.3 4000/EUR
+
+Equities European
+iShares II PLC-Core MSCI Europe UCITS ETF EUR 1 260,00 EUR 28,25 27,80 -1,62 35 021,70 4,42
+-Distribution-
+IE00B1YZSC51 / 3246398 17.08.23
+
+Total Equities European 35 021,70 4,42
+
+Equities Emerging Markets
+iShares Plc- Core MSCI Emerging Markets IMI UCITS 930,00 USD 30,13 29,20 -3,09 25 767,25 3,25
+(USD) Capitalisation 1,0684 1,0539 1,37
+IE00BKM4GZ66 / 24209517 17.08.23
+
+Total Equities Emerging Markets 25 767,25 3,25
+
+Total Equities 168 542,94 21,27
+
+Other assets
+
+Cross assets and structured products
+Incometric Fund Fcp- Athos (LF) Global Navigator 12 000,00 EUR 10,36 10,23 -1,22 122 784,00 15,49
+(EUR) -A- Capitalisation
+LU1846656038 / 50179434 18.08.23
+
+Bank J. Safra Sarasin AG Total Cross assets and structured products 122 784,00 15,49
+Bleicherweg 1 / Paradeplatz
+Postfach 2123
+CH-8022 Zürich
+T: +41 (0)58 317 51 51
+F: +41 (0)58 317 51 00
+BIC SARACHBB
+www.jsafrasarasin.ch ➥ Continued
+
+5/8|  Portfolio    |  Positions Anargyros Kostogiannis
+
+Client number Description Nominal/Quantity Ccy Purchase price Price Variation in YTM Valuation in EUR Proportion Currency (Ccy) rates
+6.38467.3 Identification No Redemption Ccy buying rate Ccy rate % % Accrued interest in % 1 XAU = 1730,24218 EUR
+Last purch. date 1 EUR = 1,053896 USD
+Reference date
+08.10.2023 Accrued interest
+Commodities/metals Interest accrued up to
+Reference currency Metal Account Claimaccount Gold Ounces 22,972 XAU 39 747,12 5,02 reference date
+EUR 1 747,6154 1 730,2422 -0,99
+Variation in %
+Total Commodities/metals 39 747,12 5,02 Variation relative to the
+purchase price since inception
+Portfolio Total Other assets 162 531,12 20,51 of the position in percent
+6.38467.3 6000
+
+Accounts
+6.38467.3 4000/EUR
+
+Bank J. Safra Sarasin AG
+Bleicherweg 1 / Paradeplatz
+Postfach 2123
+CH-8022 Zürich
+T: +41 (0)58 317 51 51
+F: +41 (0)58 317 51 00
+BIC SARACHBB
+www.jsafrasarasin.ch
+
+6/8|  Important information regarding inducements Anargyros Kostogiannis
+
+Client number
+6.38467.3
+(see section 27 of the General Terms of Business of Bank J. Safra Sarasin Ltd)
+
+Reference date
+08.10.2023
+Reference currency
+EUR
+This information provides an overview of payments, discounts or other monetary and non-monetary benefits (together referred to as "Inducements") which Bank J. Safra
+Sarasin Ltd (the “Bank”) may receive from product providers (including Group companies of the Bank) in connection with the distribution of financial instruments and other
+services. Such Inducements compensate the Bank for its distribution efforts and expenses and for other services to product providers. The client expressly waives any claim
+to receive such Inducements where the Bank would be required to hand these over to the client under Article 400 of the Swiss Code of Obligations or other regulations. The
+Bank is therefore entitled to keep such Inducements in full.
+
+Portfolio
+6.38467.3 6000
+Inducements are either granted by external product providers or by Group companies of the Bank. They are generally granted in connection with the acquisition or
+distribution of collective investment schemes (the "Investment Funds"), structured products or other products. The level of Inducements may vary according to the product
+and product provider in question and may be subject to change. The following overview shows the currently applicable ranges for such Inducements.
+
+Inducements for Investment Funds (approximate ranges for the most common categories)
+In connection with the distribution of Investment Funds, the amount of Inducements is typically dependent on the volume of shares/units of the Investment Fund held by
+the Bank in the client accounts. They are generally within the following ranges (p.a.):
+
+Category Range of possible payments
+
+Money market funds 0 - 1 %
+Bond funds 0 – 2 %
+Equity and portfolio funds 0 – 2.5 %
+Other funds (real estate, alternative investments etc.) 0 – 3 %
+
+Inducements for structured products
+In the case of structured products, Inducements are generally granted on a one-off basis via a discount on the issue price, as payment of part of the issue price, or in the
+form of a co-structuring fee. Payments generally range between 0 % and 5 % of the issue price.
+
+Inducements for other products
+Inducements may also be received in the course of business transactions conducted with other products (such as certain fiduciary investments). Such payments are
+generally calculated on the basis of the average volume held by the Bank. The range of Inducements is generally between 0 % and 2 % (p.a.).
+
+Other non-monetary benefits
+In addition to, or instead of the Inducements described above, the Bank may receive other non-monetary benefits from product providers, such as financial analyses
+provided free of charge, training of employees or measures to facilitate sales.
+
+Bank J. Safra Sarasin AG
+Bleicherweg 1 / Paradeplatz
+Postfach 2123
+CH-8022 Zürich
+T: +41 (0)58 317 51 51
+F: +41 (0)58 317 51 00
+BIC SARACHBB
+www.jsafrasarasin.ch
+
+7/8|  General information Anargyros Kostogiannis
+
+Client number
+6.38467.3
+The valuations of holdings in this investment report are based on standard information sources. Some valuations are based on approximate prices and values. These are not tax valuations and do not take into account the tax legislation
+in the country where the client is domiciled. The valuations are not binding for the Bank.
+
+Reference date
+08.10.2023
+Unsettled transactions and pledged assets (if any) are not specially marked.
+
+Reference currency
+EUR
+Rating information comes from independent agencies and does not necessarily represent the Bank's opinion. Ratings indicate the credit quality of an issuer and do not constitute a recommendation to buy, hold or sell a financial
+instrument.
+
+Portfolio
+6.38467.3 6000
+Flat fees charged for portfolio management mandates include the fees and costs typically incurred in connection with such services. More detailed information on the fees and costs is available upon request.
+Please note that a surcharge of 15% may apply on the custody fee for foreign securities. Your personal relationship manager is at your disposal to answer any questions.
+
+The client is requested to check this investment report. If the Bank does not receive from the client a complaint in writing within 20 working days from the dispatch date, this investment report shall be deemed to have been accepted by
+the client. Attention is also drawn to the Bank's General Terms of Contract (consisting of the General Terms of Business, Terms and Conditions for Payment and Securities Transactions and Safe Custody and Metal Account Regulations).
+
+An annual report disclosing the total service and financial instrument costs effectively incurred during the previous year can be requested via the client relationship manager.
+
+This investment report is not signed.
+
+Bank J. Safra Sarasin AG
+Bleicherweg 1 / Paradeplatz
+Postfach 2123
+CH-8022 Zürich
+T: +41 (0)58 317 51 51
+F: +41 (0)58 317 51 00
+BIC SARACHBB
+www.jsafrasarasin.ch
+
+8/8
